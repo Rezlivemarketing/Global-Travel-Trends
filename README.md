@@ -5,14 +5,22 @@ Interactive November–December 2026 travel atlas. Live: https://rezlivemarketin
 ## Current experience
 
 - 250 searchable country/territory records, map polygons, small-island markers and continent views.
-- 263 researched major events, festivals, cultural celebrations and commemorations, plus 672 calculated holiday/observance entries. Calendar evidence covers 234 country/territory records; local programmes are not exhaustive.
+- 268 researched major events, festivals, cultural celebrations and commemorations, plus 672 calculated holiday/observance entries. Calendar evidence covers 234 country/territory records; local programmes are not exhaustive.
 - Date-by-date calendar with country, continent and worldwide scopes, event/holiday filters and source-linked day agendas. Published opening-day arrays take precedence over date ranges. Unconfirmed dates remain off the grid.
-- Inbound travel and Outbound travel tabs: 57 historical source-market profiles (56 inbound, 39 outbound), with direction-specific periods, definitions, sources and reported counts where available.
-- Travel evidence for 206 countries/territories, combining market profiles and archived annual indicators. World Bank/UN Tourism indicators cover 205 records and generally end in 2020. Their age, units and pandemic context are explicit. They do not measure 2026 monthly demand.
+- Inbound travel and Outbound travel tabs: 58 historical source-market profiles (57 inbound, 39 outbound), with direction-specific periods, definitions, sources and reported counts where available.
+- Travel evidence for 207 countries/territories, combining market profiles and archived annual indicators. World Bank/UN Tourism indicators cover 205 records and generally end in 2020. Their age, units and pandemic context are explicit. They do not measure 2026 monthly demand.
 - Actual historical November/December 2024 observations for the United States and Mauritius; other profiles retain their own historical periods.
-- 20 seasonal profiles, JSON country briefs, source library, local photography, responsive layouts and agent-readable data. The introductory hero requested for removal is absent.
+- 21 seasonal profiles, JSON country briefs, source library, local photography, responsive layouts and agent-readable data. The introductory hero requested for removal is absent.
 
 The original automated source index contains 1,966 retrieved pages from 1,009 website hosts, after deduplication and detected policy/error exclusions. This background index is not 1,966 independently verified seasonal claims. Expanded primary research remains separately attributed per event and statistical record.
+
+## Detailed country rankings and cities
+
+India now uses the verified country annexes in **India Tourism Statistics 2026** for annual 2025: all 220 outbound and 215 inbound individually reported markets are retained. Default display shows 20 positions, with full-list search retaining Hong Kong at its actual #22 rank. US is #4 and Vietnam #13. Counts are departures across all recorded purposes, including repeat trips, rather than unique holidaymakers. Purpose shares and derived leisure estimates are labelled. Source pages, 2024 comparisons, historical seasonality and source consistency notes are in `research/india-top20.json`.
+
+Greenland adds 33 named cruise residence markets, 12 named foreign accommodation-night markets, all 19 ranked ports, separate accommodation/cruise totals, city guides and seasonal context. Both observations tied at rank 20 are shown. Airport routes and passenger residence are not used to invent resident outbound destinations.
+
+The European expansion retains up to 20 separately reported country markets per direction. Where the source supplies fewer observations, the actual available list remains shorter. City/town guides cover 53 destinations with official tourism links. These are planning examples, not measured origin-specific city rankings; Greenland port statistics remain a separate measured table.
 
 ## Development
 

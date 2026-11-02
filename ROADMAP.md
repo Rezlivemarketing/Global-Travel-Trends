@@ -29,3 +29,13 @@ Validation: `npm run build` and `npm run verify`. Research retrieval is an index
 - [x] Added country-by-country coverage data, primary-source research bundles and reproducible retrieval/merge scripts.
 
 Revision verification covers hero removal and tab labels; continuous and selected-day calendar dates; unknown-date exclusion; country/world scope; direction-specific statistical sources; source periods; archived numerical observations; desktop/mobile browser interaction; and production asset equality after publication.
+
+## Top-20 and city-detail revision
+
+- [x] Re-audited India against the latest published 2026 compendium’s 2025 country annexes. Retained220 outbound and215 inbound markets, source-page links, exact counts/shares, purpose splits and historical seasonality. US#4, Vietnam#13 and HongKong#22 retain their true ranks.
+- [x] Added default top20, full-market search, show-all controls, expandable country details and precise counts. A rank20tie includes both observations. A source with fewer than20 country rows stays shorter.
+- [x] Expanded34 Eurostat market profiles to up to20 individually reported countries per direction, preserving definitions, counts and quality flags.
+- [x] Added Greenland’s33 cruise residence markets,12 foreign accommodation-night markets, all19rankedports, five city guides, seasonal context and five celebrations. Distinct statistical measures remain separate; no unverified outbound rank is invented.
+- [x] Added official city/town guidance for53 destinations, including every destination in India’s top20. City guidance is not misrepresented as an origin-specific measured city ranking.
+
+Validation asserts India’s exact key ranks/counts and total, HongKong search beyond20, top20 city-guide coverage, Greenland rank20tie, hotel/cruise unit separation, complete19port totals, and continued calendar/data integrity.

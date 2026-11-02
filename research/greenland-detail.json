@@ -1,0 +1,609 @@
+{
+  "researchedAt": "2026-11-02",
+  "events": [
+    {
+      "iso2": "GL",
+      "title": "First Advent — Christmas tree lighting",
+      "month": [
+        11
+      ],
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "dateStatus": "Calculated 2026 date of the first Sunday of Advent; annual national tourism description, town-specific 2026 arrangements unverified",
+      "description": "Communities mark the start of the Christmas season with illuminated trees, songs and orange-red window stars.",
+      "url": "https://visitgreenland.com/activities/christmas/"
+    },
+    {
+      "iso2": "GL",
+      "title": "Saint Lucia candle processions",
+      "month": [
+        12
+      ],
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "dateStatus": "Fixed annual December 13 tradition; individual 2026 school and community programmes unverified",
+      "description": "Children carry lights and sing in local schools and community settings. This is a cultural observance, not a confirmed public ticketed festival.",
+      "url": "https://visitgreenland.com/activities/christmas/"
+    },
+    {
+      "iso2": "GL",
+      "title": "Greenlandic Christmas Eve",
+      "month": [
+        12
+      ],
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "dateStatus": "Fixed annual December 24 celebration; 2026 service times and public programmes to confirm locally",
+      "description": "Christmas Eve centres on family meals, singing, gifts and dancing around the tree; church and community traditions vary by town.",
+      "url": "https://visitgreenland.com/activities/christmas/"
+    },
+    {
+      "iso2": "GL",
+      "title": "Christmas markets — local seasonal watchlist",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Annual December markets documented by Visit Greenland; no nationwide or town-specific 2026 dates verified",
+      "description": "Look for locally made ceramics, textiles and seasonal food. Market dates are announced locally and should be checked before planning a visit.",
+      "url": "https://visitgreenland.com/activities/christmas/"
+    },
+    {
+      "iso2": "GL",
+      "title": "New Year's Eve in Ilulissat",
+      "month": [
+        12
+      ],
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "dateStatus": "Fixed annual New Year's Eve; individual 2026 public programmes unverified",
+      "description": "Visit Greenland highlights Ilulissat for New Year celebrations by the Icefjord; book local meals and activities directly.",
+      "url": "https://visitgreenland.com/plan-your-trip/best-time-to-visit/"
+    }
+  ],
+  "travel": {
+    "GL": {
+      "period": "2025",
+      "label": "Cruise passenger residence markets — annual historical counts",
+      "priority": 100,
+      "inbound": [
+        "United States",
+        "Germany",
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "France",
+        "China",
+        "Switzerland",
+        "Spain",
+        "Netherlands",
+        "Italy",
+        "Denmark",
+        "Austria",
+        "Belgium",
+        "Norway",
+        "Poland",
+        "Hong Kong",
+        "Japan",
+        "Sweden",
+        "Finland",
+        "Luxembourg",
+        "Czechia",
+        "Russia",
+        "Brazil",
+        "Chile",
+        "Israel",
+        "Mexico",
+        "Türkiye"
+      ],
+      "outbound": [],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 47577
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 10926
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 6739
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 6357
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 5174
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 3039
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 2527
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 1304
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1126
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 890
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 882
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 628
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 570
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 402
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 349
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 273
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 262
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 175
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 168
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 72
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 72
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 38
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 8
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 4
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 2
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 2
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 1
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 1
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 0
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 0
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 0
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 0
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 0
+        }
+      ],
+      "outboundMetrics": [],
+      "inboundUnit": "Cruise passengers by country or territory of residence",
+      "inboundScope": "33 individually named markets are published; all are retained here. Other residences: 4,329. Total: 93,897. This is cruise travel only, not all inbound travellers.",
+      "rankingNote": "Sort the reported counts to show up to 20 markets; Finland and Luxembourg are tied at 72 around the 20th position. An interface limited to 20 must disclose this tie. No rank has been invented for a grouped Other category.",
+      "note": "Historical annual cruise residence data, not November–December 2026 demand. Counts exclude neither all repeat journeys nor all non-holiday purposes by assumption. Hotel nights and city port visits below are separate measures and must not be added. No resident outbound destination ranking was established in reviewed official sources; air-departure tables classify passengers by residence, not destination.",
+      "url": "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU10/TUXKRL.px/table/tableViewLayout1/?loadedQueryId=3d71a657-5000-42c7-9d3e-e7eead201eb2&timeType=from&timeValue=2015",
+      "inboundUrl": "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU10/TUXKRL.px/table/tableViewLayout1/?loadedQueryId=3d71a657-5000-42c7-9d3e-e7eead201eb2&timeType=from&timeValue=2015",
+      "outboundUrl": "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU20/TUXFLY.px/table/tableViewLayout1/?loadedQueryId=e7d8bc3e-3be4-4549-8079-2872a4ea5625&timeType=top&timeValue=3",
+      "outboundStatus": "Official resident outbound destination-country ranking not verified",
+      "hotelMarkets": {
+        "period": "2025",
+        "unit": "Accommodation nights by country of residence",
+        "metrics": [
+          {
+            "country": "Denmark",
+            "code": "DK",
+            "value": 98715
+          },
+          {
+            "country": "United States",
+            "code": "US",
+            "value": 15473
+          },
+          {
+            "country": "Germany",
+            "code": "DE",
+            "value": 11548
+          },
+          {
+            "country": "Iceland",
+            "code": "IS",
+            "value": 6363
+          },
+          {
+            "country": "United Kingdom",
+            "code": "GB",
+            "value": 5331
+          },
+          {
+            "country": "France",
+            "code": "FR",
+            "value": 3640
+          },
+          {
+            "country": "Canada",
+            "code": "CA",
+            "value": 3448
+          },
+          {
+            "country": "Italy",
+            "code": "IT",
+            "value": 3222
+          },
+          {
+            "country": "Sweden",
+            "code": "SE",
+            "value": 3055
+          },
+          {
+            "country": "Norway",
+            "code": "NO",
+            "value": 2830
+          },
+          {
+            "country": "Netherlands",
+            "code": "NL",
+            "value": 1500
+          },
+          {
+            "country": "Japan",
+            "code": "JP",
+            "value": 596
+          }
+        ],
+        "note": "The hotel table publishes 12 named foreign residence markets, not a Top 20. Excludes Greenland-resident nights (190,929), Other Europe (14,928), Other countries (20,173) and unknown residence (15,095). Guests can buy several nights; this is not a visitor headcount.",
+        "url": "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU30/TUXHOT.px/table/tableViewLayout1/?loadedQueryId=0ba8cba0-fb3c-4517-83cf-d28a00130dac&timeType=from&timeValue=1994"
+      },
+      "sources": [
+        "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU10/TUXKRL.px/table/tableViewLayout1/?loadedQueryId=3d71a657-5000-42c7-9d3e-e7eead201eb2&timeType=from&timeValue=2015",
+        "https://stat.gl/publ/da/TU/202605/pdf/2025%20Krydstogtstatistik.pdf",
+        "https://bank.stat.gl/pxweb/da/Greenland/Greenland__TU__TU30/TUXHOT.px/table/tableViewLayout1/?loadedQueryId=0ba8cba0-fb3c-4517-83cf-d28a00130dac&timeType=from&timeValue=1994",
+        "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      ]
+    }
+  },
+  "destinationGuides": {
+    "GL": {
+      "title": "Greenland city guide",
+      "portRanking": [
+        {
+          "name": "Qaqortoq",
+          "value": 46327,
+          "rank": 1,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Nuuk",
+          "value": 44156,
+          "rank": 2,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Paamiut",
+          "value": 29873,
+          "rank": 3,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Nanortalik",
+          "value": 23900,
+          "rank": 4,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Sisimiut",
+          "value": 16669,
+          "rank": 5,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Ilulissat",
+          "value": 10931,
+          "rank": 6,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Kangerlussuaq",
+          "value": 7264,
+          "rank": 7,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Uummannaq",
+          "value": 6327,
+          "rank": 8,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Qeqertarsuaq",
+          "value": 5702,
+          "rank": 9,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Ittoqqortoormiit",
+          "value": 5634,
+          "rank": 10,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Narsaq",
+          "value": 4796,
+          "rank": 11,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Tasiilaq",
+          "value": 2714,
+          "rank": 12,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Maniitsoq",
+          "value": 1738,
+          "rank": 13,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Narsarsuaq",
+          "value": 1707,
+          "rank": 14,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Qaanaaq",
+          "value": 1505,
+          "rank": 15,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Qassiarsuk",
+          "value": 1314,
+          "rank": 16,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Aasiaat",
+          "value": 1248,
+          "rank": 17,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Qasigiannguit",
+          "value": 1002,
+          "rank": 18,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        },
+        {
+          "name": "Upernavik",
+          "value": 867,
+          "rank": 19,
+          "unit": "cruise passenger port visits",
+          "period": "2025"
+        }
+      ],
+      "portRankingLabel": "All 19 reported Greenland ports ranked by 2025 cruise passenger visits",
+      "portRankingNote": "The same passenger can visit several ports. Qassiarsuk is exempt from port charges, so reporting is incomplete there. City guide cards are selected examples, not the top five ports.",
+      "portRankingUrl": "https://stat.gl/publ/da/TU/202605/pdf/2025%20Krydstogtstatistik.pdf",
+      "description": "Five practical bases with official destination guidance. These are places to visit within Greenland, not statistically ranked origin or outbound cities.",
+      "cities": [
+        {
+          "name": "Nuuk",
+          "description": "Capital culture, museums, cafés and fjord scenery. A practical base for November–December with Christmas lights and local markets.",
+          "url": "https://visitgreenland.com/destinations/nuuk/",
+          "cruisePortVisits2025": 44156
+        },
+        {
+          "name": "Ilulissat",
+          "description": "UNESCO Icefjord town with iceberg scenery, northern lights and winter darkness. Dog-sled departures depend on snow and operator schedules.",
+          "url": "https://visitgreenland.com/destinations/ilulissat/",
+          "cruisePortVisits2025": 10931
+        },
+        {
+          "name": "Sisimiut",
+          "description": "Arctic Circle town with a large backcountry. The official guide places October–December in its quieter conference season; main dog-sled season is January–April.",
+          "url": "https://visitgreenland.com/destinations/sisimiut/",
+          "cruisePortVisits2025": 16669
+        },
+        {
+          "name": "Qaqortoq",
+          "description": "South Greenland's harbour town, art and Norse heritage gateway. Most excursions run June–September; winter visitors should arrange services ahead.",
+          "url": "https://visitgreenland.com/destinations/qaqortoq/",
+          "cruisePortVisits2025": 46327
+        },
+        {
+          "name": "Tasiilaq",
+          "description": "East Greenland town reached through Kulusuk. Official guidance identifies February–April as its main winter activity season; November–December services need checking.",
+          "url": "https://visitgreenland.com/destinations/tasiilaq/",
+          "cruisePortVisits2025": 2714
+        }
+      ],
+      "cityMetricLabel": "2025 annual cruise passenger port visits",
+      "cityMetricNote": "Port visits can count the same cruise passenger in several towns. These are not unique people, hotel arrivals, resident outbound trips or November–December city demand.",
+      "cityMetricUrl": "https://stat.gl/publ/da/TU/202605/pdf/2025%20Krydstogtstatistik.pdf",
+      "accessNote": "Nuuk has year-round connections via Copenhagen and Keflavík. Qaqortoq's airport opened April 16, 2026. Route schedules indicate access, not where Greenland residents ultimately holiday.",
+      "accessUrl": "https://visitgreenland.com/plan-your-trip/how-to-get-to-greenland/",
+      "url": "https://visitgreenland.com/destinations/"
+    }
+  },
+  "seasonal": {
+    "GL": {
+      "nov": "A quieter Arctic month for northern lights, indoor arts and local culture. Polar darkness has begun in northern communities while southern towns retain short daylight. First Advent falls on November 29 in 2026; local tree-lighting arrangements need confirmation.",
+      "dec": "Christmas stars, community celebrations and small local fairs shape December. Northern towns experience polar darkness; Nuuk retains some daylight. Snow-dependent activities require local confirmation; many summer excursions do not run.",
+      "url": "https://visitgreenland.com/plan-your-trip/best-time-to-visit/",
+      "sources": [
+        "https://visitgreenland.com/plan-your-trip/best-time-to-visit/",
+        "https://visitgreenland.com/activities/christmas/",
+        "https://visitgreenland.com/plan-your-trip/weather-and-climate/"
+      ]
+    }
+  },
+  "greenlandStatistics": {
+    "metrics": [
+      {
+        "label": "Accommodation guest registrations",
+        "value": 169366,
+        "period": "2025",
+        "unit": "guest registrations",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Accommodation nights",
+        "value": 396846,
+        "period": "2025",
+        "unit": "nights",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Accommodation guests resident in Greenland",
+        "value": 84215,
+        "period": "2025",
+        "unit": "guest registrations",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Accommodation guests resident in Denmark",
+        "value": 39783,
+        "period": "2025",
+        "unit": "guest registrations",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Accommodation guests with other foreign residence",
+        "value": 40486,
+        "period": "2025",
+        "unit": "guest registrations",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Accommodation guests with unknown residence",
+        "value": 4882,
+        "period": "2025",
+        "unit": "guest registrations",
+        "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+      },
+      {
+        "label": "Cruise passengers",
+        "value": 93897,
+        "period": "2025",
+        "unit": "passengers",
+        "url": "https://stat.gl/publ/da/TU/202605/pdf/2025%20Krydstogtstatistik.pdf"
+      },
+      {
+        "label": "Cruise passenger visits to ports",
+        "value": 213674,
+        "period": "2025",
+        "unit": "port visit occurrences",
+        "url": "https://stat.gl/publ/da/TU/202605/pdf/2025%20Krydstogtstatistik.pdf"
+      }
+    ],
+    "note": "Accommodation coverage comprises reporting hotels, hostels and other lodging; the release describes 46 reporting establishments. Residence is not nationality. Domestic registrations and unknown residence are explicitly separated. These annual historical measures cover different populations and must not be summed into a total visitor count.",
+    "url": "https://stat.gl/publ/da/TU/202603/pdf/2025%20Overnatninger.pdf"
+  }
+}

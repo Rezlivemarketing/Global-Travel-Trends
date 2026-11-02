@@ -1,0 +1,666 @@
+{
+  "researchedAt": "2026-11-02",
+  "scope": "Official national, regional and city tourism sources. Original concise city-planning descriptions; no origin-specific city ranking or booking forecast.",
+  "destinations": {
+    "FR": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.france.fr/en/destination/",
+      "cities": [
+        {
+          "name": "Paris",
+          "description": "Museums, major monuments and neighbourhood walks form a broad cultural city stay; allow time for the Seine-side districts.",
+          "url": "https://www.france.fr/en/destination/"
+        },
+        {
+          "name": "Lyon",
+          "description": "A historic river city with a strong food culture and varied museums; combine its old quarters with the Presqu'île.",
+          "url": "https://www.france.fr/en/destination/"
+        },
+        {
+          "name": "Strasbourg",
+          "description": "Half-timbered streets, canals and Alsatian heritage suit a compact cultural stay; use the dated event calendar for Christmas-market programmes.",
+          "url": "https://www.france.fr/en/destination/"
+        },
+        {
+          "name": "Bordeaux",
+          "description": "Historic architecture and wine-related cultural experiences provide a city base for exploring the wider Bordeaux region.",
+          "url": "https://www.france.fr/en/destination/"
+        },
+        {
+          "name": "Nice",
+          "description": "The Riviera city combines an old town, seafront promenades and art collections; distinguish city sightseeing from seasonal beach activities.",
+          "url": "https://www.france.fr/en/destination/"
+        }
+      ]
+    },
+    "ES": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.spain.info/en/destinations/",
+      "cities": [
+        {
+          "name": "Madrid",
+          "description": "Major art museums, royal heritage and distinct neighbourhoods support a museum-and-food city break in the national capital.",
+          "url": "https://www.spain.info/en/destinations/"
+        },
+        {
+          "name": "Barcelona",
+          "description": "Modernist architecture, museums and urban neighbourhoods offer varied sightseeing; check individual monument entry arrangements with official operators.",
+          "url": "https://www.spain.info/en/destinations/"
+        },
+        {
+          "name": "Seville",
+          "description": "Andalusian architecture, royal-palace heritage and flamenco traditions give the city a strong cultural focus.",
+          "url": "https://www.spain.info/en/destinations/"
+        },
+        {
+          "name": "Valencia",
+          "description": "Historic streets and contemporary cultural architecture can be combined with the city food scene and nearby coastal landscapes.",
+          "url": "https://www.spain.info/en/destinations/"
+        },
+        {
+          "name": "Málaga",
+          "description": "Museums, the historic centre and a working Mediterranean waterfront make a useful city base on the Costa del Sol.",
+          "url": "https://www.spain.info/en/destinations/"
+        }
+      ]
+    },
+    "IT": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane",
+      "cities": [
+        {
+          "name": "Rome",
+          "description": "Ancient monuments, churches and neighbourhood food culture offer a wide-ranging historic-city stay; major sights require separate scheduling.",
+          "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane"
+        },
+        {
+          "name": "Venice",
+          "description": "Canals, historic buildings and art collections shape a distinctive walking-and-water city visit; consult current official access arrangements.",
+          "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane"
+        },
+        {
+          "name": "Florence",
+          "description": "Renaissance art and architecture are the central draw, with major museums and the compact historic centre requiring thoughtful planning.",
+          "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane"
+        },
+        {
+          "name": "Milan",
+          "description": "Design, fashion, museums and cathedral-area heritage suit an urban cultural trip, with major performances and exhibitions scheduled separately.",
+          "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane"
+        },
+        {
+          "name": "Naples",
+          "description": "A lively historic centre and strong food traditions combine with museums and access to wider Campania heritage sites.",
+          "url": "https://www.italia.it/en/italy/grandi-destinazioni-italiane"
+        }
+      ]
+    },
+    "GB": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitbritain.com/en/destinations",
+      "cities": [
+        {
+          "name": "London",
+          "description": "Museums, theatre and historic landmarks support a varied capital-city trip; its neighbourhoods reward time beyond the principal sights.",
+          "url": "https://www.visitbritain.com/en/destinations"
+        },
+        {
+          "name": "Edinburgh",
+          "description": "The castle, historic Old Town and cultural institutions provide a compact city stay; consult dated Hogmanay listings for year-end events.",
+          "url": "https://www.visitbritain.com/en/destinations"
+        },
+        {
+          "name": "Manchester",
+          "description": "Football heritage, music and contemporary culture distinguish this northern city, with museums and neighbourhood dining adding variety.",
+          "url": "https://www.visitbritain.com/en/destinations"
+        },
+        {
+          "name": "Bath",
+          "description": "Roman heritage and Georgian architecture make a focused historic city break, with museums and a walkable central district.",
+          "url": "https://www.visitbritain.com/en/destinations"
+        },
+        {
+          "name": "York",
+          "description": "Medieval streets, the city walls and major heritage attractions suit a compact cultural stop in northern England.",
+          "url": "https://www.visitbritain.com/en/destinations"
+        }
+      ]
+    },
+    "DE": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.germany.travel/en/cities-culture/magic-cities.html",
+      "cities": [
+        {
+          "name": "Berlin",
+          "description": "National history, museums and diverse neighbourhoods shape a broad urban itinerary; allow time for both major monuments and local districts.",
+          "url": "https://www.germany.travel/en/cities-culture/magic-cities.html"
+        },
+        {
+          "name": "Munich",
+          "description": "Museums, Bavarian cultural heritage and the historic centre provide a southern-city base, with regional excursions requiring separate planning.",
+          "url": "https://www.germany.travel/en/cities-culture/magic-cities.html"
+        },
+        {
+          "name": "Hamburg",
+          "description": "Maritime heritage, waterfront districts and music venues give this port city a distinct cultural character.",
+          "url": "https://www.germany.travel/en/cities-culture/magic-cities.html"
+        },
+        {
+          "name": "Cologne",
+          "description": "Cathedral heritage, museums and Rhine-side neighbourhoods provide a compact city break with a strong local cultural identity.",
+          "url": "https://www.germany.travel/en/cities-culture/magic-cities.html"
+        },
+        {
+          "name": "Dresden",
+          "description": "Art collections and reconstructed baroque landmarks anchor a historic city stay; dated Striezelmarkt entries cover the Christmas programme.",
+          "url": "https://www.germany.travel/en/cities-culture/magic-cities.html"
+        }
+      ]
+    },
+    "GR": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitgreece.gr/en",
+      "cities": [
+        {
+          "name": "Athens",
+          "description": "Ancient sites and major museums combine with modern neighbourhoods for a capital-city cultural stay; site opening arrangements should be checked.",
+          "url": "https://www.visitgreece.gr/en"
+        },
+        {
+          "name": "Thessaloniki",
+          "description": "Byzantine heritage, museums and a lively waterfront distinguish the northern city, with food culture adding a strong local focus.",
+          "url": "https://www.visitgreece.gr/en"
+        },
+        {
+          "name": "Chania",
+          "description": "A historic Cretan harbour and old-town streets support a heritage-focused stay; regional transport and seasonal services need separate checks.",
+          "url": "https://www.visitgreece.gr/en"
+        },
+        {
+          "name": "Heraklion",
+          "description": "Archaeological collections and urban Cretan life make the city a cultural gateway for the wider region, including nearby ancient sites.",
+          "url": "https://www.visitgreece.gr/en"
+        },
+        {
+          "name": "Rhodes Town",
+          "description": "The medieval walled city and harbour districts provide a concentrated heritage visit; do not equate city sightseeing with summer resort services.",
+          "url": "https://www.visitgreece.gr/en"
+        }
+      ]
+    },
+    "PT": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitportugal.com/en/experiencias/miniferias",
+      "cities": [
+        {
+          "name": "Lisbon",
+          "description": "Hillside neighbourhoods, viewpoints and museums support a varied capital stay, with distinct districts connected by urban transport.",
+          "url": "https://www.visitportugal.com/en/experiencias/miniferias"
+        },
+        {
+          "name": "Porto",
+          "description": "The historic riverfront, architecture and regional wine culture make the city a northern Portugal base.",
+          "url": "https://www.visitportugal.com/en/experiencias/miniferias"
+        },
+        {
+          "name": "Coimbra",
+          "description": "University heritage and the historic hilltop centre offer a focused cultural stop between the main coastal cities.",
+          "url": "https://www.visitportugal.com/en/experiencias/miniferias"
+        },
+        {
+          "name": "Faro",
+          "description": "The Algarve capital combines a walled historic quarter with access to the Ria Formosa region; excursions require operator checks.",
+          "url": "https://www.visitportugal.com/en/experiencias/miniferias"
+        },
+        {
+          "name": "Funchal",
+          "description": "Madeira's principal city offers gardens, museums and island traditions; consult dated tourism-board entries for its Christmas and New Year programme.",
+          "url": "https://www.visitportugal.com/en/experiencias/miniferias"
+        }
+      ]
+    },
+    "NL": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities",
+      "cities": [
+        {
+          "name": "Amsterdam",
+          "description": "Canals, museums and varied neighbourhoods create a broad cultural city stay; dated listings cover the winter light-festival programme.",
+          "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities"
+        },
+        {
+          "name": "Rotterdam",
+          "description": "Modern architecture, design and a major port setting distinguish the city from traditional Dutch canal-town itineraries.",
+          "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities"
+        },
+        {
+          "name": "Utrecht",
+          "description": "A compact historic centre and canal-side areas suit an urban cultural stop with easy access to wider regional experiences.",
+          "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities"
+        },
+        {
+          "name": "The Hague",
+          "description": "Museums, national institutions and a nearby coastline provide a mix of culture and city-by-the-sea experiences.",
+          "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities"
+        },
+        {
+          "name": "Maastricht",
+          "description": "Historic streets, regional food and a southern Dutch setting make a different style of city break from the larger western cities.",
+          "url": "https://www.holland.com/global/tourism/visit-the-netherlands/visit-the-cities"
+        }
+      ]
+    },
+    "BE": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitflanders.com/en/flemish-destinations",
+      "cities": [
+        {
+          "name": "Brussels",
+          "description": "The Grand-Place, museums and varied neighbourhoods support a capital-city cultural stay; Winter Wonders dates are in the event calendar.",
+          "url": "https://www.visitflanders.com/en/flemish-destinations"
+        },
+        {
+          "name": "Bruges",
+          "description": "Canals and a preserved historic centre suit a compact heritage visit, with museums offering more context than a brief photo stop.",
+          "url": "https://www.visitflanders.com/en/flemish-destinations"
+        },
+        {
+          "name": "Ghent",
+          "description": "Historic waterfronts, major churches and contemporary city life provide a balanced cultural stay.",
+          "url": "https://www.visitflanders.com/en/flemish-destinations"
+        },
+        {
+          "name": "Antwerp",
+          "description": "Art, fashion and historic architecture combine in a major Belgian port city with a distinctive design identity.",
+          "url": "https://www.visitflanders.com/en/flemish-destinations"
+        },
+        {
+          "name": "Leuven",
+          "description": "University heritage, historic squares and a compact centre offer a smaller-city alternative to the principal Belgian city circuit.",
+          "url": "https://www.visitflanders.com/en/flemish-destinations"
+        }
+      ]
+    },
+    "AT": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.austria.info/en-us/inspiration/cities/",
+      "cities": [
+        {
+          "name": "Vienna",
+          "description": "Imperial landmarks, museums, music and coffee-house culture support a broad capital stay; performances and Christmas events have separate schedules.",
+          "url": "https://www.austria.info/en-us/inspiration/cities/"
+        },
+        {
+          "name": "Salzburg",
+          "description": "Historic streets and musical heritage anchor a compact cultural trip; the dated market and procession records cover specific Advent events.",
+          "url": "https://www.austria.info/en-us/inspiration/cities/"
+        },
+        {
+          "name": "Innsbruck",
+          "description": "An Alpine urban setting combines historic architecture with access to mountain experiences; operating conditions must be checked with local providers.",
+          "url": "https://www.austria.info/en-us/inspiration/cities/"
+        },
+        {
+          "name": "Graz",
+          "description": "A historic centre and contemporary design scene provide a cultural alternative to the more familiar Vienna–Salzburg route.",
+          "url": "https://www.austria.info/en-us/inspiration/cities/"
+        },
+        {
+          "name": "Linz",
+          "description": "Media art, technology-focused museums and Danube-side urban culture distinguish this northern Austrian city.",
+          "url": "https://www.austria.info/en-us/inspiration/cities/"
+        }
+      ]
+    },
+    "CH": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/",
+      "cities": [
+        {
+          "name": "Zurich",
+          "description": "Museums, historic neighbourhoods and a lakeside setting support a varied urban stay, with contemporary districts adding another cultural layer.",
+          "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/"
+        },
+        {
+          "name": "Geneva",
+          "description": "A lakefront setting, international institutions and museums suit a cultural city break at the western end of Lake Geneva.",
+          "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/"
+        },
+        {
+          "name": "Lucerne",
+          "description": "The historic centre, lake and mountain setting combine city heritage with regional experiences; excursions have their own operating calendars.",
+          "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/"
+        },
+        {
+          "name": "Bern",
+          "description": "The historic old town and national museums provide a concentrated heritage visit in Switzerland's federal city.",
+          "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/"
+        },
+        {
+          "name": "Basel",
+          "description": "Major art collections and Rhine-side neighbourhoods support a museum-focused trip; its Christmas market has a separate dated event entry.",
+          "url": "https://www.myswitzerland.com/en-ch/microsites/ch/a-short-trip-through-switzerlands-cities/"
+        }
+      ]
+    },
+    "CZ": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities",
+      "cities": [
+        {
+          "name": "Prague",
+          "description": "Historic quarters, major landmarks and cultural institutions support a varied city stay; the calendar separates individual Christmas markets and festivals.",
+          "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities"
+        },
+        {
+          "name": "Brno",
+          "description": "Modern architecture, museums and a lively Moravian urban setting offer a contrasting city experience to Prague.",
+          "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities"
+        },
+        {
+          "name": "Olomouc",
+          "description": "Historic squares and baroque heritage support a compact cultural stop in Moravia, with local food adding context.",
+          "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities"
+        },
+        {
+          "name": "Český Krumlov",
+          "description": "The historic South Bohemian town combines castle-area heritage with a compact riverside centre; individual attractions have separate schedules.",
+          "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities"
+        },
+        {
+          "name": "Karlovy Vary",
+          "description": "Spa-town architecture and colonnades give this western Bohemian destination a distinct wellness-and-heritage focus.",
+          "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities"
+        }
+      ]
+    },
+    "PL": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.poland.travel/en/cities/",
+      "cities": [
+        {
+          "name": "Warsaw",
+          "description": "Museums, a rebuilt historic core and contemporary neighbourhoods offer a broad introduction to Poland's national history and city life.",
+          "url": "https://www.poland.travel/en/cities/"
+        },
+        {
+          "name": "Kraków",
+          "description": "The historic centre, Wawel-area heritage and museums support a cultural stay; the dated szopka contest adds a specific December tradition.",
+          "url": "https://www.poland.travel/en/cities/"
+        },
+        {
+          "name": "Gdańsk",
+          "description": "Maritime and twentieth-century history combine with a distinctive historic centre on Poland's Baltic coast.",
+          "url": "https://www.poland.travel/en/cities/"
+        },
+        {
+          "name": "Wrocław",
+          "description": "Historic squares, river islands and cultural attractions make a varied western Polish city break.",
+          "url": "https://www.poland.travel/en/cities/"
+        },
+        {
+          "name": "Poznań",
+          "description": "An historic centre and regional food traditions offer a compact urban stop between the larger Polish city destinations.",
+          "url": "https://www.poland.travel/en/cities/"
+        }
+      ]
+    },
+    "HU": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://visithungary.com/category/destinations",
+      "cities": [
+        {
+          "name": "Budapest",
+          "description": "Danube-side landmarks, museums and bathing traditions support a varied capital stay; the Advent Basilica market has a separate dated event listing.",
+          "url": "https://visithungary.com/category/destinations"
+        },
+        {
+          "name": "Debrecen",
+          "description": "A major eastern Hungarian city offers cultural institutions and urban sightseeing alongside access to the wider region.",
+          "url": "https://visithungary.com/category/destinations"
+        },
+        {
+          "name": "Pécs",
+          "description": "Built heritage and artistic experiences give the southern city a strong cultural focus, with the surrounding region offering additional context.",
+          "url": "https://visithungary.com/category/destinations"
+        },
+        {
+          "name": "Eger",
+          "description": "A historic centre, castle heritage and regional wine traditions distinguish this northern Hungarian city.",
+          "url": "https://visithungary.com/category/destinations"
+        },
+        {
+          "name": "Szeged",
+          "description": "Architecture, a Tisza-side setting and bathing traditions provide a different southern-city experience.",
+          "url": "https://visithungary.com/category/destinations"
+        }
+      ]
+    },
+    "HR": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://croatia.hr/en-gb",
+      "cities": [
+        {
+          "name": "Zagreb",
+          "description": "Museums, historic upper-city districts and contemporary cultural life support a capital stay; Advent Zagreb has a separately confirmed event period.",
+          "url": "https://www.infozagreb.hr/en"
+        },
+        {
+          "name": "Split",
+          "description": "A city centre shaped by the Diocletian palace complex offers history, local food and a working waterfront.",
+          "url": "https://visitsplit.com/en/"
+        },
+        {
+          "name": "Dubrovnik",
+          "description": "Historic walls and the old-town fabric are the main cultural draw; check local access and attraction operating arrangements.",
+          "url": "https://experiencedubrovnik.com/en/"
+        },
+        {
+          "name": "Zadar",
+          "description": "Historic streets and waterfront public spaces provide a northern Dalmatian city base for cultural and regional visits.",
+          "url": "https://zadar.travel/"
+        },
+        {
+          "name": "Pula",
+          "description": "Roman heritage, including its amphitheatre, anchors an urban visit in southern Istria, with the wider region offering further excursions.",
+          "url": "https://pulainfo.hr/"
+        }
+      ]
+    },
+    "DK": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitdenmark.com/denmark/plan-your-trip/plan-your-trip-faq",
+      "cities": [
+        {
+          "name": "Copenhagen",
+          "description": "Design, museums and harbour neighbourhoods support a varied capital stay; Tivoli's Christmas season has separately published dates.",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/plan-your-trip-faq"
+        },
+        {
+          "name": "Aarhus",
+          "description": "Art, architecture and regional food culture create a substantial Jutland city break with a contemporary urban identity.",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/plan-your-trip-faq"
+        },
+        {
+          "name": "Odense",
+          "description": "Hans Christian Andersen heritage and a compact city centre offer a cultural stop on the island of Funen.",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/plan-your-trip-faq"
+        },
+        {
+          "name": "Aalborg",
+          "description": "Museums, waterfront regeneration and a northern Jutland setting provide a different Danish urban experience.",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/plan-your-trip-faq"
+        },
+        {
+          "name": "Ribe",
+          "description": "Historic streets and medieval heritage make this smaller city a useful cultural base for the wider Wadden Sea region.",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/ribe-the-oldest-town-in-denmark-gdk970118"
+        }
+      ]
+    },
+    "SE": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://visitsweden.com/where-to-go/",
+      "cities": [
+        {
+          "name": "Stockholm",
+          "description": "Museums, island neighbourhoods and historic districts create a broad capital-city itinerary; Skansen's festive programme uses selected opening dates.",
+          "url": "https://visitsweden.com/where-to-go/"
+        },
+        {
+          "name": "Gothenburg",
+          "description": "Maritime heritage, cultural venues and a strong food scene distinguish Sweden's west-coast city.",
+          "url": "https://visitsweden.com/where-to-go/"
+        },
+        {
+          "name": "Malmö",
+          "description": "Contemporary architecture and a compact southern-city setting support a cultural stay with connections to the wider Öresund region.",
+          "url": "https://visitsweden.com/where-to-go/"
+        },
+        {
+          "name": "Uppsala",
+          "description": "University traditions and historic landmarks give this city near Stockholm a concentrated heritage focus.",
+          "url": "https://visitsweden.com/where-to-go/"
+        },
+        {
+          "name": "Kiruna",
+          "description": "An Arctic gateway for northern Swedish regional experiences, with local culture and seasonal activities requiring operator and conditions checks.",
+          "url": "https://visitsweden.com/where-to-go/"
+        }
+      ]
+    },
+    "NO": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitnorway.com/places-to-go/city-break/",
+      "cities": [
+        {
+          "name": "Oslo",
+          "description": "Major museums, sculpture parks and waterfront districts offer a wide-ranging cultural itinerary in Norway's capital.",
+          "url": "https://www.visitnorway.com/places-to-go/city-break/"
+        },
+        {
+          "name": "Bergen",
+          "description": "Historic Bryggen, museums and a distinctive port-city setting make a cultural base for wider western Norway experiences.",
+          "url": "https://www.visitnorway.com/places-to-go/city-break/"
+        },
+        {
+          "name": "Trondheim",
+          "description": "Cathedral heritage and riverside urban districts support a focused historic-city stay, with a separate dated Christmas-market programme.",
+          "url": "https://www.visitnorway.com/places-to-go/city-break/"
+        },
+        {
+          "name": "Tromsø",
+          "description": "Arctic city culture, museums and regional experiences provide a northern base; outdoor activities and viewing conditions are never guaranteed.",
+          "url": "https://www.visitnorway.com/places-to-go/city-break/"
+        },
+        {
+          "name": "Stavanger",
+          "description": "Historic streets, museums and regional food culture combine with access to the wider southwest Norway region.",
+          "url": "https://www.visitnorway.com/places-to-go/city-break/"
+        }
+      ]
+    },
+    "FI": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/",
+      "cities": [
+        {
+          "name": "Helsinki",
+          "description": "Design, museums, architecture and urban sauna culture support a broad capital stay, complemented by nearby coastal experiences.",
+          "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/"
+        },
+        {
+          "name": "Turku",
+          "description": "Finland's oldest city combines River Aura-side culture, historic attractions and a strong food scene.",
+          "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/"
+        },
+        {
+          "name": "Tampere",
+          "description": "A lakeside city with industrial heritage and sauna culture provides a distinctive inland urban experience.",
+          "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/"
+        },
+        {
+          "name": "Rovaniemi",
+          "description": "Lapland's regional capital combines Arctic cultural attractions with seasonal family experiences; specific activities require separate booking and conditions checks.",
+          "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/"
+        },
+        {
+          "name": "Oulu",
+          "description": "A northern coastal city brings together urban culture and access to surrounding rivers, forests and regional landscapes.",
+          "url": "https://www.visitfinland.com/en/fen-lan-lv-you-mu-di-di/"
+        }
+      ]
+    },
+    "IE": {
+      "label": "Selected destination cities and planning context",
+      "rankingStatus": "Editorial destination examples, not a statistical city ranking",
+      "note": "These are sourced city examples for the destination country. They are not a ranking of cities visited by Indian travellers or any other origin market, and are not measured November/December 2026 demand. The order carries no statistical meaning. Check current programmes, opening arrangements and transport with official sources.",
+      "url": "https://www.ireland.com/en-nz/destinations/where-to-go/",
+      "cities": [
+        {
+          "name": "Dublin",
+          "description": "Museums, literature and historic neighbourhoods support a varied capital stay, with current festival programmes requiring separate checks.",
+          "url": "https://www.ireland.com/en-nz/destinations/where-to-go/"
+        },
+        {
+          "name": "Galway",
+          "description": "A compact western city combines music, colourful streets and regional cultural traditions, with wider Wild Atlantic Way connections.",
+          "url": "https://www.ireland.com/en-nz/destinations/where-to-go/"
+        },
+        {
+          "name": "Cork",
+          "description": "Galleries, food culture and a lively historic centre make a southern Irish city base.",
+          "url": "https://www.ireland.com/en-nz/destinations/where-to-go/"
+        },
+        {
+          "name": "Kilkenny",
+          "description": "Medieval heritage, crafts and music traditions support a compact cultural visit in Ireland's Ancient East.",
+          "url": "https://www.ireland.com/en-nz/destinations/where-to-go/"
+        },
+        {
+          "name": "Limerick",
+          "description": "Riverfront history, museums and contemporary cultural life provide a city stay on the Shannon.",
+          "url": "https://www.ireland.com/en-nz/destinations/where-to-go/"
+        }
+      ]
+    }
+  }
+}

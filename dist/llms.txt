@@ -28,4 +28,12 @@ Country ISO alpha-2; month 11 or12; tab events/inbound/outbound/guide; continent
 
 Local browser helpers: window.globalTrendes.getSelection(), selectCountry('AE'), setMonth(12), exportBrief(). No user data is transmitted.
 
+## Detailed country rankings and city guides
+
+Default travel view shows up to20 leading reported positions, including tied observations at rank20. Full-list search preserves original ranks; it never promotes an outside-top20 market into a fabricated rank. India uses annual2025 country annexes in the government’s India Tourism Statistics2026 (data/india-research.json):220 outbound and215 inbound individually reported markets. USoutbound#4, Vietnam#13, HongKong#22. Indian national departures count movements across all travel purposes, including repeats; they are not unique holidaymakers. Purpose shares and derived leisure estimates have their own labels and source pages.
+
+The measurement selector separates a latest researched country table from historical same-month evidence where available. Greenland has33named annual2025 cruise residence markets and12named foreign accommodation-night markets; these are different populations and units. Its19rankedtowns/ports count cruise passenger visits, including repeats across ports. Outbound resident destination ranks were not verified and must not be inferred from air-passenger residence or routes. Full Greenland research: data/greenland-research.json.
+
+Expanded country rows include source-table links, counts, available purpose shares and official destination city/town guides. These guides are editorial examples, not measured city ranks for travellers from a selected origin. HongKong and Singapore neighbourhoods/islands must not be relabelled as separate cities. Measured Greenland port ranks remain separately labelled. Source tables with fewer than20 named observations are shown at their actual length; no padding with invented destinations.
+
 Attribution: Wikivoyage/Wikipedia linked contributors CC BY-SA4.0; Natural Earth public domain; mledoze/countries ODbL; date-holidays ISC; World Bank/UN Tourism CC BY4.0; Eurostat EC reuse policy; Unsplash License. Regional mood images need not depict the event or selected country. Reference boundaries imply no sovereignty position.
