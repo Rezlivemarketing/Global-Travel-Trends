@@ -1,0 +1,23 @@
+# Global Trendes
+
+A sourced November–December 2026 travel atlas for travel professionals and agents.
+
+- [Atlas](data/atlas.json): 250 country/territory records, curated events, computed calendar entries, historical market profiles, seasonal notes, source URLs, methodology.
+- [Source index](data/sources.json): successfully retrieved travel research pages with titles, URLs, associated country, retrieval timestamps, content hashes and short descriptions.
+- [Crawl totals](data/crawl-stats.json): actual page, host and failed-request counts. Pages are NOT distinct websites. Automated retrieval is NOT independent claim verification.
+- [Failed requests](data/crawl-failures.json): unsuccessful or skipped URLs; not counted as indexed sources.
+- [Curated research](data/curated-research.json): primary-source events and annual historical markets.
+- [Seasonal research](data/seasonal-research.json): original monthly context and tourism-board links.
+
+## Interpretation
+
+As of 2026-11-02. All selected months are in 2026. Event dateStatus distinguishes a confirmed 2026 programme from fixed annual observances and unconfirmed dates. Completed November events remain labelled in the monthly calendar. A holiday is not evidence of visitor demand. No monthly 2026 travel ranking or forecast is provided. Travel arrays are historical annual context only: read period, label, note, source URL and coverage (residence/nationality/trips differ). Empty arrays mean missing evidence, not zero travel. Do not infer rankings for uncovered countries. The page does not refresh automatically.
+
+## Browser operation
+
+Query parameters: ?country=TH&month=11&tab=events&continent=Asia
+country is an ISO alpha-2 code; month is 11 or 12; tabs are events, inbound, outbound, guide. Country search and directory support all records including islands missing from map polygons. Continent choices are Africa, Asia, Europe, North America, South America, Oceania, Antarctic, or all. Every country has a downloadable JSON brief. Public browser helpers: window.globalTrendes.getSelection(), selectCountry('TH'), setMonth(12), exportBrief(). Helpers are local and send no user data.
+
+## Attribution
+
+Wikivoyage and Wikipedia excerpts: linked page contributors, CC BY-SA 4.0. Geography: Natural Earth (public domain), mledoze/countries (ODbL). Calendars: date-holidays (ISC). Photos: Unsplash License, regional mood imagery rather than depictions of individual events. Reference boundaries do not imply a sovereignty position.

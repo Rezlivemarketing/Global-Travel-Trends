@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url), all=require('world-countries'),Holidays=require('date-holidays');
+const dir=new URL('../dist/data/',import.meta.url),curated=JSON.parse(fs.readFileSync(new URL('events-curated.json',import.meta.url)));
+const supported=new Holidays().getCountries();
+const regions=c=>c.region==='Americas'?(c.subregion==='South America'?'South America':'North America'):c.region||'Antarctica';
+const countries=all.map(c=>{
+ let holidays=[];
+ if(supported[c.cca2])try{holidays=new Holidays(c.cca2,{languages:['en']}).getHolidays(2026).filter(h=>+h.date.slice(5,7)>=11).map(h=>({title:h.name,date:h.date.slice(0,10),month:+h.date.slice(5,7),type:h.type,source:`https://github.com/commenthol/date-holidays/blob/master/data/countries/${c.cca2}.yaml`,status:'Rule-based calendar; verify local announcements',note:h.note||''}));}catch{}
+ return {code:c.cca2,id:c.ccn3,name:c.name.common,official:c.name.official,continent:regions(c),subregion:c.subregion,capital:c.capital||[],lat:c.latlng[0],lng:c.latlng[1],area:c.area,independent:c.independent===true,flag:c.flag,currencies:Object.values(c.currencies||{}).map(x=>x.name),languages:Object.values(c.languages||{}),holidays,calendarSupported:!!supported[c.cca2],guide:'https://en.wikivoyage.org/wiki/'+encodeURIComponent(c.name.common.replaceAll(' ','_'))};
+}).sort((a,b)=>a.name.localeCompare(b.name));
+const seasonalFile=new URL('seasonal.json',import.meta.url);const seasonal=fs.existsSync(seasonalFile)?JSON.parse(fs.readFileSync(seasonalFile)):{};
+fs.writeFileSync(new URL('atlas.json',dir),JSON.stringify({year:2026,asOf:'2026-11-02',countries,events:curated.events,travel:curated.travel,seasonal,methodology:{events:'Primary-source curated events, plus date-holidays calculated calendars. A holiday is not a forecast of demand. Local and regional events are not exhaustive.',flows:'Only the historical annual market records shown are verified. No country has a measured November/December 2026 ranking in this dataset. Nationality, residence, visits and trips differ; read each record’s note.',coverage:'250 country and territory records, including dependencies and disputed/reference areas. Polygon source is Natural Earth 1:50m. Small places also have centroid markers and are always available through search.',crawl:'Travel-guide pages are automatically fetched and indexed. They provide background reading, not independently verified forecasts. Counted pages are distinct successfully retrieved URLs, not distinct websites.',seasonal:'Seasonal notes describe broad patterns, not real-time conditions, booking volume or entry guidance.',license:'Wikivoyage excerpts: CC BY-SA 4.0, attributed to linked page contributors. World geography: Natural Earth public domain; country metadata: mledoze/countries (ODbL); calendars: date-holidays (ISC).'}}));
+fs.copyFileSync(require.resolve('world-atlas/countries-50m.json'),new URL('world.json',dir));
+fs.copyFileSync(new URL('events-curated.json',import.meta.url),new URL('curated-research.json',dir));
+fs.copyFileSync(new URL('seasonal.json',import.meta.url),new URL('seasonal-research.json',dir));
+console.log(JSON.stringify({countries:countries.length,events:curated.events.length,holidays:countries.reduce((n,c)=>n+c.holidays.length,0),marketProfiles:Object.keys(curated.travel).length,seasonal:Object.keys(seasonal).length}));

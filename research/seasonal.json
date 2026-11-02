@@ -1,0 +1,112 @@
+{
+  "JP": {
+    "nov": "Autumn foliage and cool city walks shape November trips across much of Japan. Kyoto can be busy near peak colour; northern and mountain areas are colder.",
+    "dec": "Winter illuminations and the opening ski season become travel themes. Snow and temperatures vary by region. Year-end holidays bring busy travel and some business closures.",
+    "url": "https://education.jnto.go.jp/en/plan-your-trip/",
+    "sources": ["https://www.japan.travel/en/guide/november/", "https://www.japan.travel/en/guide/december/"]
+  },
+  "TH": {
+    "nov": "Cooler, generally drier weather supports northern cultural trips and Andaman coast holidays. The Gulf islands have a different rainfall pattern and can still be very wet.",
+    "dec": "Inland Thailand remains in its popular cool season, with cooler mountain nights. Andaman beach travel is in season; Gulf-coast rainfall still requires checking local conditions.",
+    "url": "https://www.tourismthailand.my/weather_m.php",
+    "sources": ["https://www.tourismthailand.org/Articles/thailand-november", "https://www.tourismthailand.org/Articles/thailand-december"]
+  },
+  "AU": {
+    "nov": "November is spring across temperate Australia, suitable for varied outdoor itineraries. Tropical northern regions enter their wet season, so a nationwide beach-weather assumption would mislead.",
+    "dec": "Summer begins in the temperate south, supporting coastal and outdoor trips. The tropical north remains in its wet season; regional conditions matter more than a national average.",
+    "url": "https://www.australia.com/en-us/facts-and-planning/when-to-go/australias-seasons.html"
+  },
+  "NZ": {
+    "nov": "Late spring offers nature-focused itineraries before summer. Match outdoor plans to local conditions and allow flexibility; New Zealand's mountains and coasts do not share one climate.",
+    "dec": "December starts summer, when beaches and outdoor experiences feature strongly. The tourism board identifies December to February as the summer season; this is seasonal guidance, not measured demand.",
+    "url": "https://www.newzealand.com/int/utilities/frequently-asked-questions/"
+  },
+  "AE": {
+    "nov": "Dubai's cooler-season calendar supports beach visits, desert excursions and outdoor dining. This regional example does not describe every emirate or establish a ranking of visitor origins.",
+    "dec": "Outdoor attractions, festive markets and year-end celebrations are central Dubai themes. Pleasant winter conditions support open-air itineraries; event dates and individual programmes still need separate confirmation.",
+    "url": "https://www.visitdubai.com/en/plan-your-trip/weather-in-dubai"
+  },
+  "QA": {
+    "nov": "Qatar's winter season starts in November, bringing milder conditions for souq visits, parks, waterfront walks and desert activities. These are general seasonal conditions rather than a forecast.",
+    "dec": "Mild daytime weather and cooler evenings favour outdoor cultural and coastal experiences. Pack for changing evening temperatures and check short-term conditions before desert or sea excursions.",
+    "url": "https://visitqatar.com/intl-en/about-qatar/climate"
+  },
+  "ZA": {
+    "nov": "Cape Town moves from spring toward its sunny summer, with outdoor and food events. South Africa's regional climates differ, so safari and coastal itineraries need separate planning.",
+    "dec": "Cape Town's warm summer supports beaches, gardens and outdoor performances. December is a popular visiting period there; other regions have different rainfall patterns and travel conditions.",
+    "url": "https://www.capetown.gov.za/work-and-business/invest-in-cape-town/why-invest-in-cape-town/the-liveability-of-cape-town/",
+    "sources": ["https://www.southafrica.net/us/en/travel/category/what-you-need-to-know/best-times-to-visit-south-africa"]
+  },
+  "IN": {
+    "nov": "Delhi's autumn generally supports sightseeing with lighter layers than midwinter. Diwali and Rajasthan's fairs add cultural interest in 2026. Conditions vary widely across India's regions.",
+    "dec": "Northern cities become cooler while Himalayan destinations can face snow and access constraints. Delhi and Himachal illustrate different winter experiences; a single national weather label is inappropriate.",
+    "url": "https://delhitourism.gov.in/aboutus/seasons_of_delhi.html",
+    "sources": ["https://himachaltourism.gov.in/destination/winter/"]
+  },
+  "DE": {
+    "nov": "Late November brings the opening of many Christmas markets. Berlin illustrates the shift toward illuminated squares, seasonal shopping and cultural city breaks; openings differ by venue.",
+    "dec": "Christmas markets, light displays and performances shape urban itineraries. Check each market's operating days and closing date, especially near Christmas, rather than assuming uninterrupted daily opening.",
+    "url": "https://www.berlin.de/en/events/christmas/"
+  },
+  "AT": {
+    "nov": "Many Austrian Christmas markets start during the second half of November. Alpine ski openings begin selectively, with operating dates dependent on snow, altitude and resort decisions.",
+    "dec": "Advent markets and skiing are complementary travel themes. Most resorts target late-November to mid-December openings, but planned dates remain conditional on weather and snow conditions.",
+    "url": "https://www.austria.info/en-us/inspiration/christmas-markets/",
+    "sources": ["https://www.austria.info/en-gb/highlights/winter-openings/"]
+  },
+  "FI": {
+    "nov": "Christmas markets begin to add seasonal interest, while Lapland's Santa experiences operate beyond Christmas itself. Build itineraries around local opening schedules and actual winter conditions.",
+    "dec": "Christmas traditions, sauna and winter outdoor activities shape trips. Rovaniemi offers Santa experiences; snow-based activities should be checked locally because conditions and availability vary by place.",
+    "url": "https://www.visitfinland.com/en/articles/best-things-do-in-finland-during-winter/"
+  },
+  "NO": {
+    "nov": "Northern Norway moves toward polar night from mid-November. Long dark evenings suit aurora watching when skies permit, while daylight and winter conditions differ greatly by latitude.",
+    "dec": "Short days and northern polar night define many winter itineraries. Aurora sightings depend on conditions; choose activities and transport for the specific destination, rather than expecting guaranteed lights.",
+    "url": "https://www.visitnorway.com/plan-your-trip/seasons-climate/winter/"
+  },
+  "ES": {
+    "nov": "Autumn food, forests and rural trips feature in Spain's monthly travel guidance. Extremadura's Ambroz valley is one example, while Christmas lights begin arriving toward month end.",
+    "dec": "City lights, nativity scenes and Christmas markets become prominent. Madrid's New Year's Eve grape tradition is a seasonal highlight; the Canary Islands offer a different winter setting.",
+    "url": "https://www.spain.info/en/discover-spain/12-months-12-plans-spain/"
+  },
+  "IT": {
+    "nov": "Autumn itineraries emphasise villages, countryside and regional food. Alba's truffle fair adds a dated 2026 attraction; foliage and harvest experiences depend on region and timing.",
+    "dec": "Christmas-decorated cities, markets and mountain holidays shape winter trips. Italy's national tourism board highlights places from Bolzano to Rome; ski conditions need separate local checks.",
+    "url": "https://www.italia.it/en/italy/seasons/winter",
+    "sources": ["https://www.italia.it/en/italy/seasons/autumn"]
+  },
+  "SG": {
+    "nov": "Singapore stays warm and humid. November's inter-monsoon period often brings afternoon or evening thunderstorms, so combine outdoor neighbourhood walks with flexible indoor options and rain breaks.",
+    "dec": "The Northeast Monsoon's wet phase can bring extended rain spells. Festive city experiences remain possible, but outdoor schedules should be flexible; climate normals are not a daily forecast.",
+    "url": "https://www.weather.gov.sg/climate-climate-of-singapore"
+  },
+  "MA": {
+    "nov": "Autumn is highlighted by Morocco's tourism board for Sahara trips. Coastal, inland and mountain conditions differ, so avoid applying a Marrakech or desert description to the whole country.",
+    "dec": "Coasts can be comparatively mild while mountain winters are cold and wet. Plan clothing and transport around altitude and route, with local checks for mountain access and conditions.",
+    "url": "https://www.visitmorocco.com/en/travel-info/climate-and-seasons",
+    "sources": ["https://www.visitmorocco.com/ar/%D8%B3%D9%81%D8%B1%D9%8A/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%85%D9%88%D8%A7%D8%B3%D9%85"]
+  },
+  "VN": {
+    "nov": "Vietnam needs regional planning rather than a single national season. Central-coast rain can affect itineraries; consult local conditions when combining northern, central and southern destinations.",
+    "dec": "The national tourism guide highlights Phu Quoc for tropical beach trips. Northern Vietnam is cooler, while central destinations can remain wet; choose regions to match the desired experience.",
+    "url": "https://vietnam.travel/things-to-do/vietnam-monthly-guide/",
+    "sources": ["https://vietnam.travel/sites/default/files/2020-10/Beginner%27s%20Guide%20to%20Vietnam%20Now.pdf"]
+  },
+  "CA": {
+    "nov": "Holiday lights brighten cities as the season turns toward winter. Ontario's urban and regional routes offer one example; Canada-wide conditions vary substantially, especially for snow-dependent activities.",
+    "dec": "Winter city breaks can combine lights, cultural attractions and nearby snow activities. Ontario's tourism guidance stresses planning for winter driving and checking opening schedules and local conditions.",
+    "url": "https://www.destinationontario.com/en-ca/travel-resources/discover-ontario-winter-wonders-plan-your-trip-toronto-the-blue-mountains-and"
+  },
+  "PT": {
+    "nov": "Portugal starts its transition into festive travel, with Óbidos's 2026 Christmas village opening in late November. Other towns run different schedules, so verify the chosen local programme.",
+    "dec": "Christmas traditions, seasonal food and markets shape city visits. Madeira's official 2026 programme begins December 1 and continues into January, culminating in New Year's Eve celebrations.",
+    "url": "https://www.visitportugal.com/pt-pt/content/obidos-vila-natal",
+    "sources": ["https://www.visitmadeira.com/en/whats-on/events/christmas-and-new-year-festivities/"]
+  },
+  "FR": {
+    "nov": "Paris's festive lights and shop windows begin appearing from mid-November. This city example supports cultural and shopping itineraries; other French regions have distinct seasonal programmes.",
+    "dec": "Christmas markets, illuminations, concerts and museum visits anchor Paris trips. Lyon's light festival adds a separate regional highlight; check opening hours around holidays and specific event dates.",
+    "url": "https://parisjetaime.com/eng/article/what-to-do-in-paris-in-december-a1584",
+    "sources": ["https://www.fetedeslumieres.lyon.fr/fr/page/horaires-et-dates-fete-des-lumieres-2026"]
+  }
+}
