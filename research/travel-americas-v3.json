@@ -1,0 +1,3970 @@
+{
+  "travel": {
+    "CR": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official historical tourism flows, with direction-specific scope",
+      "inbound": [
+        "United States",
+        "Canada",
+        "Mexico",
+        "Nicaragua",
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Spain",
+        "Panama",
+        "Guatemala",
+        "Argentina",
+        "Netherlands",
+        "Colombia",
+        "El Salvador",
+        "Brazil",
+        "Honduras",
+        "Switzerland",
+        "Italy",
+        "Chile",
+        "Peru",
+        "China",
+        "Israel",
+        "Belgium",
+        "India",
+        "Australia",
+        "Poland",
+        "Austria",
+        "Ecuador",
+        "Denmark",
+        "Sweden",
+        "Czechia",
+        "Dominican Republic",
+        "Portugal",
+        "Ireland",
+        "Uruguay",
+        "Venezuela",
+        "Japan",
+        "Norway",
+        "Russia",
+        "South Korea",
+        "Hungary",
+        "New Zealand",
+        "Romania",
+        "Philippines",
+        "Finland",
+        "South Africa",
+        "Slovakia",
+        "Cuba",
+        "Bolivia",
+        "Taiwan",
+        "Paraguay",
+        "Trinidad and Tobago",
+        "Jamaica",
+        "Belize",
+        "Bahamas",
+        "Guyana",
+        "Nigeria",
+        "Haiti",
+        "Morocco",
+        "Saudi Arabia",
+        "Egypt",
+        "Lebanon",
+        "Puerto Rico",
+        "Suriname",
+        "United Arab Emirates",
+        "Jordan",
+        "Bermuda"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1627807,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 1,
+          "share": 55.29
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 274081,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 2,
+          "share": 9.31
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 97712,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 3,
+          "share": 3.32
+        },
+        {
+          "country": "Nicaragua",
+          "code": "NI",
+          "value": 97554,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 4,
+          "share": 3.31
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 83500,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 5,
+          "share": 2.84
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 71323,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 6,
+          "share": 2.42
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 70354,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 7,
+          "share": 2.39
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 57869,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 8,
+          "share": 1.97
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 48028,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 9,
+          "share": 1.63
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 46232,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 10,
+          "share": 1.57
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 36992,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 11,
+          "share": 1.26
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 36125,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 12,
+          "share": 1.23
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 34980,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 13,
+          "share": 1.19
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 30776,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 14,
+          "share": 1.05
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 25995,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 15,
+          "share": 0.88
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 24439,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 16,
+          "share": 0.83
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 23709,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 17,
+          "share": 0.81
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 22710,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 18,
+          "share": 0.77
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 19339,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 19,
+          "share": 0.66
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 17253,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 20,
+          "share": 0.59
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 14626,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 21,
+          "share": 0.5
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 13317,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 22,
+          "share": 0.45
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 13143,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 23,
+          "share": 0.45
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 12710,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 24,
+          "share": 0.43
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 9180,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 25,
+          "share": 0.31
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 8837,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 26,
+          "share": 0.3
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 8728,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 27,
+          "share": 0.3
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 7735,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 28,
+          "share": 0.26
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 7353,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 29,
+          "share": 0.25
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 7235,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 30,
+          "share": 0.25
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 6815,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 31,
+          "share": 0.23
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 5646,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 32,
+          "share": 0.19
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 5422,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 33,
+          "share": 0.18
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 5256,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 34,
+          "share": 0.18
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 5089,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 35,
+          "share": 0.17
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 4983,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 36,
+          "share": 0.17
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 4515,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 37,
+          "share": 0.15
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 3885,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 38,
+          "share": 0.13
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 3858,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 39,
+          "share": 0.13
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 3202,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 40,
+          "share": 0.11
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 2608,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 41,
+          "share": 0.09
+        },
+        {
+          "country": "New Zealand",
+          "code": "NZ",
+          "value": 2419,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 42,
+          "share": 0.08
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 2318,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 43,
+          "share": 0.08
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 2157,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 44,
+          "share": 0.07
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 1846,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 45,
+          "share": 0.06
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 1812,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 46,
+          "share": 0.06
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 1787,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 47,
+          "share": 0.06
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 1666,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 48,
+          "share": 0.06
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 1614,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 49,
+          "share": 0.05
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 1220,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 50,
+          "share": 0.04
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 1119,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 51,
+          "share": 0.04
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "code": "TT",
+          "value": 973,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 52,
+          "share": 0.03
+        },
+        {
+          "country": "Jamaica",
+          "code": "JM",
+          "value": 893,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 53,
+          "share": 0.03
+        },
+        {
+          "country": "Belize",
+          "code": "BZ",
+          "value": 821,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 54,
+          "share": 0.03
+        },
+        {
+          "country": "Bahamas",
+          "code": "BS",
+          "value": 735,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 55,
+          "share": 0.02
+        },
+        {
+          "country": "Guyana",
+          "code": "GY",
+          "value": 371,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 56,
+          "share": 0.01
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 351,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 57,
+          "share": 0.01
+        },
+        {
+          "country": "Haiti",
+          "code": "HT",
+          "value": 317,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 58,
+          "share": 0.01
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 302,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 59,
+          "share": 0.01
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 291,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 60,
+          "share": 0.01
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 246,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 61,
+          "share": 0.01
+        },
+        {
+          "country": "Lebanon",
+          "code": "LB",
+          "value": 184,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 62,
+          "share": 0.01
+        },
+        {
+          "country": "Puerto Rico",
+          "code": "PR",
+          "value": 156,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 63,
+          "share": 0.01
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 119,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 64,
+          "share": 0
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 112,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 65,
+          "share": 0
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 104,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 66,
+          "share": 0
+        },
+        {
+          "country": "Bermuda",
+          "code": "BM",
+          "value": 73,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+          "rank": 67,
+          "share": 0
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "International overnight tourist arrivals by nationality, all modes",
+      "inboundUrl": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+      "inboundUnit": "arrivals",
+      "inboundScope": "All individually identified countries in ICT Annual Statistical Tourism2025 Table1, PDF pages3–4",
+      "inboundNote": "Official ICT processing of Directorate-General of Migration and Foreigners passport records. Overnight nonresident tourists; excludes Costa Ricans, foreign residents, temporary work permits, cruise passengers, crew and land transport workers. Nationality classification. Most Puerto Rico arrivals are included under United States because of passport classification. Other-market and regional aggregates omitted.",
+      "inboundTotal": 2943991,
+      "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=3",
+      "outbound": [
+        "United States",
+        "Panama",
+        "Mexico",
+        "Colombia",
+        "Guatemala",
+        "El Salvador",
+        "Spain",
+        "France",
+        "Peru",
+        "Canada",
+        "Nicaragua",
+        "Brazil",
+        "Germany",
+        "Switzerland",
+        "Argentina",
+        "Netherlands",
+        "Ecuador",
+        "United Kingdom",
+        "Honduras",
+        "Belize",
+        "Chile",
+        "Bolivia",
+        "Guyana",
+        "Uruguay",
+        "Paraguay",
+        "Venezuela",
+        "Suriname"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 333660,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 1,
+          "share": 27.8
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 247408,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 2,
+          "share": 20.62
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 155304,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 3,
+          "share": 12.94
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 147150,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 4,
+          "share": 12.26
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 95965,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 5,
+          "share": 8
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 65196,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 6,
+          "share": 5.43
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 64579,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 7,
+          "share": 5.38
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 18727,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 8,
+          "share": 1.56
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 15284,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 9,
+          "share": 1.27
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 12387,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 10,
+          "share": 1.03
+        },
+        {
+          "country": "Nicaragua",
+          "code": "NI",
+          "value": 5349,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 11,
+          "share": 0.45
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 5076,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 12,
+          "share": 0.42
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 4914,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 13,
+          "share": 0.41
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 4659,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 14,
+          "share": 0.39
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 4605,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 15,
+          "share": 0.38
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 3066,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 16,
+          "share": 0.26
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 2836,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 17,
+          "share": 0.24
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1389,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 18,
+          "share": 0.12
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 1069,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 19,
+          "share": 0.09
+        },
+        {
+          "country": "Belize",
+          "code": "BZ",
+          "value": 36,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 20,
+          "share": 0
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 14,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 21,
+          "share": 0
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 3,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 22,
+          "share": 0
+        },
+        {
+          "country": "Guyana",
+          "code": "GY",
+          "value": 2,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 23,
+          "share": 0
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 2,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 24,
+          "share": 0
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 1,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 25,
+          "share": 0
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 1,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 26,
+          "share": 0
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 0,
+          "url": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+          "rank": 27,
+          "share": 0
+        }
+      ],
+      "outboundPeriod": "2025",
+      "outboundMetricLabel": "Costa Rican air departures by reported country headed to (connections included)",
+      "outboundUrl": "https://www.ict.go.cr/es/documentos-institucionales/estad%C3%ADsticas/informes-estad%C3%ADsticos/anuarios/2005-2015/3297-anuario-de-turismo-2025.html#page=22",
+      "outboundUnit": "air departures",
+      "outboundScope": "All individually named countries in ICT Annual Statistical Tourism2025 PartII Table2; air only",
+      "outboundNote": "The source explicitly warns that the immigration officer records the country the traveller is heading to, which is not necessarily the final destination and mostly corresponds to countries with direct air connections from Costa Rica. These are multi-purpose departures of Costa Rican nationals, not unique holidaymakers. Land departures, regional totals and other-country groups are not included in these country ranks.",
+      "outboundTotal": 1200056
+    },
+    "CO": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official historical tourism flows, with direction-specific scope",
+      "inbound": [
+        "United States",
+        "Mexico",
+        "Ecuador",
+        "Peru",
+        "Venezuela",
+        "Panama",
+        "Chile",
+        "Brazil",
+        "Spain",
+        "Costa Rica",
+        "Argentina",
+        "Dominican Republic",
+        "Canada",
+        "France",
+        "Guatemala",
+        "Germany",
+        "Netherlands",
+        "United Kingdom",
+        "Puerto Rico",
+        "Italy",
+        "El Salvador",
+        "Honduras",
+        "China",
+        "Switzerland",
+        "Uruguay",
+        "Bolivia",
+        "Australia",
+        "Poland",
+        "Philippines",
+        "India",
+        "Aruba",
+        "Belgium",
+        "Portugal",
+        "Türkiye",
+        "Paraguay",
+        "Israel",
+        "Russia",
+        "Sweden",
+        "Austria",
+        "Ireland",
+        "Japan",
+        "Curaçao",
+        "South Korea",
+        "Cuba",
+        "Denmark",
+        "Jamaica",
+        "Nicaragua",
+        "Norway",
+        "Romania",
+        "Ukraine",
+        "Czechia",
+        "Greece",
+        "New Zealand",
+        "Trinidad and Tobago",
+        "Hungary",
+        "Finland",
+        "Bulgaria",
+        "Suriname",
+        "Guyana",
+        "Bahamas",
+        "Slovakia",
+        "Croatia",
+        "Lithuania",
+        "Taiwan",
+        "Morocco",
+        "Indonesia",
+        "Serbia",
+        "South Africa",
+        "Slovenia",
+        "Singapore",
+        "Hong Kong",
+        "Belize",
+        "Barbados",
+        "Estonia",
+        "United Arab Emirates",
+        "Ethiopia",
+        "Luxembourg",
+        "Haiti",
+        "Latvia",
+        "Caribbean Netherlands",
+        "Thailand",
+        "Vietnam",
+        "Georgia",
+        "Myanmar",
+        "Malaysia",
+        "Albania",
+        "Malta",
+        "Egypt",
+        "Iceland",
+        "Kenya",
+        "Sri Lanka",
+        "Kazakhstan",
+        "Cyprus",
+        "Lebanon",
+        "Saudi Arabia",
+        "Bangladesh",
+        "Nigeria",
+        "Saint Kitts and Nevis",
+        "Pakistan",
+        "Antigua and Barbuda",
+        "Azerbaijan",
+        "Cayman Islands",
+        "Bosnia and Herzegovina",
+        "Syria",
+        "North Macedonia",
+        "Andorra",
+        "Tunisia",
+        "Dominica",
+        "Qatar",
+        "Uganda",
+        "Iran",
+        "Montenegro",
+        "Bermuda",
+        "Saint Lucia",
+        "Grenada",
+        "Ghana",
+        "Belarus",
+        "Jordan",
+        "Algeria",
+        "Turks and Caicos Islands",
+        "Tanzania",
+        "Liechtenstein",
+        "Oman",
+        "Moldova",
+        "Nepal",
+        "Kuwait",
+        "Zimbabwe",
+        "Ivory Coast",
+        "Cameroon",
+        "Saint Vincent and the Grenadines",
+        "DR Congo",
+        "Angola",
+        "Armenia",
+        "Senegal",
+        "Zambia",
+        "Vanuatu",
+        "Rwanda",
+        "British Virgin Islands",
+        "Palestine",
+        "Anguilla",
+        "Benin",
+        "Mauritius",
+        "Monaco",
+        "Burkina Faso",
+        "Uzbekistan",
+        "Kosovo",
+        "Bahrain",
+        "Mozambique",
+        "Malawi",
+        "Madagascar",
+        "San Marino",
+        "Mongolia",
+        "Central African Republic",
+        "Fiji",
+        "French Guiana",
+        "Afghanistan",
+        "Iraq",
+        "Kiribati",
+        "Burundi",
+        "Kyrgyzstan",
+        "Togo",
+        "Guadeloupe",
+        "Martinique",
+        "Namibia",
+        "Cambodia",
+        "Liberia",
+        "Vatican City",
+        "Botswana",
+        "Equatorial Guinea",
+        "Papua New Guinea",
+        "Yemen",
+        "French Polynesia",
+        "Mali",
+        "Niger",
+        "Republic of the Congo",
+        "Sudan",
+        "United States Virgin Islands",
+        "Brunei",
+        "Cape Verde",
+        "Bhutan",
+        "Gabon",
+        "Comoros",
+        "Guinea",
+        "Laos",
+        "Chad",
+        "Mauritania",
+        "Micronesia",
+        "Sierra Leone",
+        "Western Sahara",
+        "Saint Barthélemy",
+        "Åland Islands",
+        "Gambia",
+        "Turkmenistan",
+        "Eritrea",
+        "Gibraltar",
+        "Lesotho",
+        "Eswatini",
+        "Guinea-Bissau",
+        "Libya",
+        "Somalia",
+        "Djibouti",
+        "Mayotte",
+        "Réunion",
+        "São Tomé and Príncipe",
+        "South Sudan",
+        "Maldives",
+        "New Caledonia",
+        "North Korea",
+        "Guam",
+        "Palau",
+        "Samoa",
+        "Solomon Islands",
+        "Tajikistan",
+        "Timor-Leste",
+        "American Samoa",
+        "Isle of Man",
+        "Saint Helena, Ascension and Tristan da Cunha",
+        "Seychelles",
+        "Tuvalu",
+        "Cocos (Keeling) Islands",
+        "Cook Islands",
+        "Falkland Islands",
+        "Faroe Islands",
+        "Greenland",
+        "Marshall Islands",
+        "Norfolk Island",
+        "Tonga"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1187678,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 1,
+          "share": 25.39
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 413490,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 2,
+          "share": 8.84
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 324583,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 3,
+          "share": 6.94
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 251528,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 4,
+          "share": 5.38
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 203355,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 5,
+          "share": 4.35
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 202245,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 6,
+          "share": 4.32
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 200705,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 7,
+          "share": 4.29
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 199560,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 8,
+          "share": 4.27
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 192854,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 9,
+          "share": 4.12
+        },
+        {
+          "country": "Costa Rica",
+          "code": "CR",
+          "value": 167554,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 10,
+          "share": 3.58
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 134802,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 11,
+          "share": 2.88
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 125963,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 12,
+          "share": 2.69
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 103466,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 13,
+          "share": 2.21
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 92884,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 14,
+          "share": 1.99
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 78245,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 15,
+          "share": 1.67
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 71771,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 16,
+          "share": 1.53
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 70476,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 17,
+          "share": 1.51
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 61238,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 18,
+          "share": 1.31
+        },
+        {
+          "country": "Puerto Rico",
+          "code": "PR",
+          "value": 60094,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 19,
+          "share": 1.28
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 56134,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 20,
+          "share": 1.2
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 55938,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 21,
+          "share": 1.2
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 39632,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 22,
+          "share": 0.85
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 28278,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 23,
+          "share": 0.6
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 23780,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 24,
+          "share": 0.51
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 19859,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 25,
+          "share": 0.42
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 18581,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 26,
+          "share": 0.4
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 17884,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 27,
+          "share": 0.38
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 16450,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 28,
+          "share": 0.35
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 15142,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 29,
+          "share": 0.32
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 15048,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 30,
+          "share": 0.32
+        },
+        {
+          "country": "Aruba",
+          "code": "AW",
+          "value": 13734,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 31,
+          "share": 0.29
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 12965,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 32,
+          "share": 0.28
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 12809,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 33,
+          "share": 0.27
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 11675,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 34,
+          "share": 0.25
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 11393,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 35,
+          "share": 0.24
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 11137,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 36,
+          "share": 0.24
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 8269,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 37,
+          "share": 0.18
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 7915,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 38,
+          "share": 0.17
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 7580,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 39,
+          "share": 0.16
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 7524,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 40,
+          "share": 0.16
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 7409,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 41,
+          "share": 0.16
+        },
+        {
+          "country": "Curaçao",
+          "code": "CW",
+          "value": 7289,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 42,
+          "share": 0.16
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 7116,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 43,
+          "share": 0.15
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 6776,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 44,
+          "share": 0.14
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 5321,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 45,
+          "share": 0.11
+        },
+        {
+          "country": "Jamaica",
+          "code": "JM",
+          "value": 4982,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 46,
+          "share": 0.11
+        },
+        {
+          "country": "Nicaragua",
+          "code": "NI",
+          "value": 4826,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 47,
+          "share": 0.1
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 4787,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 48,
+          "share": 0.1
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 4634,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 49,
+          "share": 0.1
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 4616,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 50,
+          "share": 0.1
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 3680,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 51,
+          "share": 0.08
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 3193,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 52,
+          "share": 0.07
+        },
+        {
+          "country": "New Zealand",
+          "code": "NZ",
+          "value": 3014,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 53,
+          "share": 0.06
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "code": "TT",
+          "value": 2803,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 54,
+          "share": 0.06
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 2384,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 55,
+          "share": 0.05
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 2090,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 56,
+          "share": 0.04
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 2076,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 57,
+          "share": 0.04
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 1978,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 58,
+          "share": 0.04
+        },
+        {
+          "country": "Guyana",
+          "code": "GY",
+          "value": 1930,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 59,
+          "share": 0.04
+        },
+        {
+          "country": "Bahamas",
+          "code": "BS",
+          "value": 1910,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 60,
+          "share": 0.04
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 1738,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 61,
+          "share": 0.04
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 1583,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 62,
+          "share": 0.03
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 1553,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 63,
+          "share": 0.03
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 1458,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 64,
+          "share": 0.03
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 1299,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 65,
+          "share": 0.03
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 1254,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 66,
+          "share": 0.03
+        },
+        {
+          "country": "Serbia",
+          "code": "RS",
+          "value": 1245,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 67,
+          "share": 0.03
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 1141,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 68,
+          "share": 0.02
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 1127,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 69,
+          "share": 0.02
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 1063,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 70,
+          "share": 0.02
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 1046,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 71,
+          "share": 0.02
+        },
+        {
+          "country": "Belize",
+          "code": "BZ",
+          "value": 974,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 72,
+          "share": 0.02
+        },
+        {
+          "country": "Barbados",
+          "code": "BB",
+          "value": 944,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 73,
+          "share": 0.02
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 919,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 74,
+          "share": 0.02
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 873,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 75,
+          "share": 0.02
+        },
+        {
+          "country": "Ethiopia",
+          "code": "ET",
+          "value": 780,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 76,
+          "share": 0.02
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 687,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 77,
+          "share": 0.01
+        },
+        {
+          "country": "Haiti",
+          "code": "HT",
+          "value": 670,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 78,
+          "share": 0.01
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 665,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 79,
+          "share": 0.01
+        },
+        {
+          "country": "Caribbean Netherlands",
+          "code": "BQ",
+          "value": 654,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 80,
+          "share": 0.01
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 610,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 81,
+          "share": 0.01
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 594,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 82,
+          "share": 0.01
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 592,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 83,
+          "share": 0.01
+        },
+        {
+          "country": "Myanmar",
+          "code": "MM",
+          "value": 575,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 84,
+          "share": 0.01
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 573,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 85,
+          "share": 0.01
+        },
+        {
+          "country": "Albania",
+          "code": "AL",
+          "value": 561,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 86,
+          "share": 0.01
+        },
+        {
+          "country": "Malta",
+          "code": "MT",
+          "value": 560,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 87,
+          "share": 0.01
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 520,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 88,
+          "share": 0.01
+        },
+        {
+          "country": "Iceland",
+          "code": "IS",
+          "value": 502,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 89,
+          "share": 0.01
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 477,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 90,
+          "share": 0.01
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 446,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 91,
+          "share": 0.01
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 442,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 92,
+          "share": 0.01
+        },
+        {
+          "country": "Cyprus",
+          "code": "CY",
+          "value": 403,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 93,
+          "share": 0.01
+        },
+        {
+          "country": "Lebanon",
+          "code": "LB",
+          "value": 398,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 94,
+          "share": 0.01
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 379,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 95,
+          "share": 0.01
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 378,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 96,
+          "share": 0.01
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 361,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 97,
+          "share": 0.01
+        },
+        {
+          "country": "Saint Kitts and Nevis",
+          "code": "KN",
+          "value": 344,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 98,
+          "share": 0.01
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 332,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 99,
+          "share": 0.01
+        },
+        {
+          "country": "Antigua and Barbuda",
+          "code": "AG",
+          "value": 311,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 100,
+          "share": 0.01
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 290,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 101,
+          "share": 0.01
+        },
+        {
+          "country": "Cayman Islands",
+          "code": "KY",
+          "value": 282,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 102,
+          "share": 0.01
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "code": "BA",
+          "value": 252,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 103,
+          "share": 0.01
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 244,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 104,
+          "share": 0.01
+        },
+        {
+          "country": "North Macedonia",
+          "code": "MK",
+          "value": 238,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 105,
+          "share": 0.01
+        },
+        {
+          "country": "Andorra",
+          "code": "AD",
+          "value": 227,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 106,
+          "share": 0
+        },
+        {
+          "country": "Tunisia",
+          "code": "TN",
+          "value": 223,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 107,
+          "share": 0
+        },
+        {
+          "country": "Dominica",
+          "code": "DM",
+          "value": 220,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 108,
+          "share": 0
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 219,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 109,
+          "share": 0
+        },
+        {
+          "country": "Uganda",
+          "code": "UG",
+          "value": 218,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 110,
+          "share": 0
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 211,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 111,
+          "share": 0
+        },
+        {
+          "country": "Montenegro",
+          "code": "ME",
+          "value": 201,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 112,
+          "share": 0
+        },
+        {
+          "country": "Bermuda",
+          "code": "BM",
+          "value": 196,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 113,
+          "share": 0
+        },
+        {
+          "country": "Saint Lucia",
+          "code": "LC",
+          "value": 188,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 114,
+          "share": 0
+        },
+        {
+          "country": "Grenada",
+          "code": "GD",
+          "value": 184,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 115,
+          "share": 0
+        },
+        {
+          "country": "Ghana",
+          "code": "GH",
+          "value": 180,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 116,
+          "share": 0
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 162,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 117,
+          "share": 0
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 156,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 118,
+          "share": 0
+        },
+        {
+          "country": "Algeria",
+          "code": "DZ",
+          "value": 137,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 119,
+          "share": 0
+        },
+        {
+          "country": "Turks and Caicos Islands",
+          "code": "TC",
+          "value": 136,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 120,
+          "share": 0
+        },
+        {
+          "country": "Tanzania",
+          "code": "TZ",
+          "value": 127,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 121,
+          "share": 0
+        },
+        {
+          "country": "Liechtenstein",
+          "code": "LI",
+          "value": 126,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 122,
+          "share": 0
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 121,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 123,
+          "share": 0
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 114,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 124,
+          "share": 0
+        },
+        {
+          "country": "Nepal",
+          "code": "NP",
+          "value": 109,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 125,
+          "share": 0
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 108,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 126,
+          "share": 0
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 103,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 127,
+          "share": 0
+        },
+        {
+          "country": "Ivory Coast",
+          "code": "CI",
+          "value": 100,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 128,
+          "share": 0
+        },
+        {
+          "country": "Cameroon",
+          "code": "CM",
+          "value": 92,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 129,
+          "share": 0
+        },
+        {
+          "country": "Saint Vincent and the Grenadines",
+          "code": "VC",
+          "value": 86,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 130,
+          "share": 0
+        },
+        {
+          "country": "DR Congo",
+          "code": "CD",
+          "value": 85,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 131,
+          "share": 0
+        },
+        {
+          "country": "Angola",
+          "code": "AO",
+          "value": 83,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 132,
+          "share": 0
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 76,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 133,
+          "share": 0
+        },
+        {
+          "country": "Senegal",
+          "code": "SN",
+          "value": 73,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 134,
+          "share": 0
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 71,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 135,
+          "share": 0
+        },
+        {
+          "country": "Vanuatu",
+          "code": "VU",
+          "value": 68,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 136,
+          "share": 0
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 66,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 137,
+          "share": 0
+        },
+        {
+          "country": "British Virgin Islands",
+          "code": "VG",
+          "value": 64,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 138,
+          "share": 0
+        },
+        {
+          "country": "Palestine",
+          "code": "PS",
+          "value": 63,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 139,
+          "share": 0
+        },
+        {
+          "country": "Anguilla",
+          "code": "AI",
+          "value": 60,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 140,
+          "share": 0
+        },
+        {
+          "country": "Benin",
+          "code": "BJ",
+          "value": 60,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 141,
+          "share": 0
+        },
+        {
+          "country": "Mauritius",
+          "code": "MU",
+          "value": 60,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 142,
+          "share": 0
+        },
+        {
+          "country": "Monaco",
+          "code": "MC",
+          "value": 60,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 143,
+          "share": 0
+        },
+        {
+          "country": "Burkina Faso",
+          "code": "BF",
+          "value": 54,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 144,
+          "share": 0
+        },
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 54,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 145,
+          "share": 0
+        },
+        {
+          "country": "Kosovo",
+          "code": "XK",
+          "value": 52,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 146,
+          "share": 0
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 51,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 147,
+          "share": 0
+        },
+        {
+          "country": "Mozambique",
+          "code": "MZ",
+          "value": 49,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 148,
+          "share": 0
+        },
+        {
+          "country": "Malawi",
+          "code": "MW",
+          "value": 45,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 149,
+          "share": 0
+        },
+        {
+          "country": "Madagascar",
+          "code": "MG",
+          "value": 43,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 150,
+          "share": 0
+        },
+        {
+          "country": "San Marino",
+          "code": "SM",
+          "value": 41,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 151,
+          "share": 0
+        },
+        {
+          "country": "Mongolia",
+          "code": "MN",
+          "value": 39,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 152,
+          "share": 0
+        },
+        {
+          "country": "Central African Republic",
+          "code": "CF",
+          "value": 38,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 153,
+          "share": 0
+        },
+        {
+          "country": "Fiji",
+          "code": "FJ",
+          "value": 37,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 154,
+          "share": 0
+        },
+        {
+          "country": "French Guiana",
+          "code": "GF",
+          "value": 36,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 155,
+          "share": 0
+        },
+        {
+          "country": "Afghanistan",
+          "code": "AF",
+          "value": 35,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 156,
+          "share": 0
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 35,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 157,
+          "share": 0
+        },
+        {
+          "country": "Kiribati",
+          "code": "KI",
+          "value": 30,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 158,
+          "share": 0
+        },
+        {
+          "country": "Burundi",
+          "code": "BI",
+          "value": 29,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 159,
+          "share": 0
+        },
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 28,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 160,
+          "share": 0
+        },
+        {
+          "country": "Togo",
+          "code": "TG",
+          "value": 28,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 161,
+          "share": 0
+        },
+        {
+          "country": "Guadeloupe",
+          "code": "GP",
+          "value": 27,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 162,
+          "share": 0
+        },
+        {
+          "country": "Martinique",
+          "code": "MQ",
+          "value": 27,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 163,
+          "share": 0
+        },
+        {
+          "country": "Namibia",
+          "code": "NA",
+          "value": 27,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 164,
+          "share": 0
+        },
+        {
+          "country": "Cambodia",
+          "code": "KH",
+          "value": 26,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 165,
+          "share": 0
+        },
+        {
+          "country": "Liberia",
+          "code": "LR",
+          "value": 25,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 166,
+          "share": 0
+        },
+        {
+          "country": "Vatican City",
+          "code": "VA",
+          "value": 24,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 167,
+          "share": 0
+        },
+        {
+          "country": "Botswana",
+          "code": "BW",
+          "value": 23,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 168,
+          "share": 0
+        },
+        {
+          "country": "Equatorial Guinea",
+          "code": "GQ",
+          "value": 22,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 169,
+          "share": 0
+        },
+        {
+          "country": "Papua New Guinea",
+          "code": "PG",
+          "value": 22,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 170,
+          "share": 0
+        },
+        {
+          "country": "Yemen",
+          "code": "YE",
+          "value": 22,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 171,
+          "share": 0
+        },
+        {
+          "country": "French Polynesia",
+          "code": "PF",
+          "value": 21,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 172,
+          "share": 0
+        },
+        {
+          "country": "Mali",
+          "code": "ML",
+          "value": 20,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 173,
+          "share": 0
+        },
+        {
+          "country": "Niger",
+          "code": "NE",
+          "value": 20,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 174,
+          "share": 0
+        },
+        {
+          "country": "Republic of the Congo",
+          "code": "CG",
+          "value": 20,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 175,
+          "share": 0
+        },
+        {
+          "country": "Sudan",
+          "code": "SD",
+          "value": 19,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 176,
+          "share": 0
+        },
+        {
+          "country": "United States Virgin Islands",
+          "code": "VI",
+          "value": 18,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 177,
+          "share": 0
+        },
+        {
+          "country": "Brunei",
+          "code": "BN",
+          "value": 15,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 178,
+          "share": 0
+        },
+        {
+          "country": "Cape Verde",
+          "code": "CV",
+          "value": 15,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 179,
+          "share": 0
+        },
+        {
+          "country": "Bhutan",
+          "code": "BT",
+          "value": 14,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 180,
+          "share": 0
+        },
+        {
+          "country": "Gabon",
+          "code": "GA",
+          "value": 14,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 181,
+          "share": 0
+        },
+        {
+          "country": "Comoros",
+          "code": "KM",
+          "value": 13,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 182,
+          "share": 0
+        },
+        {
+          "country": "Guinea",
+          "code": "GN",
+          "value": 13,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 183,
+          "share": 0
+        },
+        {
+          "country": "Laos",
+          "code": "LA",
+          "value": 13,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 184,
+          "share": 0
+        },
+        {
+          "country": "Chad",
+          "code": "TD",
+          "value": 12,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 185,
+          "share": 0
+        },
+        {
+          "country": "Mauritania",
+          "code": "MR",
+          "value": 12,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 186,
+          "share": 0
+        },
+        {
+          "country": "Micronesia",
+          "code": "FM",
+          "value": 12,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 187,
+          "share": 0
+        },
+        {
+          "country": "Sierra Leone",
+          "code": "SL",
+          "value": 12,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 188,
+          "share": 0
+        },
+        {
+          "country": "Western Sahara",
+          "code": "EH",
+          "value": 12,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 189,
+          "share": 0
+        },
+        {
+          "country": "Saint Barthélemy",
+          "code": "BL",
+          "value": 11,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 190,
+          "share": 0
+        },
+        {
+          "country": "Åland Islands",
+          "code": "AX",
+          "value": 10,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 191,
+          "share": 0
+        },
+        {
+          "country": "Gambia",
+          "code": "GM",
+          "value": 9,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 192,
+          "share": 0
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 9,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 193,
+          "share": 0
+        },
+        {
+          "country": "Eritrea",
+          "code": "ER",
+          "value": 8,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 194,
+          "share": 0
+        },
+        {
+          "country": "Gibraltar",
+          "code": "GI",
+          "value": 8,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 195,
+          "share": 0
+        },
+        {
+          "country": "Lesotho",
+          "code": "LS",
+          "value": 8,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 196,
+          "share": 0
+        },
+        {
+          "country": "Eswatini",
+          "code": "SZ",
+          "value": 7,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 197,
+          "share": 0
+        },
+        {
+          "country": "Guinea-Bissau",
+          "code": "GW",
+          "value": 7,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 198,
+          "share": 0
+        },
+        {
+          "country": "Libya",
+          "code": "LY",
+          "value": 7,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 199,
+          "share": 0
+        },
+        {
+          "country": "Somalia",
+          "code": "SO",
+          "value": 6,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 200,
+          "share": 0
+        },
+        {
+          "country": "Djibouti",
+          "code": "DJ",
+          "value": 5,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 201,
+          "share": 0
+        },
+        {
+          "country": "Mayotte",
+          "code": "YT",
+          "value": 5,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 202,
+          "share": 0
+        },
+        {
+          "country": "Réunion",
+          "code": "RE",
+          "value": 5,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 203,
+          "share": 0
+        },
+        {
+          "country": "São Tomé and Príncipe",
+          "code": "ST",
+          "value": 5,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 204,
+          "share": 0
+        },
+        {
+          "country": "South Sudan",
+          "code": "SS",
+          "value": 5,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 205,
+          "share": 0
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 4,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 206,
+          "share": 0
+        },
+        {
+          "country": "New Caledonia",
+          "code": "NC",
+          "value": 4,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 207,
+          "share": 0
+        },
+        {
+          "country": "North Korea",
+          "code": "KP",
+          "value": 4,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 208,
+          "share": 0
+        },
+        {
+          "country": "Guam",
+          "code": "GU",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 209,
+          "share": 0
+        },
+        {
+          "country": "Palau",
+          "code": "PW",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 210,
+          "share": 0
+        },
+        {
+          "country": "Samoa",
+          "code": "WS",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 211,
+          "share": 0
+        },
+        {
+          "country": "Solomon Islands",
+          "code": "SB",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 212,
+          "share": 0
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 213,
+          "share": 0
+        },
+        {
+          "country": "Timor-Leste",
+          "code": "TL",
+          "value": 3,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 214,
+          "share": 0
+        },
+        {
+          "country": "American Samoa",
+          "code": "AS",
+          "value": 2,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 215,
+          "share": 0
+        },
+        {
+          "country": "Isle of Man",
+          "code": "IM",
+          "value": 2,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 216,
+          "share": 0
+        },
+        {
+          "country": "Saint Helena, Ascension and Tristan da Cunha",
+          "code": "SH",
+          "value": 2,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 217,
+          "share": 0
+        },
+        {
+          "country": "Seychelles",
+          "code": "SC",
+          "value": 2,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 218,
+          "share": 0
+        },
+        {
+          "country": "Tuvalu",
+          "code": "TV",
+          "value": 2,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 219,
+          "share": 0
+        },
+        {
+          "country": "Cocos (Keeling) Islands",
+          "code": "CC",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 220,
+          "share": 0
+        },
+        {
+          "country": "Cook Islands",
+          "code": "CK",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 221,
+          "share": 0
+        },
+        {
+          "country": "Falkland Islands",
+          "code": "FK",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 222,
+          "share": 0
+        },
+        {
+          "country": "Faroe Islands",
+          "code": "FO",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 223,
+          "share": 0
+        },
+        {
+          "country": "Greenland",
+          "code": "GL",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 224,
+          "share": 0
+        },
+        {
+          "country": "Marshall Islands",
+          "code": "MH",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 225,
+          "share": 0
+        },
+        {
+          "country": "Norfolk Island",
+          "code": "NF",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 226,
+          "share": 0
+        },
+        {
+          "country": "Tonga",
+          "code": "TO",
+          "value": 1,
+          "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+          "rank": 227,
+          "share": 0
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Foreign nonresident visitor arrivals by country of residence",
+      "inboundUrl": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad",
+      "inboundUnit": "arrivals",
+      "inboundScope": "All identifiable residence countries/territories in official government monthly dataset, summed over January–December2025",
+      "inboundNote": "Ministry of Commerce, Industry and Tourism calculations from Migración Colombia. Annual sums across monthly department/city records, grouped by foreign visitor country of residence. Covers foreign nonresidents, not Colombians living abroad or cruise passenger totals. From January2020, Venezuelan-resident foreigners are included only when the reported purpose is rest/recreation. Explicit uninhabited-area labels and unallocated/non-country rows are excluded from market ranks, retained in audit.",
+      "inboundTotal": 4677578,
+      "url": "https://www.datos.gov.co/Comercio-Industria-y-Turismo/Extranjeros-No-Residentes/7wm8-w5ad"
+    },
+    "DO": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official historical tourism flows, with direction-specific scope",
+      "inbound": [
+        "United States",
+        "Canada",
+        "Argentina",
+        "Colombia",
+        "Puerto Rico",
+        "United Kingdom",
+        "Mexico",
+        "Chile",
+        "Brazil",
+        "Spain",
+        "France",
+        "Peru",
+        "Germany",
+        "Italy",
+        "Ecuador",
+        "Portugal",
+        "Panama",
+        "Poland",
+        "Switzerland",
+        "Guatemala",
+        "Uruguay",
+        "Costa Rica",
+        "Netherlands",
+        "Belgium",
+        "Cuba",
+        "Venezuela",
+        "Jamaica",
+        "El Salvador",
+        "Czechia",
+        "Austria",
+        "Honduras",
+        "Martinique",
+        "Bolivia",
+        "Guadeloupe",
+        "Curaçao",
+        "China",
+        "Haiti",
+        "Romania",
+        "Turks and Caicos Islands",
+        "Sweden",
+        "Ukraine",
+        "Hungary",
+        "Trinidad and Tobago",
+        "Bulgaria",
+        "Aruba",
+        "Israel",
+        "Russia",
+        "Ireland",
+        "India",
+        "Denmark",
+        "Australia",
+        "Norway",
+        "United States Virgin Islands",
+        "Luxembourg",
+        "Japan",
+        "South Korea",
+        "Finland",
+        "Greece",
+        "Taiwan"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 3238792.684451447,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 3238792.684451447,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 1,
+          "share": 44.11
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 1144242.276371859,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1144242.276371859,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 2,
+          "share": 15.59
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 440202.3169660809,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 440202.3169660809,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 3,
+          "share": 6
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 399896.7346577992,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 399896.7346577992,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 4,
+          "share": 5.45
+        },
+        {
+          "country": "Puerto Rico",
+          "code": "PR",
+          "value": 226462.4693004778,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 226462.4693004778,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 5,
+          "share": 3.08
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 196004.5878853182,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 196004.5878853182,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 6,
+          "share": 2.67
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 161245.4947514816,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 161245.4947514816,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 7,
+          "share": 2.2
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 145947.8413436104,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 145947.8413436104,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 8,
+          "share": 1.99
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 141256.1251151382,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 141256.1251151382,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 9,
+          "share": 1.92
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 133238.8665176165,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 133238.8665176165,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 10,
+          "share": 1.81
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 132794.6187784903,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 132794.6187784903,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 11,
+          "share": 1.81
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 126342.7918238789,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 126342.7918238789,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 12,
+          "share": 1.72
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 125786.5906765968,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 125786.5906765968,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 13,
+          "share": 1.71
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 95359.31563356202,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 95359.31563356202,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 14,
+          "share": 1.3
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 67234.22728925802,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 67234.22728925802,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 15,
+          "share": 0.92
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 42363.17255656329,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 42363.17255656329,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 16,
+          "share": 0.58
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 39163.88793668288,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 39163.88793668288,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 17,
+          "share": 0.53
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 35562.58009659898,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 35562.58009659898,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 18,
+          "share": 0.48
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 35384.63939262145,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 35384.63939262145,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 19,
+          "share": 0.48
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 34554.70373971768,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 34554.70373971768,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 20,
+          "share": 0.47
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 31582.93412087892,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 31582.93412087892,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 21,
+          "share": 0.43
+        },
+        {
+          "country": "Costa Rica",
+          "code": "CR",
+          "value": 31352.12553811095,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 31352.12553811095,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 22,
+          "share": 0.43
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 25261.70214256574,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 25261.70214256574,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 23,
+          "share": 0.34
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 21372.21352738599,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 21372.21352738599,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 24,
+          "share": 0.29
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 20675.9055202718,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 20675.9055202718,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 25,
+          "share": 0.28
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 15855.07740815974,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 15855.07740815974,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 26,
+          "share": 0.22
+        },
+        {
+          "country": "Jamaica",
+          "code": "JM",
+          "value": 14270.96495113182,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 14270.96495113182,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 27,
+          "share": 0.19
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 13321.21798789008,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 13321.21798789008,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 28,
+          "share": 0.18
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 12672.19676100285,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 12672.19676100285,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 29,
+          "share": 0.17
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 12107.79631394937,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 12107.79631394937,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 30,
+          "share": 0.16
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 9160.220211094342,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 9160.220211094342,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 31,
+          "share": 0.12
+        },
+        {
+          "country": "Martinique",
+          "code": "MQ",
+          "value": 8463.107308017841,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 8463.107308017841,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 32,
+          "share": 0.12
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 8166.175573556533,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 8166.175573556533,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 33,
+          "share": 0.11
+        },
+        {
+          "country": "Guadeloupe",
+          "code": "GP",
+          "value": 7966.633702467861,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 7966.633702467861,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 34,
+          "share": 0.11
+        },
+        {
+          "country": "Curaçao",
+          "code": "CW",
+          "value": 6516.823707115089,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 6516.823707115089,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 35,
+          "share": 0.09
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 6149.113770510186,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 6149.113770510186,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 36,
+          "share": 0.08
+        },
+        {
+          "country": "Haiti",
+          "code": "HT",
+          "value": 5272.506024893722,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 5272.506024893722,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 37,
+          "share": 0.07
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 5260.099631265077,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 5260.099631265077,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 38,
+          "share": 0.07
+        },
+        {
+          "country": "Turks and Caicos Islands",
+          "code": "TC",
+          "value": 5213.514423312943,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 5213.514423312943,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 39,
+          "share": 0.07
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 5029.342639543682,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 5029.342639543682,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 40,
+          "share": 0.07
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 4598.018079398084,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 4598.018079398084,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 41,
+          "share": 0.06
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 4577.806329100553,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 4577.806329100553,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 42,
+          "share": 0.06
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "code": "TT",
+          "value": 4318.898941402046,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 4318.898941402046,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 43,
+          "share": 0.06
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 3448.902839044917,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 3448.902839044917,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 44,
+          "share": 0.05
+        },
+        {
+          "country": "Aruba",
+          "code": "AW",
+          "value": 3441.017946893801,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 3441.017946893801,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 45,
+          "share": 0.05
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 3440.209756135354,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 3440.209756135354,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 46,
+          "share": 0.05
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 3067.125265759219,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 3067.125265759219,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 47,
+          "share": 0.04
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 2910.073675213954,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 2910.073675213954,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 48,
+          "share": 0.04
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 2580.141961228179,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 2580.141961228179,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 49,
+          "share": 0.04
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 2485.889531743439,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 2485.889531743439,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 50,
+          "share": 0.03
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 2448.362425360443,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 2448.362425360443,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 51,
+          "share": 0.03
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 2321.68647973636,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 2321.68647973636,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 52,
+          "share": 0.03
+        },
+        {
+          "country": "United States Virgin Islands",
+          "code": "VI",
+          "value": 1867.361991988778,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1867.361991988778,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 53,
+          "share": 0.03
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 1830.701151228335,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1830.701151228335,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 54,
+          "share": 0.02
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 1411.034822283699,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1411.034822283699,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 55,
+          "share": 0.02
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 1400.582996012362,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1400.582996012362,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 56,
+          "share": 0.02
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 1377.479541551372,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 1377.479541551372,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 57,
+          "share": 0.02
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 957.8814685829955,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 957.8814685829955,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 58,
+          "share": 0.01
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 392.4755531204354,
+          "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+          "estimated": true,
+          "precision": 2,
+          "originalValue": 392.4755531204354,
+          "sourcePrecision": "Full unrounded numeric workbook value preserved in value and originalValue; precision2 is display formatting",
+          "status": "official estimated/allocated count; source precision retained",
+          "rank": 59,
+          "share": 0.01
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Foreign nonresident air arrivals by country of residence",
+      "inboundUrl": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls",
+      "inboundUnit": "air arrivals (official allocated estimates)",
+      "inboundScope": "All individually named markets in BCRD2025 national-total panel; foreign nonresidents only",
+      "inboundNote": "BCRD workbook based on Ministry of Tourism e-ticket information, national panel only. Country-market subtotals refer to foreign nonresidents, excluding nonresident Dominicans and residents. Source workbook stores fractional allocation/estimation values; precision is retained rather than presented as exact integer headcounts. Regional and Others aggregates omitted. Do not add airport panels to national totals.",
+      "inboundTotal": 7341744.790999348,
+      "url": "https://cdn.bancentral.gov.do/documents/estadisticas/sector-turismo/documents/lleg_residencia_2025.xls"
+    }
+  },
+  "researchNotes": [
+    {
+      "iso2": "CR",
+      "direction": "inbound",
+      "excludedOtherMarkets": [
+        {
+          "country": "Otros Caribe",
+          "value": 850
+        },
+        {
+          "country": "Otros Europa",
+          "value": 13644
+        },
+        {
+          "country": "Otros Asia y El Pacífico",
+          "value": 3196
+        },
+        {
+          "country": "Otros África",
+          "value": 1067
+        },
+        {
+          "country": "Otros Oriente Medio",
+          "value": 307
+        }
+      ],
+      "table": "Cuadro1",
+      "pdfPages": [
+        3,
+        4
+      ]
+    },
+    {
+      "iso2": "CO",
+      "direction": "inbound",
+      "excludedRows": [
+        {
+          "country": "Islas Heard y Mcdonald",
+          "code": "HM",
+          "value": 1,
+          "reason": "No usual resident population; excluded from meaningful residence-market ranking"
+        },
+        {
+          "country": "Islas Ultramarinas Menores de Estados Unidos",
+          "code": "UM",
+          "value": 9,
+          "reason": "No usual resident population; excluded from meaningful residence-market ranking"
+        },
+        {
+          "country": "Sin Especificar",
+          "value": 3,
+          "reason": "Unmatched/non-country source label"
+        },
+        {
+          "country": "San Martín",
+          "value": 93,
+          "reason": "Two distinct source labels San Martín and San Martin cannot be assigned safely to French versus Dutch territory without a code dictionary"
+        },
+        {
+          "country": "San Martin",
+          "value": 198,
+          "reason": "Two distinct source labels San Martín and San Martin cannot be assigned safely to French versus Dutch territory without a code dictionary"
+        },
+        {
+          "country": "Terr. Britanico del Oceano Indico",
+          "value": 4,
+          "reason": "Unmatched/non-country source label"
+        },
+        {
+          "country": "Antillas Neerlandesas",
+          "value": 667,
+          "reason": "Unmatched/non-country source label"
+        },
+        {
+          "country": "Organismos internacionales",
+          "value": 993,
+          "reason": "Unmatched/non-country source label"
+        },
+        {
+          "country": "Terr. Británico en Antártida",
+          "value": 1,
+          "reason": "Unmatched/non-country source label"
+        }
+      ],
+      "api": "https://www.datos.gov.co/resource/7wm8-w5ad.json",
+      "aggregation": {
+        "select": "paisoeeresidencia,sum(cant_extranjeros_no_residentes) as value",
+        "where": "a_o=2025",
+        "group": "paisoeeresidencia"
+      },
+      "sourceRows": 236,
+      "sourceTotal": 4677578
+    },
+    {
+      "iso2": "DO",
+      "direction": "inbound",
+      "excludedAggregatesAndOthers": [
+        {
+          "country": "AMERICA DEL NORTE",
+          "value": 4544280.455574788
+        },
+        {
+          "country": "AMERICA CENTRAL Y EL CARIBE",
+          "value": 454546.1821191293
+        },
+        {
+          "country": "San Martin",
+          "value": 5198.221475576243
+        },
+        {
+          "country": "Otros",
+          "value": 17326.60141208357
+        },
+        {
+          "country": "AMERICA DEL SUR",
+          "value": 1391144.535572654
+        },
+        {
+          "country": "Otros",
+          "value": 14660.31127429316
+        },
+        {
+          "country": "ASIA",
+          "value": 24254.12288789339
+        },
+        {
+          "country": "Otros",
+          "value": 8880.56402860318
+        },
+        {
+          "country": "EUROPA",
+          "value": 920547.1173381311
+        },
+        {
+          "country": "Otros",
+          "value": 14773.83042369153
+        },
+        {
+          "country": "RESTO DEL MUNDO",
+          "value": 6972.377506752757
+        },
+        {
+          "country": "Otros",
+          "value": 4524.015081392314
+        }
+      ],
+      "sourceNationalForeignNonresidentTotal": 7341744.790999348,
+      "sourceNationalAllNonresidentTotal": 8860709.156182013
+    },
+    {
+      "iso2": "CR",
+      "direction": "inbound",
+      "metricCount": 67,
+      "enumeratedMarketSum": 2924927,
+      "nationalTotal": 2943991,
+      "tiePolicy": "Sort by source value descending, alphabetical English country name for equal values; rank is display order, not a source statistical rank."
+    },
+    {
+      "iso2": "CR",
+      "direction": "outbound",
+      "metricCount": 27,
+      "enumeratedMarketSum": 1188682,
+      "nationalTotal": 1200056,
+      "tiePolicy": "Sort by source value descending, alphabetical English country name for equal values; rank is display order, not a source statistical rank."
+    },
+    {
+      "iso2": "CO",
+      "direction": "inbound",
+      "metricCount": 227,
+      "enumeratedMarketSum": 4675609,
+      "nationalTotal": 4677578,
+      "tiePolicy": "Sort by source value descending, alphabetical English country name for equal values; rank is display order, not a source statistical rank."
+    },
+    {
+      "iso2": "DO",
+      "direction": "inbound",
+      "metricCount": 59,
+      "enumeratedMarketSum": 7276381.247303706,
+      "nationalTotal": 7341744.790999348,
+      "tiePolicy": "Sort by source value descending, alphabetical English country name for equal values; rank is display order, not a source statistical rank."
+    },
+    {
+      "iso2": "JM",
+      "status": "Not included",
+      "source": "https://www.jtbonline.org/report-and-statistics/",
+      "period": "2025",
+      "note": "The official annual2025 report was listed as published29October2026. Its PDF transfer terminated with ECONNRESET; no partial or unverified Jamaica table is published in this batch."
+    }
+  ]
+}

@@ -1,0 +1,6358 @@
+{
+  "travel": {
+    "UZ": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official 2025 travel flows with direction-specific definitions",
+      "inbound": [
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Kazakhstan",
+        "Russia",
+        "Afghanistan",
+        "Turkmenistan",
+        "China",
+        "Türkiye",
+        "India",
+        "South Korea",
+        "Italy",
+        "Germany",
+        "United States",
+        "Belarus",
+        "Japan",
+        "France",
+        "Spain",
+        "United Kingdom",
+        "Iran",
+        "Azerbaijan",
+        "Pakistan",
+        "Israel",
+        "Poland",
+        "Ukraine",
+        "Malaysia",
+        "Australia",
+        "Indonesia",
+        "Canada",
+        "United Arab Emirates",
+        "Netherlands",
+        "Georgia",
+        "Switzerland",
+        "Saudi Arabia",
+        "Philippines",
+        "Belgium",
+        "Egypt",
+        "Singapore",
+        "Moldova",
+        "Austria",
+        "Sweden",
+        "Latvia",
+        "Mongolia",
+        "Czechia",
+        "Hungary",
+        "Jordan",
+        "Romania",
+        "Portugal",
+        "Denmark",
+        "Greece",
+        "Lithuania",
+        "Taiwan",
+        "Bulgaria",
+        "Armenia",
+        "Norway",
+        "Brazil",
+        "Thailand",
+        "New Zealand",
+        "Oman",
+        "Ireland",
+        "Slovakia",
+        "Morocco",
+        "Finland",
+        "Serbia",
+        "Bangladesh",
+        "South Africa",
+        "Nepal",
+        "Vietnam",
+        "Estonia",
+        "Syria",
+        "Slovenia",
+        "Sri Lanka",
+        "Mexico",
+        "Qatar",
+        "Croatia",
+        "Kuwait",
+        "Hong Kong",
+        "Tunisia",
+        "Algeria",
+        "Lebanon",
+        "Argentina",
+        "Bosnia and Herzegovina",
+        "Bahrain",
+        "Colombia",
+        "Palestine",
+        "Yemen",
+        "Chile",
+        "Cuba",
+        "Iraq",
+        "Luxembourg",
+        "Sudan",
+        "Dominica",
+        "Cyprus",
+        "Iceland",
+        "Comoros",
+        "Montenegro",
+        "Kenya",
+        "Nigeria",
+        "Costa Rica",
+        "North Macedonia",
+        "Mauritius",
+        "Albania",
+        "Saint Kitts and Nevis",
+        "Malta",
+        "Maldives",
+        "Ecuador",
+        "Ethiopia",
+        "Brunei",
+        "Zimbabwe",
+        "Myanmar",
+        "Peru",
+        "Antigua and Barbuda",
+        "Uganda",
+        "Venezuela",
+        "Ivory Coast",
+        "Tanzania",
+        "Cambodia",
+        "Uruguay",
+        "Macau",
+        "Laos",
+        "Zambia",
+        "Ghana",
+        "DR Congo",
+        "Cameroon",
+        "Senegal",
+        "Libya",
+        "Bhutan",
+        "Andorra",
+        "Panama",
+        "Mozambique",
+        "Angola",
+        "Dominican Republic",
+        "Grenada",
+        "Somalia",
+        "Honduras",
+        "Namibia",
+        "Jamaica",
+        "Paraguay",
+        "Bahamas",
+        "Mauritania",
+        "Saint Lucia",
+        "Guatemala",
+        "Bolivia",
+        "San Marino",
+        "Burkina Faso",
+        "Botswana",
+        "North Korea",
+        "El Salvador",
+        "Mali",
+        "Malawi",
+        "Fiji",
+        "Gambia",
+        "Trinidad and Tobago",
+        "Seychelles",
+        "Benin",
+        "Burundi",
+        "Monaco",
+        "Vanuatu",
+        "Guyana",
+        "Gabon",
+        "Djibouti",
+        "Nicaragua",
+        "Timor-Leste",
+        "Chad",
+        "Equatorial Guinea",
+        "Belize",
+        "São Tomé and Príncipe",
+        "Guinea",
+        "Togo",
+        "Liberia",
+        "Republic of the Congo",
+        "Niger",
+        "Madagascar",
+        "Liechtenstein",
+        "Rwanda",
+        "Sierra Leone",
+        "Lesotho",
+        "Eswatini",
+        "Suriname",
+        "Papua New Guinea",
+        "Barbados",
+        "Cape Verde",
+        "Tonga",
+        "Tuvalu",
+        "Haiti",
+        "Eritrea",
+        "Micronesia",
+        "Saint Vincent and the Grenadines",
+        "Guinea-Bissau",
+        "Vatican City",
+        "Central African Republic",
+        "Marshall Islands",
+        "Palau",
+        "Samoa",
+        "Kiribati",
+        "Tokelau",
+        "Anguilla",
+        "British Virgin Islands",
+        "French Polynesia",
+        "Turks and Caicos Islands",
+        "United States Virgin Islands",
+        "Nauru",
+        "Saint Helena, Ascension and Tristan da Cunha",
+        "Bermuda"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 3315129,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 1
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 2695729,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 2
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 2667411,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 3
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 984396,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 4
+        },
+        {
+          "country": "Afghanistan",
+          "code": "AF",
+          "value": 476682,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 5
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 370019,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 6
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 278916,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 7
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 174858,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 8
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 80883,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 9
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 46254,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 10
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 43216,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 11
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 43007,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 12
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 36861,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 13
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 32682,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 14
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 31796,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 15
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 29558,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 16
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 27480,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 17
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 26087,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 18
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 23911,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 19
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 23438,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 20
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 18752,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 21
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 18681,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 22
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 16998,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 23
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 15680,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 24
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 12358,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 25
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 10093,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 26
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 8498,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 27
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 8448,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 28
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 7906,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 29
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 7451,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 30
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 6792,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 31
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 6513,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 32
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 6403,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 33
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 6315,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 34
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 5870,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 35
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 5333,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 36
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 4851,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 37
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 4792,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 38
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 4318,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 39
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 4166,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 40
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 4033,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 41
+        },
+        {
+          "country": "Mongolia",
+          "code": "MN",
+          "value": 3999,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 42
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 3663,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 43
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 3532,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 44
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 3465,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 45
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 3234,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 46
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 3001,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 47
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 2898,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 48
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 2840,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 49
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 2804,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 50
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 2770,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 51
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 2537,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 52
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 2400,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 53
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 2121,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 54
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 2068,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 55
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 1997,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 56
+        },
+        {
+          "country": "New Zealand",
+          "code": "NZ",
+          "value": 1918,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 57
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 1913,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 58
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 1900,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 59
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 1674,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 60
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 1658,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 61
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 1647,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 62
+        },
+        {
+          "country": "Serbia",
+          "code": "RS",
+          "value": 1575,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 63
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 1486,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 64
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 1474,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 65
+        },
+        {
+          "country": "Nepal",
+          "code": "NP",
+          "value": 1463,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 66
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 1430,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 67
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 1381,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 68
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 1364,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 69
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 1357,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 70
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 1331,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 71
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 1143,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 72
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 1079,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 73
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 1070,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 74
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 987,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 75
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 846,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 76
+        },
+        {
+          "country": "Tunisia",
+          "code": "TN",
+          "value": 805,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 77
+        },
+        {
+          "country": "Algeria",
+          "code": "DZ",
+          "value": 735,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 78
+        },
+        {
+          "country": "Lebanon",
+          "code": "LB",
+          "value": 719,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 79
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 698,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 80
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "code": "BA",
+          "value": 696,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 81
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 551,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 82
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 529,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 83
+        },
+        {
+          "country": "Palestine",
+          "code": "PS",
+          "value": 458,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 84
+        },
+        {
+          "country": "Yemen",
+          "code": "YE",
+          "value": 452,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 85
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 451,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 86
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 448,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 87
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 424,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 88
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 360,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 89
+        },
+        {
+          "country": "Sudan",
+          "code": "SD",
+          "value": 347,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 90
+        },
+        {
+          "country": "Dominica",
+          "code": "DM",
+          "value": 337,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 91
+        },
+        {
+          "country": "Cyprus",
+          "code": "CY",
+          "value": 334,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 92
+        },
+        {
+          "country": "Iceland",
+          "code": "IS",
+          "value": 269,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 93
+        },
+        {
+          "country": "Comoros",
+          "code": "KM",
+          "value": 266,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 94
+        },
+        {
+          "country": "Montenegro",
+          "code": "ME",
+          "value": 251,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 95
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 244,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 96
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 239,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 97
+        },
+        {
+          "country": "Costa Rica",
+          "code": "CR",
+          "value": 207,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 98
+        },
+        {
+          "country": "North Macedonia",
+          "code": "MK",
+          "value": 192,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 99
+        },
+        {
+          "country": "Mauritius",
+          "code": "MU",
+          "value": 186,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 100
+        },
+        {
+          "country": "Albania",
+          "code": "AL",
+          "value": 176,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 101
+        },
+        {
+          "country": "Saint Kitts and Nevis",
+          "code": "KN",
+          "value": 171,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 102
+        },
+        {
+          "country": "Malta",
+          "code": "MT",
+          "value": 169,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 103
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 152,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 104
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 142,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 105
+        },
+        {
+          "country": "Ethiopia",
+          "code": "ET",
+          "value": 135,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 106
+        },
+        {
+          "country": "Brunei",
+          "code": "BN",
+          "value": 129,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 107
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 127,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 108
+        },
+        {
+          "country": "Myanmar",
+          "code": "MM",
+          "value": 121,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 109
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 120,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 110
+        },
+        {
+          "country": "Antigua and Barbuda",
+          "code": "AG",
+          "value": 119,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 111
+        },
+        {
+          "country": "Uganda",
+          "code": "UG",
+          "value": 115,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 112
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 113,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 113
+        },
+        {
+          "country": "Ivory Coast",
+          "code": "CI",
+          "value": 105,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 114
+        },
+        {
+          "country": "Tanzania",
+          "code": "TZ",
+          "value": 104,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 115
+        },
+        {
+          "country": "Cambodia",
+          "code": "KH",
+          "value": 102,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 116
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 93,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 117
+        },
+        {
+          "country": "Macau",
+          "code": "MO",
+          "value": 89,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 118
+        },
+        {
+          "country": "Laos",
+          "code": "LA",
+          "value": 86,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 119
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 79,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 120
+        },
+        {
+          "country": "Ghana",
+          "code": "GH",
+          "value": 76,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 121
+        },
+        {
+          "country": "DR Congo",
+          "code": "CD",
+          "value": 75,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 122
+        },
+        {
+          "country": "Cameroon",
+          "code": "CM",
+          "value": 71,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 123
+        },
+        {
+          "country": "Senegal",
+          "code": "SN",
+          "value": 69,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 124
+        },
+        {
+          "country": "Libya",
+          "code": "LY",
+          "value": 67,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 125
+        },
+        {
+          "country": "Bhutan",
+          "code": "BT",
+          "value": 62,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 126
+        },
+        {
+          "country": "Andorra",
+          "code": "AD",
+          "value": 60,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 127
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 59,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 128
+        },
+        {
+          "country": "Mozambique",
+          "code": "MZ",
+          "value": 54,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 129
+        },
+        {
+          "country": "Angola",
+          "code": "AO",
+          "value": 52,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 130
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 52,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 131
+        },
+        {
+          "country": "Grenada",
+          "code": "GD",
+          "value": 51,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 132
+        },
+        {
+          "country": "Somalia",
+          "code": "SO",
+          "value": 51,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 133
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 47,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 134
+        },
+        {
+          "country": "Namibia",
+          "code": "NA",
+          "value": 46,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 135
+        },
+        {
+          "country": "Jamaica",
+          "code": "JM",
+          "value": 43,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 136
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 43,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 137
+        },
+        {
+          "country": "Bahamas",
+          "code": "BS",
+          "value": 42,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 138
+        },
+        {
+          "country": "Mauritania",
+          "code": "MR",
+          "value": 41,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 139
+        },
+        {
+          "country": "Saint Lucia",
+          "code": "LC",
+          "value": 40,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 140
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 40,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 141
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 39,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 142
+        },
+        {
+          "country": "San Marino",
+          "code": "SM",
+          "value": 39,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 143
+        },
+        {
+          "country": "Burkina Faso",
+          "code": "BF",
+          "value": 38,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 144
+        },
+        {
+          "country": "Botswana",
+          "code": "BW",
+          "value": 31,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 145
+        },
+        {
+          "country": "North Korea",
+          "code": "KP",
+          "value": 27,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 146
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 27,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 147
+        },
+        {
+          "country": "Mali",
+          "code": "ML",
+          "value": 27,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 148
+        },
+        {
+          "country": "Malawi",
+          "code": "MW",
+          "value": 27,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 149
+        },
+        {
+          "country": "Fiji",
+          "code": "FJ",
+          "value": 26,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 150
+        },
+        {
+          "country": "Gambia",
+          "code": "GM",
+          "value": 26,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 151
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "code": "TT",
+          "value": 25,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 152
+        },
+        {
+          "country": "Seychelles",
+          "code": "SC",
+          "value": 23,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 153
+        },
+        {
+          "country": "Benin",
+          "code": "BJ",
+          "value": 22,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 154
+        },
+        {
+          "country": "Burundi",
+          "code": "BI",
+          "value": 22,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 155
+        },
+        {
+          "country": "Monaco",
+          "code": "MC",
+          "value": 21,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 156
+        },
+        {
+          "country": "Vanuatu",
+          "code": "VU",
+          "value": 21,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 157
+        },
+        {
+          "country": "Guyana",
+          "code": "GY",
+          "value": 20,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 158
+        },
+        {
+          "country": "Gabon",
+          "code": "GA",
+          "value": 19,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 159
+        },
+        {
+          "country": "Djibouti",
+          "code": "DJ",
+          "value": 18,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 160
+        },
+        {
+          "country": "Nicaragua",
+          "code": "NI",
+          "value": 18,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 161
+        },
+        {
+          "country": "Timor-Leste",
+          "code": "TL",
+          "value": 17,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 162
+        },
+        {
+          "country": "Chad",
+          "code": "TD",
+          "value": 16,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 163
+        },
+        {
+          "country": "Equatorial Guinea",
+          "code": "GQ",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 164
+        },
+        {
+          "country": "Belize",
+          "code": "BZ",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 165
+        },
+        {
+          "country": "São Tomé and Príncipe",
+          "code": "ST",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 166
+        },
+        {
+          "country": "Guinea",
+          "code": "GN",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 167
+        },
+        {
+          "country": "Togo",
+          "code": "TG",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 168
+        },
+        {
+          "country": "Liberia",
+          "code": "LR",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 169
+        },
+        {
+          "country": "Republic of the Congo",
+          "code": "CG",
+          "value": 14,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 170
+        },
+        {
+          "country": "Niger",
+          "code": "NE",
+          "value": 14,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 171
+        },
+        {
+          "country": "Madagascar",
+          "code": "MG",
+          "value": 13,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 172
+        },
+        {
+          "country": "Liechtenstein",
+          "code": "LI",
+          "value": 12,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 173
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 12,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 174
+        },
+        {
+          "country": "Sierra Leone",
+          "code": "SL",
+          "value": 11,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 175
+        },
+        {
+          "country": "Lesotho",
+          "code": "LS",
+          "value": 11,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 176
+        },
+        {
+          "country": "Eswatini",
+          "code": "SZ",
+          "value": 11,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 177
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 10,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 178
+        },
+        {
+          "country": "Papua New Guinea",
+          "code": "PG",
+          "value": 9,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 179
+        },
+        {
+          "country": "Barbados",
+          "code": "BB",
+          "value": 8,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 180
+        },
+        {
+          "country": "Cape Verde",
+          "code": "CV",
+          "value": 7,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 181
+        },
+        {
+          "country": "Tonga",
+          "code": "TO",
+          "value": 5,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 182
+        },
+        {
+          "country": "Tuvalu",
+          "code": "TV",
+          "value": 3,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 183
+        },
+        {
+          "country": "Haiti",
+          "code": "HT",
+          "value": 3,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 184
+        },
+        {
+          "country": "Eritrea",
+          "code": "ER",
+          "value": 3,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 185
+        },
+        {
+          "country": "Micronesia",
+          "code": "FM",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 186
+        },
+        {
+          "country": "Saint Vincent and the Grenadines",
+          "code": "VC",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 187
+        },
+        {
+          "country": "Guinea-Bissau",
+          "code": "GW",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 188
+        },
+        {
+          "country": "Vatican City",
+          "code": "VA",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 189
+        },
+        {
+          "country": "Central African Republic",
+          "code": "CF",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 190
+        },
+        {
+          "country": "Marshall Islands",
+          "code": "MH",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 191
+        },
+        {
+          "country": "Palau",
+          "code": "PW",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 192
+        },
+        {
+          "country": "Samoa",
+          "code": "WS",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 193
+        },
+        {
+          "country": "Kiribati",
+          "code": "KI",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 194
+        },
+        {
+          "country": "Tokelau",
+          "code": "TK",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 195
+        },
+        {
+          "country": "Anguilla",
+          "code": "AI",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 196
+        },
+        {
+          "country": "British Virgin Islands",
+          "code": "VG",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 197
+        },
+        {
+          "country": "French Polynesia",
+          "code": "PF",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 198
+        },
+        {
+          "country": "Turks and Caicos Islands",
+          "code": "TC",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 199
+        },
+        {
+          "country": "United States Virgin Islands",
+          "code": "VI",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 200
+        },
+        {
+          "country": "Nauru",
+          "code": "NR",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 201
+        },
+        {
+          "country": "Saint Helena, Ascension and Tristan da Cunha",
+          "code": "SH",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 202
+        },
+        {
+          "country": "Bermuda",
+          "code": "BM",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/1031/?lang=en",
+          "rank": 203
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Officially declared foreign-citizen arrivals for tourism purposes, by country",
+      "inboundUrl": "https://siat.stat.uz/data/1031/?lang=en",
+      "inboundUnit": "persons (recorded trips)",
+      "inboundScope": "All individually identifiable countries and territories in SIAT annual series 2.04.11.0037",
+      "inboundNote": "National Statistics Committee annual observations, updated 23 April 2026; original unit persons. The official tourism-purpose category covers more than leisure alone; counts are trips/declarations, not unique holidaymakers. Source records zero values for some markets. Historical/unspecified geographical categories are excluded from current-country ranks. No market share is calculated because this table does not supply an explicit national-total row.",
+      "url": "https://siat.stat.uz/data/1031/?lang=en",
+      "outbound": [
+        "Kyrgyzstan",
+        "Kazakhstan",
+        "Tajikistan",
+        "Russia",
+        "Saudi Arabia",
+        "Türkiye",
+        "United Arab Emirates",
+        "Egypt",
+        "China",
+        "Vietnam",
+        "South Korea",
+        "Thailand",
+        "India",
+        "Azerbaijan",
+        "Georgia",
+        "United States",
+        "Kuwait",
+        "Qatar",
+        "Turkmenistan",
+        "Malaysia",
+        "Germany",
+        "United Kingdom",
+        "Latvia",
+        "Belarus",
+        "Poland",
+        "Japan",
+        "France",
+        "Israel",
+        "Italy",
+        "Iran",
+        "Maldives",
+        "Czechia",
+        "Afghanistan",
+        "Oman",
+        "Indonesia",
+        "Spain",
+        "Pakistan",
+        "Jordan",
+        "Hungary",
+        "Bulgaria",
+        "Mongolia",
+        "Sri Lanka",
+        "Belgium",
+        "Switzerland",
+        "Seychelles",
+        "Singapore",
+        "Greece",
+        "Hong Kong",
+        "Bahrain",
+        "Austria",
+        "Croatia",
+        "Denmark",
+        "Slovenia",
+        "Central African Republic",
+        "Cyprus",
+        "Kenya",
+        "North Macedonia",
+        "Romania",
+        "Estonia",
+        "Malta",
+        "Myanmar",
+        "Rwanda",
+        "Colombia",
+        "Syria",
+        "Ukraine",
+        "Australia",
+        "Armenia",
+        "Bangladesh",
+        "Lithuania",
+        "Moldova",
+        "Netherlands",
+        "Iraq",
+        "Morocco",
+        "Philippines",
+        "Taiwan",
+        "Luxembourg",
+        "Brazil",
+        "Finland",
+        "Montenegro"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 3290079,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 1
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 1345084,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 2
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 1307848,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 3
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 433360,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 4
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 366251,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 5
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 268976,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 6
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 139419,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 7
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 65426,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 8
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 52646,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 9
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 39192,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 10
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 37845,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 11
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 30476,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 12
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 22317,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 13
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 22205,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 14
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 17351,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 15
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 16370,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 16
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 14441,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 17
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 13620,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 18
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 13512,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 19
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 13274,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 20
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 8726,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 21
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 6769,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 22
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 4170,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 23
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 3489,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 24
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 3335,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 25
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 2977,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 26
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 2918,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 27
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 2759,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 28
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 2612,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 29
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 2024,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 30
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 1735,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 31
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 1593,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 32
+        },
+        {
+          "country": "Afghanistan",
+          "code": "AF",
+          "value": 1586,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 33
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 1083,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 34
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 1073,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 35
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 754,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 36
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 435,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 37
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 267,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 38
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 221,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 39
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 172,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 40
+        },
+        {
+          "country": "Mongolia",
+          "code": "MN",
+          "value": 100,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 41
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 60,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 42
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 46,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 43
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 40,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 44
+        },
+        {
+          "country": "Seychelles",
+          "code": "SC",
+          "value": 17,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 45
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 16,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 46
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 15,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 47
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 14,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 48
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 9,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 49
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 7,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 50
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 3,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 51
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 52
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 2,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 53
+        },
+        {
+          "country": "Central African Republic",
+          "code": "CF",
+          "value": 1,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 54
+        },
+        {
+          "country": "Cyprus",
+          "code": "CY",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 55
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 56
+        },
+        {
+          "country": "North Macedonia",
+          "code": "MK",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 57
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 58
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 59
+        },
+        {
+          "country": "Malta",
+          "code": "MT",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 60
+        },
+        {
+          "country": "Myanmar",
+          "code": "MM",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 61
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 62
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 63
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 64
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 65
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 66
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 67
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 68
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 69
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 70
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 71
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 72
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 73
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 74
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 75
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 76
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 77
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 78
+        },
+        {
+          "country": "Montenegro",
+          "code": "ME",
+          "value": 0,
+          "url": "https://siat.stat.uz/data/978/?lang=en",
+          "rank": 79
+        }
+      ],
+      "outboundPeriod": "2025",
+      "outboundMetricLabel": "Officially declared Uzbek-citizen departures for tourism purposes, by destination",
+      "outboundUrl": "https://siat.stat.uz/data/978/?lang=en",
+      "outboundUnit": "persons (recorded trips)",
+      "outboundScope": "All individually identifiable countries and territories in SIAT annual series 2.04.11.0020",
+      "outboundNote": "National Statistics Committee annual observations, updated 23 April 2026; original unit persons. The official tourism-purpose category covers more than leisure alone; counts are trips/declarations, not unique holidaymakers. Source records zero values for some markets. Historical/unspecified geographical categories are excluded from current-country ranks. No market share is calculated because this table does not supply an explicit national-total row."
+    },
+    "KZ": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official 2025 travel flows with direction-specific definitions",
+      "inbound": [
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "Russia",
+        "China",
+        "Tajikistan",
+        "Belarus",
+        "India",
+        "Türkiye",
+        "Azerbaijan",
+        "Germany",
+        "Turkmenistan",
+        "South Korea",
+        "Mongolia",
+        "United States",
+        "Ukraine",
+        "United Kingdom",
+        "Georgia",
+        "Philippines",
+        "Malaysia",
+        "United Arab Emirates",
+        "Iran",
+        "Oman",
+        "Italy",
+        "Armenia",
+        "France",
+        "Poland",
+        "Saudi Arabia",
+        "Japan",
+        "Australia",
+        "Canada",
+        "Netherlands",
+        "Vietnam",
+        "Moldova",
+        "Thailand",
+        "Israel",
+        "Spain",
+        "Singapore",
+        "Indonesia",
+        "Belgium",
+        "Egypt",
+        "Czechia",
+        "Switzerland",
+        "Kuwait",
+        "Austria",
+        "Sweden",
+        "Pakistan",
+        "Serbia",
+        "Brazil",
+        "Latvia",
+        "Lithuania",
+        "Hungary",
+        "Romania",
+        "Greece",
+        "Bulgaria",
+        "Finland",
+        "Ireland",
+        "Portugal",
+        "Norway",
+        "Bahrain",
+        "Slovakia",
+        "New Zealand",
+        "Denmark",
+        "Taiwan",
+        "Morocco",
+        "Estonia",
+        "Qatar",
+        "Afghanistan",
+        "South Africa",
+        "Jordan",
+        "Colombia",
+        "Slovenia",
+        "Croatia",
+        "Bangladesh",
+        "Hong Kong",
+        "Mexico",
+        "Argentina",
+        "Cyprus",
+        "Iceland",
+        "Nigeria",
+        "Lebanon",
+        "Tunisia",
+        "Sri Lanka",
+        "Syria",
+        "Chile",
+        "Macau",
+        "Kenya",
+        "Nepal",
+        "Albania",
+        "Venezuela",
+        "Maldives",
+        "Myanmar",
+        "Iraq",
+        "Luxembourg",
+        "North Macedonia",
+        "Ghana",
+        "Malta",
+        "Algeria",
+        "Yemen",
+        "Ecuador",
+        "Cuba",
+        "Sudan",
+        "Kosovo",
+        "Peru",
+        "Palestine",
+        "Libya",
+        "Bosnia and Herzegovina",
+        "Saint Kitts and Nevis",
+        "Montenegro",
+        "DR Congo",
+        "El Salvador",
+        "Zimbabwe",
+        "Rwanda",
+        "Tanzania",
+        "Uganda",
+        "Cambodia",
+        "Comoros",
+        "Costa Rica",
+        "Brunei",
+        "Sierra Leone",
+        "Liechtenstein",
+        "Dominica",
+        "Ethiopia",
+        "Antigua and Barbuda",
+        "Cameroon",
+        "Mauritius",
+        "Panama",
+        "Andorra",
+        "Jamaica",
+        "Mozambique",
+        "Bolivia",
+        "Trinidad and Tobago",
+        "Uruguay",
+        "Bhutan",
+        "Zambia",
+        "Fiji",
+        "Dominican Republic",
+        "Madagascar",
+        "Botswana",
+        "Namibia",
+        "Seychelles",
+        "Laos",
+        "Somalia",
+        "Guatemala",
+        "Ivory Coast",
+        "Burkina Faso",
+        "Malawi",
+        "San Marino",
+        "Senegal",
+        "Angola",
+        "Grenada",
+        "Republic of the Congo",
+        "Vatican City",
+        "Benin",
+        "Papua New Guinea",
+        "Togo",
+        "Bahamas",
+        "Paraguay",
+        "Barbados",
+        "Guinea",
+        "North Korea",
+        "Honduras",
+        "Mauritania",
+        "American Samoa",
+        "Haiti",
+        "Gambia",
+        "Djibouti",
+        "Vanuatu",
+        "Mali",
+        "Suriname",
+        "Eritrea",
+        "Niger",
+        "Nicaragua",
+        "Eswatini",
+        "British Indian Ocean Territory",
+        "Burundi",
+        "Timor-Leste",
+        "Gabon",
+        "Guyana",
+        "Saint Lucia",
+        "Equatorial Guinea",
+        "Belize",
+        "Guinea-Bissau",
+        "Lesotho",
+        "Liberia",
+        "Samoa",
+        "Central African Republic",
+        "Chad",
+        "Cape Verde",
+        "Micronesia",
+        "Monaco",
+        "Réunion",
+        "South Sudan",
+        "Anguilla",
+        "Guernsey",
+        "Kiribati",
+        "Cocos (Keeling) Islands",
+        "Marshall Islands",
+        "Saint Vincent and the Grenadines",
+        "Solomon Islands",
+        "Tonga",
+        "Tuvalu"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 5590148,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 1,
+          "share": 35.51
+        },
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 3545711,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 2,
+          "share": 22.53
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 3502587,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 3,
+          "share": 22.25
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 961627,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 4,
+          "share": 6.11
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 883715,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 5,
+          "share": 5.61
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 167115,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 6,
+          "share": 1.06
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 157845,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 7,
+          "share": 1
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 135952,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 8,
+          "share": 0.86
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 96833,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 9,
+          "share": 0.62
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 95229,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 10,
+          "share": 0.6
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 54378,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 11,
+          "share": 0.35
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 50906,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 12,
+          "share": 0.32
+        },
+        {
+          "country": "Mongolia",
+          "code": "MN",
+          "value": 42905,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 13,
+          "share": 0.27
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 38525,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 14,
+          "share": 0.24
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 25122,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 15,
+          "share": 0.16
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 24292,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 16,
+          "share": 0.15
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 22359,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 17,
+          "share": 0.14
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 20389,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 18,
+          "share": 0.13
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 19138,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 19,
+          "share": 0.12
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 18302,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 20,
+          "share": 0.12
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 15821,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 21,
+          "share": 0.1
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 15744,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 22,
+          "share": 0.1
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 15493,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 23,
+          "share": 0.1
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 15452,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 24,
+          "share": 0.1
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 15120,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 25,
+          "share": 0.1
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 13540,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 26,
+          "share": 0.09
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 11666,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 27,
+          "share": 0.07
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 10951,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 28,
+          "share": 0.07
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 9091,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 29,
+          "share": 0.06
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 8789,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 30,
+          "share": 0.06
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 8431,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 31,
+          "share": 0.05
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 8129,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 32,
+          "share": 0.05
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 7312,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 33,
+          "share": 0.05
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 7204,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 34,
+          "share": 0.05
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 6486,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 35,
+          "share": 0.04
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 6462,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 36,
+          "share": 0.04
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 6379,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 37,
+          "share": 0.04
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 6364,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 38,
+          "share": 0.04
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 6232,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 39,
+          "share": 0.04
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 4407,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 40,
+          "share": 0.03
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 4354,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 41,
+          "share": 0.03
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 4220,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 42,
+          "share": 0.03
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 3829,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 43,
+          "share": 0.02
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 3267,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 44,
+          "share": 0.02
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 3265,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 45,
+          "share": 0.02
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 3224,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 46,
+          "share": 0.02
+        },
+        {
+          "country": "Serbia",
+          "code": "RS",
+          "value": 2922,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 47,
+          "share": 0.02
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 2905,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 48,
+          "share": 0.02
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 2827,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 49,
+          "share": 0.02
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 2827,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 50,
+          "share": 0.02
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 2761,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 51,
+          "share": 0.02
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 2734,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 52,
+          "share": 0.02
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 2702,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 53,
+          "share": 0.02
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 2294,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 54,
+          "share": 0.01
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 2037,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 55,
+          "share": 0.01
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 1988,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 56,
+          "share": 0.01
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 1820,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 57,
+          "share": 0.01
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 1804,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 58,
+          "share": 0.01
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 1754,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 59,
+          "share": 0.01
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 1738,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 60,
+          "share": 0.01
+        },
+        {
+          "country": "New Zealand",
+          "code": "NZ",
+          "value": 1649,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 61,
+          "share": 0.01
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 1632,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 62,
+          "share": 0.01
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 1544,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 63,
+          "share": 0.01
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 1543,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 64,
+          "share": 0.01
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 1437,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 65,
+          "share": 0.01
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 1408,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 66,
+          "share": 0.01
+        },
+        {
+          "country": "Afghanistan",
+          "code": "AF",
+          "value": 1216,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 67,
+          "share": 0.01
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 1187,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 68,
+          "share": 0.01
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 1115,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 69,
+          "share": 0.01
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 1043,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 70,
+          "share": 0.01
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 996,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 71,
+          "share": 0.01
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 988,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 72,
+          "share": 0.01
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 902,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 73,
+          "share": 0.01
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 879,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 74,
+          "share": 0.01
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 857,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 75,
+          "share": 0.01
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 689,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 76,
+          "share": 0
+        },
+        {
+          "country": "Cyprus",
+          "code": "CY",
+          "value": 668,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 77,
+          "share": 0
+        },
+        {
+          "country": "Iceland",
+          "code": "IS",
+          "value": 593,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 78,
+          "share": 0
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 553,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 79,
+          "share": 0
+        },
+        {
+          "country": "Lebanon",
+          "code": "LB",
+          "value": 533,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 80,
+          "share": 0
+        },
+        {
+          "country": "Tunisia",
+          "code": "TN",
+          "value": 521,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 81,
+          "share": 0
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 473,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 82,
+          "share": 0
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 416,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 83,
+          "share": 0
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 414,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 84,
+          "share": 0
+        },
+        {
+          "country": "Macau",
+          "code": "MO",
+          "value": 366,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 85,
+          "share": 0
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 345,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 86,
+          "share": 0
+        },
+        {
+          "country": "Nepal",
+          "code": "NP",
+          "value": 333,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 87,
+          "share": 0
+        },
+        {
+          "country": "Albania",
+          "code": "AL",
+          "value": 308,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 88,
+          "share": 0
+        },
+        {
+          "country": "Venezuela",
+          "code": "VE",
+          "value": 303,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 89,
+          "share": 0
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 293,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 90,
+          "share": 0
+        },
+        {
+          "country": "Myanmar",
+          "code": "MM",
+          "value": 291,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 91,
+          "share": 0
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 289,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 92,
+          "share": 0
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 277,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 93,
+          "share": 0
+        },
+        {
+          "country": "North Macedonia",
+          "code": "MK",
+          "value": 265,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 94,
+          "share": 0
+        },
+        {
+          "country": "Ghana",
+          "code": "GH",
+          "value": 250,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 95,
+          "share": 0
+        },
+        {
+          "country": "Malta",
+          "code": "MT",
+          "value": 249,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 96,
+          "share": 0
+        },
+        {
+          "country": "Algeria",
+          "code": "DZ",
+          "value": 246,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 97,
+          "share": 0
+        },
+        {
+          "country": "Yemen",
+          "code": "YE",
+          "value": 246,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 98,
+          "share": 0
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 229,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 99,
+          "share": 0
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 183,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 100,
+          "share": 0
+        },
+        {
+          "country": "Sudan",
+          "code": "SD",
+          "value": 179,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 101,
+          "share": 0
+        },
+        {
+          "country": "Kosovo",
+          "code": "XK",
+          "value": 168,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 102,
+          "share": 0
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 161,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 103,
+          "share": 0
+        },
+        {
+          "country": "Palestine",
+          "code": "PS",
+          "value": 152,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 104,
+          "share": 0
+        },
+        {
+          "country": "Libya",
+          "code": "LY",
+          "value": 135,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 105,
+          "share": 0
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "code": "BA",
+          "value": 131,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 106,
+          "share": 0
+        },
+        {
+          "country": "Saint Kitts and Nevis",
+          "code": "KN",
+          "value": 126,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 107,
+          "share": 0
+        },
+        {
+          "country": "Montenegro",
+          "code": "ME",
+          "value": 124,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 108,
+          "share": 0
+        },
+        {
+          "country": "DR Congo",
+          "code": "CD",
+          "value": 100,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 109,
+          "share": 0
+        },
+        {
+          "country": "El Salvador",
+          "code": "SV",
+          "value": 87,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 110,
+          "share": 0
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 84,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 111,
+          "share": 0
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 81,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 112,
+          "share": 0
+        },
+        {
+          "country": "Tanzania",
+          "code": "TZ",
+          "value": 79,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 113,
+          "share": 0
+        },
+        {
+          "country": "Uganda",
+          "code": "UG",
+          "value": 74,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 114,
+          "share": 0
+        },
+        {
+          "country": "Cambodia",
+          "code": "KH",
+          "value": 72,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 115,
+          "share": 0
+        },
+        {
+          "country": "Comoros",
+          "code": "KM",
+          "value": 72,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 116,
+          "share": 0
+        },
+        {
+          "country": "Costa Rica",
+          "code": "CR",
+          "value": 70,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 117,
+          "share": 0
+        },
+        {
+          "country": "Brunei",
+          "code": "BN",
+          "value": 69,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 118,
+          "share": 0
+        },
+        {
+          "country": "Sierra Leone",
+          "code": "SL",
+          "value": 69,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 119,
+          "share": 0
+        },
+        {
+          "country": "Liechtenstein",
+          "code": "LI",
+          "value": 65,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 120,
+          "share": 0
+        },
+        {
+          "country": "Dominica",
+          "code": "DM",
+          "value": 59,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 121,
+          "share": 0
+        },
+        {
+          "country": "Ethiopia",
+          "code": "ET",
+          "value": 59,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 122,
+          "share": 0
+        },
+        {
+          "country": "Antigua and Barbuda",
+          "code": "AG",
+          "value": 58,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 123,
+          "share": 0
+        },
+        {
+          "country": "Cameroon",
+          "code": "CM",
+          "value": 56,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 124,
+          "share": 0
+        },
+        {
+          "country": "Mauritius",
+          "code": "MU",
+          "value": 54,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 125,
+          "share": 0
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 51,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 126,
+          "share": 0
+        },
+        {
+          "country": "Andorra",
+          "code": "AD",
+          "value": 44,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 127,
+          "share": 0
+        },
+        {
+          "country": "Jamaica",
+          "code": "JM",
+          "value": 42,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 128,
+          "share": 0
+        },
+        {
+          "country": "Mozambique",
+          "code": "MZ",
+          "value": 37,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 129,
+          "share": 0
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 32,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 130,
+          "share": 0
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "code": "TT",
+          "value": 30,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 131,
+          "share": 0
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 28,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 132,
+          "share": 0
+        },
+        {
+          "country": "Bhutan",
+          "code": "BT",
+          "value": 26,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 133,
+          "share": 0
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 26,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 134,
+          "share": 0
+        },
+        {
+          "country": "Fiji",
+          "code": "FJ",
+          "value": 26,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 135,
+          "share": 0
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 25,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 136,
+          "share": 0
+        },
+        {
+          "country": "Madagascar",
+          "code": "MG",
+          "value": 25,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 137,
+          "share": 0
+        },
+        {
+          "country": "Botswana",
+          "code": "BW",
+          "value": 24,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 138,
+          "share": 0
+        },
+        {
+          "country": "Namibia",
+          "code": "NA",
+          "value": 24,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 139,
+          "share": 0
+        },
+        {
+          "country": "Seychelles",
+          "code": "SC",
+          "value": 24,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 140,
+          "share": 0
+        },
+        {
+          "country": "Laos",
+          "code": "LA",
+          "value": 23,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 141,
+          "share": 0
+        },
+        {
+          "country": "Somalia",
+          "code": "SO",
+          "value": 22,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 142,
+          "share": 0
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 21,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 143,
+          "share": 0
+        },
+        {
+          "country": "Ivory Coast",
+          "code": "CI",
+          "value": 20,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 144,
+          "share": 0
+        },
+        {
+          "country": "Burkina Faso",
+          "code": "BF",
+          "value": 19,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 145,
+          "share": 0
+        },
+        {
+          "country": "Malawi",
+          "code": "MW",
+          "value": 19,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 146,
+          "share": 0
+        },
+        {
+          "country": "San Marino",
+          "code": "SM",
+          "value": 19,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 147,
+          "share": 0
+        },
+        {
+          "country": "Senegal",
+          "code": "SN",
+          "value": 19,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 148,
+          "share": 0
+        },
+        {
+          "country": "Angola",
+          "code": "AO",
+          "value": 18,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 149,
+          "share": 0
+        },
+        {
+          "country": "Grenada",
+          "code": "GD",
+          "value": 18,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 150,
+          "share": 0
+        },
+        {
+          "country": "Republic of the Congo",
+          "code": "CG",
+          "value": 18,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 151,
+          "share": 0
+        },
+        {
+          "country": "Vatican City",
+          "code": "VA",
+          "value": 16,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 152,
+          "share": 0
+        },
+        {
+          "country": "Benin",
+          "code": "BJ",
+          "value": 15,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 153,
+          "share": 0
+        },
+        {
+          "country": "Papua New Guinea",
+          "code": "PG",
+          "value": 15,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 154,
+          "share": 0
+        },
+        {
+          "country": "Togo",
+          "code": "TG",
+          "value": 14,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 155,
+          "share": 0
+        },
+        {
+          "country": "Bahamas",
+          "code": "BS",
+          "value": 12,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 156,
+          "share": 0
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 12,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 157,
+          "share": 0
+        },
+        {
+          "country": "Barbados",
+          "code": "BB",
+          "value": 11,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 158,
+          "share": 0
+        },
+        {
+          "country": "Guinea",
+          "code": "GN",
+          "value": 11,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 159,
+          "share": 0
+        },
+        {
+          "country": "North Korea",
+          "code": "KP",
+          "value": 11,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 160,
+          "share": 0
+        },
+        {
+          "country": "Honduras",
+          "code": "HN",
+          "value": 10,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 161,
+          "share": 0
+        },
+        {
+          "country": "Mauritania",
+          "code": "MR",
+          "value": 10,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 162,
+          "share": 0
+        },
+        {
+          "country": "American Samoa",
+          "code": "AS",
+          "value": 9,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 163,
+          "share": 0
+        },
+        {
+          "country": "Haiti",
+          "code": "HT",
+          "value": 7,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 164,
+          "share": 0
+        },
+        {
+          "country": "Gambia",
+          "code": "GM",
+          "value": 7,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 165,
+          "share": 0
+        },
+        {
+          "country": "Djibouti",
+          "code": "DJ",
+          "value": 7,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 166,
+          "share": 0
+        },
+        {
+          "country": "Vanuatu",
+          "code": "VU",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 167,
+          "share": 0
+        },
+        {
+          "country": "Mali",
+          "code": "ML",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 168,
+          "share": 0
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 169,
+          "share": 0
+        },
+        {
+          "country": "Eritrea",
+          "code": "ER",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 170,
+          "share": 0
+        },
+        {
+          "country": "Niger",
+          "code": "NE",
+          "value": 5,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 171,
+          "share": 0
+        },
+        {
+          "country": "Nicaragua",
+          "code": "NI",
+          "value": 5,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 172,
+          "share": 0
+        },
+        {
+          "country": "Eswatini",
+          "code": "SZ",
+          "value": 5,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 173,
+          "share": 0
+        },
+        {
+          "country": "British Indian Ocean Territory",
+          "code": "IO",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 174,
+          "share": 0
+        },
+        {
+          "country": "Burundi",
+          "code": "BI",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 175,
+          "share": 0
+        },
+        {
+          "country": "Timor-Leste",
+          "code": "TL",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 176,
+          "share": 0
+        },
+        {
+          "country": "Gabon",
+          "code": "GA",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 177,
+          "share": 0
+        },
+        {
+          "country": "Guyana",
+          "code": "GY",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 178,
+          "share": 0
+        },
+        {
+          "country": "Saint Lucia",
+          "code": "LC",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 179,
+          "share": 0
+        },
+        {
+          "country": "Equatorial Guinea",
+          "code": "GQ",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 180,
+          "share": 0
+        },
+        {
+          "country": "Belize",
+          "code": "BZ",
+          "value": 3,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 181,
+          "share": 0
+        },
+        {
+          "country": "Guinea-Bissau",
+          "code": "GW",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 182,
+          "share": 0
+        },
+        {
+          "country": "Lesotho",
+          "code": "LS",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 183,
+          "share": 0
+        },
+        {
+          "country": "Liberia",
+          "code": "LR",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 184,
+          "share": 0
+        },
+        {
+          "country": "Samoa",
+          "code": "WS",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 185,
+          "share": 0
+        },
+        {
+          "country": "Central African Republic",
+          "code": "CF",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 186,
+          "share": 0
+        },
+        {
+          "country": "Chad",
+          "code": "TD",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 187,
+          "share": 0
+        },
+        {
+          "country": "Cape Verde",
+          "code": "CV",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 188,
+          "share": 0
+        },
+        {
+          "country": "Micronesia",
+          "code": "FM",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 189,
+          "share": 0
+        },
+        {
+          "country": "Monaco",
+          "code": "MC",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 190,
+          "share": 0
+        },
+        {
+          "country": "Réunion",
+          "code": "RE",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 191,
+          "share": 0
+        },
+        {
+          "country": "South Sudan",
+          "code": "SS",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 192,
+          "share": 0
+        },
+        {
+          "country": "Anguilla",
+          "code": "AI",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 193,
+          "share": 0
+        },
+        {
+          "country": "Guernsey",
+          "code": "GG",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 194,
+          "share": 0
+        },
+        {
+          "country": "Kiribati",
+          "code": "KI",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 195,
+          "share": 0
+        },
+        {
+          "country": "Cocos (Keeling) Islands",
+          "code": "CC",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 196,
+          "share": 0
+        },
+        {
+          "country": "Marshall Islands",
+          "code": "MH",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 197,
+          "share": 0
+        },
+        {
+          "country": "Saint Vincent and the Grenadines",
+          "code": "VC",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 198,
+          "share": 0
+        },
+        {
+          "country": "Solomon Islands",
+          "code": "SB",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 199,
+          "share": 0
+        },
+        {
+          "country": "Tonga",
+          "code": "TO",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 200,
+          "share": 0
+        },
+        {
+          "country": "Tuvalu",
+          "code": "TV",
+          "value": 0,
+          "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+          "rank": 201,
+          "share": 0
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Inbound visitor border crossings by citizenship",
+      "inboundUrl": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+      "inboundUnit": "border crossings",
+      "inboundScope": "All individually identified country rows in annual BNS border-service workbook, first sheet, 2025 Total column",
+      "inboundNote": "Source: Border Service of the National Security Committee, published by Kazakhstan Bureau of National Statistics. Visitors include business, private and tourism trips, excluding employment and permanent residence. Same-day crossings are included. Outbound country is the country of entry recorded at departure and does not enumerate an entire itinerary. First-sheet totals are used consistently; other workbook sheets contain small total revisions. Country labels and reported values are preserved, including very small markets.",
+      "inboundTotal": 15740528,
+      "url": "https://stat.gov.kz/api/iblock/element/415852/file/en/",
+      "outbound": [
+        "Russia",
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "Türkiye",
+        "China",
+        "United Arab Emirates",
+        "Vietnam",
+        "Egypt",
+        "Thailand",
+        "Georgia",
+        "Azerbaijan",
+        "Qatar",
+        "South Korea",
+        "Germany",
+        "Saudi Arabia",
+        "Malaysia",
+        "India",
+        "Maldives",
+        "Kuwait",
+        "Czechia",
+        "Italy",
+        "Poland",
+        "Belarus",
+        "United Kingdom",
+        "Montenegro",
+        "Tajikistan",
+        "Sri Lanka",
+        "Hungary",
+        "Mongolia",
+        "Turkmenistan",
+        "Netherlands",
+        "Iran",
+        "Cambodia",
+        "Serbia",
+        "Taiwan",
+        "Oman",
+        "Bangladesh",
+        "Switzerland",
+        "France",
+        "Spain",
+        "Colombia",
+        "Japan",
+        "Syria",
+        "Armenia",
+        "Anguilla",
+        "Belgium",
+        "Singapore",
+        "Denmark",
+        "Portugal",
+        "Romania",
+        "North Macedonia",
+        "Jordan",
+        "Pakistan",
+        "Afghanistan",
+        "Greece",
+        "Bahrain",
+        "United States",
+        "Norway",
+        "Cyprus",
+        "Austria",
+        "Latvia",
+        "Slovenia",
+        "Slovakia",
+        "Finland",
+        "Hong Kong",
+        "Ireland",
+        "Iraq",
+        "Sweden",
+        "Croatia",
+        "Israel",
+        "Bulgaria",
+        "Lithuania",
+        "Mauritius",
+        "Morocco",
+        "Luxembourg",
+        "Australia",
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Indonesia"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 3089561,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 1,
+          "share": 26.15
+        },
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 2927458,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 2,
+          "share": 24.77
+        },
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 2641505,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 3,
+          "share": 22.35
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 765159,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 4,
+          "share": 6.48
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 718065,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 5,
+          "share": 6.08
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 369465,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 6,
+          "share": 3.13
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 272058,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 7,
+          "share": 2.3
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 231740,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 8,
+          "share": 1.96
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 152158,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 9,
+          "share": 1.29
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 134014,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 10,
+          "share": 1.13
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 88189,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 11,
+          "share": 0.75
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 76540,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 12,
+          "share": 0.65
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 58691,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 13,
+          "share": 0.5
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 47001,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 14,
+          "share": 0.4
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 45386,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 15,
+          "share": 0.38
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 29717,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 16,
+          "share": 0.25
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 27963,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 17,
+          "share": 0.24
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 21211,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 18,
+          "share": 0.18
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 13288,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 19,
+          "share": 0.11
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 13029,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 20,
+          "share": 0.11
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 12701,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 21,
+          "share": 0.11
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 11178,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 22,
+          "share": 0.09
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 9409,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 23,
+          "share": 0.08
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 8719,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 24,
+          "share": 0.07
+        },
+        {
+          "country": "Montenegro",
+          "code": "ME",
+          "value": 8076,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 25,
+          "share": 0.07
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 8015,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 26,
+          "share": 0.07
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 6429,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 27,
+          "share": 0.05
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 3149,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 28,
+          "share": 0.03
+        },
+        {
+          "country": "Mongolia",
+          "code": "MN",
+          "value": 2779,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 29,
+          "share": 0.02
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 2656,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 30,
+          "share": 0.02
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 2520,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 31,
+          "share": 0.02
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 2172,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 32,
+          "share": 0.02
+        },
+        {
+          "country": "Cambodia",
+          "code": "KH",
+          "value": 1030,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 33,
+          "share": 0.01
+        },
+        {
+          "country": "Serbia",
+          "code": "RS",
+          "value": 651,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 34,
+          "share": 0.01
+        },
+        {
+          "country": "Taiwan",
+          "code": "TW",
+          "value": 313,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 35,
+          "share": 0
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 276,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 36,
+          "share": 0
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 213,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 37,
+          "share": 0
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 193,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 38,
+          "share": 0
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 187,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 39,
+          "share": 0
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 151,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 40,
+          "share": 0
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 145,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 41,
+          "share": 0
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 136,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 42,
+          "share": 0
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 125,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 43,
+          "share": 0
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 117,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 44,
+          "share": 0
+        },
+        {
+          "country": "Anguilla",
+          "code": "AI",
+          "value": 112,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 45,
+          "share": 0
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 93,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 46,
+          "share": 0
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 93,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 47,
+          "share": 0
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 86,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 48,
+          "share": 0
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 81,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 49,
+          "share": 0
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 81,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 50,
+          "share": 0
+        },
+        {
+          "country": "North Macedonia",
+          "code": "MK",
+          "value": 78,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 51,
+          "share": 0
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 68,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 52,
+          "share": 0
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 68,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 53,
+          "share": 0
+        },
+        {
+          "country": "Afghanistan",
+          "code": "AF",
+          "value": 66,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 54,
+          "share": 0
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 63,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 55,
+          "share": 0
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 61,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 56,
+          "share": 0
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 58,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 57,
+          "share": 0
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 57,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 58,
+          "share": 0
+        },
+        {
+          "country": "Cyprus",
+          "code": "CY",
+          "value": 52,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 59,
+          "share": 0
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 39,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 60,
+          "share": 0
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 37,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 61,
+          "share": 0
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 33,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 62,
+          "share": 0
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 32,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 63,
+          "share": 0
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 30,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 64,
+          "share": 0
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 29,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 65,
+          "share": 0
+        },
+        {
+          "country": "Ireland",
+          "code": "IE",
+          "value": 13,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 66,
+          "share": 0
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 10,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 67,
+          "share": 0
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 10,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 68,
+          "share": 0
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 9,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 69,
+          "share": 0
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 7,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 70,
+          "share": 0
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 71,
+          "share": 0
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 72,
+          "share": 0
+        },
+        {
+          "country": "Mauritius",
+          "code": "MU",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 73,
+          "share": 0
+        },
+        {
+          "country": "Morocco",
+          "code": "MA",
+          "value": 6,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 74,
+          "share": 0
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 4,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 75,
+          "share": 0
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 3,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 76,
+          "share": 0
+        },
+        {
+          "country": "Albania",
+          "code": "AL",
+          "value": 3,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 77,
+          "share": 0
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "code": "BA",
+          "value": 2,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 78,
+          "share": 0
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 1,
+          "url": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+          "rank": 79,
+          "share": 0
+        }
+      ],
+      "outboundPeriod": "2025",
+      "outboundMetricLabel": "Outbound visitor border crossings by country of entry",
+      "outboundUrl": "https://stat.gov.kz/api/iblock/element/415853/file/en/",
+      "outboundUnit": "border crossings",
+      "outboundScope": "All individually identified country rows in annual BNS border-service workbook, first sheet, 2025 Total column",
+      "outboundNote": "Source: Border Service of the National Security Committee, published by Kazakhstan Bureau of National Statistics. Visitors include business, private and tourism trips, excluding employment and permanent residence. Same-day crossings are included. Outbound country is the country of entry recorded at departure and does not enumerate an entire itinerary. First-sheet totals are used consistently; other workbook sheets contain small total revisions. Country labels and reported values are preserved, including very small markets.",
+      "outboundTotal": 11816627
+    },
+    "AZ": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official 2025 travel flows with direction-specific definitions",
+      "inbound": [
+        "Russia",
+        "Türkiye",
+        "India",
+        "Saudi Arabia",
+        "Kazakhstan",
+        "Pakistan",
+        "Georgia",
+        "China",
+        "Israel",
+        "United Arab Emirates",
+        "Uzbekistan",
+        "Ukraine",
+        "Kuwait",
+        "United Kingdom",
+        "Germany",
+        "United States",
+        "Belarus",
+        "Iran",
+        "Turkmenistan",
+        "Oman",
+        "South Korea",
+        "Italy",
+        "Poland",
+        "Jordan",
+        "Egypt",
+        "Philippines",
+        "Tajikistan",
+        "Netherlands",
+        "France",
+        "Iraq",
+        "Spain",
+        "Kyrgyzstan",
+        "Canada",
+        "Bahrain",
+        "Japan",
+        "Sri Lanka",
+        "Hungary",
+        "Australia",
+        "Romania",
+        "Moldova",
+        "Yemen",
+        "Austria",
+        "Qatar",
+        "Lithuania",
+        "Sweden",
+        "Switzerland",
+        "Latvia",
+        "Bulgaria",
+        "Norway",
+        "Syria"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 489147,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 614904,
+          "otherPurposeValue": 125757,
+          "tourismPurposeShare": 79.5,
+          "rank": 1,
+          "share": 27.1
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 217472,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 455771,
+          "otherPurposeValue": 238299,
+          "tourismPurposeShare": 47.7,
+          "rank": 2,
+          "share": 12.05
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 156816,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 166944,
+          "otherPurposeValue": 10128,
+          "tourismPurposeShare": 93.9,
+          "rank": 3,
+          "share": 8.69
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 101979,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 104364,
+          "otherPurposeValue": 2385,
+          "tourismPurposeShare": 97.7,
+          "rank": 4,
+          "share": 5.65
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 84057,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 103611,
+          "otherPurposeValue": 19554,
+          "tourismPurposeShare": 81.1,
+          "rank": 5,
+          "share": 4.66
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 70802,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 91026,
+          "otherPurposeValue": 20224,
+          "tourismPurposeShare": 77.8,
+          "rank": 6,
+          "share": 3.92
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 64288,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 110538,
+          "otherPurposeValue": 46250,
+          "tourismPurposeShare": 58.2,
+          "rank": 7,
+          "share": 3.56
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 57852,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 63496,
+          "otherPurposeValue": 5644,
+          "tourismPurposeShare": 91.1,
+          "rank": 8,
+          "share": 3.21
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 56812,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 69122,
+          "otherPurposeValue": 12310,
+          "tourismPurposeShare": 82.2,
+          "rank": 9,
+          "share": 3.15
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 42711,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 43834,
+          "otherPurposeValue": 1123,
+          "tourismPurposeShare": 97.4,
+          "rank": 10,
+          "share": 2.37
+        },
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 36227,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 62297,
+          "otherPurposeValue": 26070,
+          "tourismPurposeShare": 58.2,
+          "rank": 11,
+          "share": 2.01
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 27403,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 37224,
+          "otherPurposeValue": 9821,
+          "tourismPurposeShare": 73.6,
+          "rank": 12,
+          "share": 1.52
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 25570,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 26371,
+          "otherPurposeValue": 801,
+          "tourismPurposeShare": 97,
+          "rank": 13,
+          "share": 1.42
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 24513,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 26681,
+          "otherPurposeValue": 2168,
+          "tourismPurposeShare": 91.9,
+          "rank": 14,
+          "share": 1.36
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 21871,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 24138,
+          "otherPurposeValue": 2267,
+          "tourismPurposeShare": 90.6,
+          "rank": 15,
+          "share": 1.21
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 21493,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 23950,
+          "otherPurposeValue": 2457,
+          "tourismPurposeShare": 89.7,
+          "rank": 16,
+          "share": 1.19
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 19619,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 26310,
+          "otherPurposeValue": 6691,
+          "tourismPurposeShare": 74.6,
+          "rank": 17,
+          "share": 1.09
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 18220,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 208476,
+          "otherPurposeValue": 190256,
+          "tourismPurposeShare": 8.7,
+          "rank": 18,
+          "share": 1.01
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 17899,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 32412,
+          "otherPurposeValue": 14513,
+          "tourismPurposeShare": 55.2,
+          "rank": 19,
+          "share": 0.99
+        },
+        {
+          "country": "Oman",
+          "code": "OM",
+          "value": 15787,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 16233,
+          "otherPurposeValue": 446,
+          "tourismPurposeShare": 97.3,
+          "rank": 20,
+          "share": 0.87
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 15655,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 16048,
+          "otherPurposeValue": 393,
+          "tourismPurposeShare": 97.6,
+          "rank": 21,
+          "share": 0.87
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 13747,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 15447,
+          "otherPurposeValue": 1700,
+          "tourismPurposeShare": 89,
+          "rank": 22,
+          "share": 0.76
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 9768,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 11165,
+          "otherPurposeValue": 1397,
+          "tourismPurposeShare": 87.5,
+          "rank": 23,
+          "share": 0.54
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 9491,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 10718,
+          "otherPurposeValue": 1227,
+          "tourismPurposeShare": 88.6,
+          "rank": 24,
+          "share": 0.53
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 8287,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 8704,
+          "otherPurposeValue": 417,
+          "tourismPurposeShare": 95.2,
+          "rank": 25,
+          "share": 0.46
+        },
+        {
+          "country": "Philippines",
+          "code": "PH",
+          "value": 7580,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 8871,
+          "otherPurposeValue": 1291,
+          "tourismPurposeShare": 85.4,
+          "rank": 26,
+          "share": 0.42
+        },
+        {
+          "country": "Tajikistan",
+          "code": "TJ",
+          "value": 7402,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 9754,
+          "otherPurposeValue": 2352,
+          "tourismPurposeShare": 75.9,
+          "rank": 27,
+          "share": 0.41
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 7149,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 7775,
+          "otherPurposeValue": 626,
+          "tourismPurposeShare": 91.9,
+          "rank": 28,
+          "share": 0.4
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 6980,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 7400,
+          "otherPurposeValue": 420,
+          "tourismPurposeShare": 94.3,
+          "rank": 29,
+          "share": 0.39
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 6262,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 7405,
+          "otherPurposeValue": 1143,
+          "tourismPurposeShare": 84.6,
+          "rank": 30,
+          "share": 0.35
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 6230,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 7636,
+          "otherPurposeValue": 1406,
+          "tourismPurposeShare": 81.6,
+          "rank": 31,
+          "share": 0.35
+        },
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 5719,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 11650,
+          "otherPurposeValue": 5931,
+          "tourismPurposeShare": 49.1,
+          "rank": 32,
+          "share": 0.32
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 5266,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 5477,
+          "otherPurposeValue": 211,
+          "tourismPurposeShare": 96.1,
+          "rank": 33,
+          "share": 0.29
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 5140,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 5284,
+          "otherPurposeValue": 144,
+          "tourismPurposeShare": 97.3,
+          "rank": 34,
+          "share": 0.28
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 4182,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 4802,
+          "otherPurposeValue": 620,
+          "tourismPurposeShare": 87.1,
+          "rank": 35,
+          "share": 0.23
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 4124,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 4430,
+          "otherPurposeValue": 306,
+          "tourismPurposeShare": 93.1,
+          "rank": 36,
+          "share": 0.23
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 3990,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 5034,
+          "otherPurposeValue": 1044,
+          "tourismPurposeShare": 79.3,
+          "rank": 37,
+          "share": 0.22
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 3787,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 4519,
+          "otherPurposeValue": 732,
+          "tourismPurposeShare": 83.8,
+          "rank": 38,
+          "share": 0.21
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 3422,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 3798,
+          "otherPurposeValue": 376,
+          "tourismPurposeShare": 90.1,
+          "rank": 39,
+          "share": 0.19
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 3365,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 4791,
+          "otherPurposeValue": 1426,
+          "tourismPurposeShare": 70.2,
+          "rank": 40,
+          "share": 0.19
+        },
+        {
+          "country": "Yemen",
+          "code": "YE",
+          "value": 2992,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 3181,
+          "otherPurposeValue": 189,
+          "tourismPurposeShare": 94.1,
+          "rank": 41,
+          "share": 0.17
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 2915,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 3073,
+          "otherPurposeValue": 158,
+          "tourismPurposeShare": 94.9,
+          "rank": 42,
+          "share": 0.16
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 2741,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2874,
+          "otherPurposeValue": 133,
+          "tourismPurposeShare": 95.4,
+          "rank": 43,
+          "share": 0.15
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 2439,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2975,
+          "otherPurposeValue": 536,
+          "tourismPurposeShare": 82,
+          "rank": 44,
+          "share": 0.14
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 2338,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2564,
+          "otherPurposeValue": 226,
+          "tourismPurposeShare": 91.2,
+          "rank": 45,
+          "share": 0.13
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 2274,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2451,
+          "otherPurposeValue": 177,
+          "tourismPurposeShare": 92.8,
+          "rank": 46,
+          "share": 0.13
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 2225,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2398,
+          "otherPurposeValue": 173,
+          "tourismPurposeShare": 92.8,
+          "rank": 47,
+          "share": 0.12
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 2205,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 2574,
+          "otherPurposeValue": 369,
+          "tourismPurposeShare": 85.7,
+          "rank": 48,
+          "share": 0.12
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 1436,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 1559,
+          "otherPurposeValue": 123,
+          "tourismPurposeShare": 92.1,
+          "rank": 49,
+          "share": 0.08
+        },
+        {
+          "country": "Syria",
+          "code": "SY",
+          "value": 349,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+          "allPurposeValue": 387,
+          "otherPurposeValue": 38,
+          "tourismPurposeShare": 90.2,
+          "rank": 50,
+          "share": 0.02
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Foreign arrivals for tourism purposes by country of residence",
+      "inboundUrl": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+      "inboundUnit": "persons (recorded trips)",
+      "inboundScope": "All named countries in State Statistical Committee annual bulletin Table 1; tourism-purpose count column",
+      "inboundNote": "Annual 2025 bulletin published Baku 2026. Uses the explicitly reported tourism-purpose subset rather than all border arrivals/departures. Tourism purposes include several travel purposes, not only holidays; the all-purpose count is retained separately on each row. Other countries is excluded from named country ranks. Source table is alphabetic; displayed ranks sort the actual tourism-purpose counts.",
+      "inboundTotal": 1804754,
+      "url": "https://www.stat.gov.az/source/tourism/en/bul/Inbound_2025.pdf#page=6",
+      "outbound": [
+        "Türkiye",
+        "Russia",
+        "Georgia",
+        "United Arab Emirates",
+        "Kazakhstan",
+        "Saudi Arabia",
+        "Italy",
+        "Qatar",
+        "Germany",
+        "Hungary",
+        "Uzbekistan",
+        "China",
+        "Egypt",
+        "Poland",
+        "United Kingdom",
+        "Turkmenistan",
+        "Iran",
+        "Belarus",
+        "Czechia",
+        "Moldova",
+        "Israel",
+        "France",
+        "Austria",
+        "India",
+        "Kyrgyzstan",
+        "Iraq",
+        "Kuwait",
+        "Pakistan",
+        "Bahrain",
+        "Luxembourg",
+        "Switzerland",
+        "Netherlands",
+        "Japan",
+        "South Korea"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 528285,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 870122,
+          "otherPurposeValue": 341837,
+          "tourismPurposeShare": 60.7,
+          "rank": 1,
+          "share": 41.25
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 182802,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 306630,
+          "otherPurposeValue": 123828,
+          "tourismPurposeShare": 59.6,
+          "rank": 2,
+          "share": 14.27
+        },
+        {
+          "country": "Georgia",
+          "code": "GE",
+          "value": 129204,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 226092,
+          "otherPurposeValue": 96888,
+          "tourismPurposeShare": 57.1,
+          "rank": 3,
+          "share": 10.09
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 109943,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 114555,
+          "otherPurposeValue": 4612,
+          "tourismPurposeShare": 96,
+          "rank": 4,
+          "share": 8.58
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 40061,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 52210,
+          "otherPurposeValue": 12149,
+          "tourismPurposeShare": 76.7,
+          "rank": 5,
+          "share": 3.13
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 28165,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 29792,
+          "otherPurposeValue": 1627,
+          "tourismPurposeShare": 94.5,
+          "rank": 6,
+          "share": 2.2
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 26275,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 29623,
+          "otherPurposeValue": 3348,
+          "tourismPurposeShare": 88.7,
+          "rank": 7,
+          "share": 2.05
+        },
+        {
+          "country": "Qatar",
+          "code": "QA",
+          "value": 20117,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 22228,
+          "otherPurposeValue": 2111,
+          "tourismPurposeShare": 90.5,
+          "rank": 8,
+          "share": 1.57
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 19919,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 25680,
+          "otherPurposeValue": 5761,
+          "tourismPurposeShare": 77.6,
+          "rank": 9,
+          "share": 1.56
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 19668,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 22642,
+          "otherPurposeValue": 2974,
+          "tourismPurposeShare": 86.9,
+          "rank": 10,
+          "share": 1.54
+        },
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 17743,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 19217,
+          "otherPurposeValue": 1474,
+          "tourismPurposeShare": 92.3,
+          "rank": 11,
+          "share": 1.39
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 15856,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 19545,
+          "otherPurposeValue": 3689,
+          "tourismPurposeShare": 81.1,
+          "rank": 12,
+          "share": 1.24
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 15111,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 15904,
+          "otherPurposeValue": 793,
+          "tourismPurposeShare": 95,
+          "rank": 13,
+          "share": 1.18
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 13118,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 13967,
+          "otherPurposeValue": 849,
+          "tourismPurposeShare": 93.9,
+          "rank": 14,
+          "share": 1.02
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 13066,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 15857,
+          "otherPurposeValue": 2791,
+          "tourismPurposeShare": 82.4,
+          "rank": 15,
+          "share": 1.02
+        },
+        {
+          "country": "Turkmenistan",
+          "code": "TM",
+          "value": 13044,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 18753,
+          "otherPurposeValue": 5709,
+          "tourismPurposeShare": 69.6,
+          "rank": 16,
+          "share": 1.02
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 11604,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 205700,
+          "otherPurposeValue": 194096,
+          "tourismPurposeShare": 5.6,
+          "rank": 17,
+          "share": 0.91
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 7891,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 9193,
+          "otherPurposeValue": 1302,
+          "tourismPurposeShare": 85.8,
+          "rank": 18,
+          "share": 0.62
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 7868,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 8452,
+          "otherPurposeValue": 584,
+          "tourismPurposeShare": 93.1,
+          "rank": 19,
+          "share": 0.61
+        },
+        {
+          "country": "Moldova",
+          "code": "MD",
+          "value": 7232,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 9013,
+          "otherPurposeValue": 1781,
+          "tourismPurposeShare": 80.2,
+          "rank": 20,
+          "share": 0.56
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 6791,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 10707,
+          "otherPurposeValue": 3916,
+          "tourismPurposeShare": 63.4,
+          "rank": 21,
+          "share": 0.53
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 5760,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 6017,
+          "otherPurposeValue": 257,
+          "tourismPurposeShare": 95.7,
+          "rank": 22,
+          "share": 0.45
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 4819,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 5304,
+          "otherPurposeValue": 485,
+          "tourismPurposeShare": 90.9,
+          "rank": 23,
+          "share": 0.38
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 4526,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 6544,
+          "otherPurposeValue": 2018,
+          "tourismPurposeShare": 69.2,
+          "rank": 24,
+          "share": 0.35
+        },
+        {
+          "country": "Kyrgyzstan",
+          "code": "KG",
+          "value": 2767,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 3253,
+          "otherPurposeValue": 486,
+          "tourismPurposeShare": 85.1,
+          "rank": 25,
+          "share": 0.22
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 1478,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 7378,
+          "otherPurposeValue": 5900,
+          "tourismPurposeShare": 20,
+          "rank": 26,
+          "share": 0.12
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 1069,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 1750,
+          "otherPurposeValue": 681,
+          "tourismPurposeShare": 61.1,
+          "rank": 27,
+          "share": 0.08
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 1022,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 2096,
+          "otherPurposeValue": 1074,
+          "tourismPurposeShare": 48.8,
+          "rank": 28,
+          "share": 0.08
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 490,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 863,
+          "otherPurposeValue": 373,
+          "tourismPurposeShare": 56.8,
+          "rank": 29,
+          "share": 0.04
+        },
+        {
+          "country": "Luxembourg",
+          "code": "LU",
+          "value": 332,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 407,
+          "otherPurposeValue": 75,
+          "tourismPurposeShare": 81.6,
+          "rank": 30,
+          "share": 0.03
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 256,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 329,
+          "otherPurposeValue": 73,
+          "tourismPurposeShare": 77.8,
+          "rank": 31,
+          "share": 0.02
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 249,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 703,
+          "otherPurposeValue": 454,
+          "tourismPurposeShare": 35.4,
+          "rank": 32,
+          "share": 0.02
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 195,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 282,
+          "otherPurposeValue": 87,
+          "tourismPurposeShare": 69.1,
+          "rank": 33,
+          "share": 0.02
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 190,
+          "url": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+          "allPurposeValue": 265,
+          "otherPurposeValue": 75,
+          "tourismPurposeShare": 71.7,
+          "rank": 34,
+          "share": 0.01
+        }
+      ],
+      "outboundPeriod": "2025",
+      "outboundMetricLabel": "Azerbaijani citizens travelling abroad for tourism purposes, by country",
+      "outboundUrl": "https://www.stat.gov.az/source/tourism/en/bul/Outbound_2025.pdf#page=6",
+      "outboundUnit": "persons (recorded trips)",
+      "outboundScope": "All named countries in State Statistical Committee annual bulletin Table 1; tourism-purpose count column",
+      "outboundNote": "Annual 2025 bulletin published Baku 2026. Uses the explicitly reported tourism-purpose subset rather than all border arrivals/departures. Tourism purposes include several travel purposes, not only holidays; the all-purpose count is retained separately on each row. Other countries is excluded from named country ranks. Source table is alphabetic; displayed ranks sort the actual tourism-purpose counts.",
+      "outboundTotal": 1280787
+    },
+    "GE": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official 2025 travel flows with direction-specific definitions",
+      "inbound": [
+        "Russia",
+        "Türkiye",
+        "Armenia",
+        "Israel",
+        "Azerbaijan",
+        "Kazakhstan",
+        "Belarus",
+        "India",
+        "Ukraine",
+        "China",
+        "Iran",
+        "Saudi Arabia",
+        "Germany",
+        "Poland",
+        "Uzbekistan"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 1579764,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 1,
+          "share": 23.04
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 1248881,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 2,
+          "share": 18.21
+        },
+        {
+          "country": "Armenia",
+          "code": "AM",
+          "value": 948242,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 3,
+          "share": 13.83
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 402426,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 4,
+          "share": 5.87
+        },
+        {
+          "country": "Azerbaijan",
+          "code": "AZ",
+          "value": 292149,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 5,
+          "share": 4.26
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 169367,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 6,
+          "share": 2.47
+        },
+        {
+          "country": "Belarus",
+          "code": "BY",
+          "value": 150325,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 7,
+          "share": 2.19
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 142476,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 8,
+          "share": 2.08
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 136826,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 9,
+          "share": 2
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 127895,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 10,
+          "share": 1.87
+        },
+        {
+          "country": "Iran",
+          "code": "IR",
+          "value": 120068,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 11,
+          "share": 1.75
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 96340,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 12,
+          "share": 1.41
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 83656,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 13,
+          "share": 1.22
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 79722,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 14,
+          "share": 1.16
+        },
+        {
+          "country": "Uzbekistan",
+          "code": "UZ",
+          "value": 72913,
+          "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+          "rank": 15,
+          "share": 1.06
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "International visitor trips by source country (GNTA top 15)",
+      "inboundUrl": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6",
+      "inboundUnit": "visits",
+      "inboundScope": "The 15 leading country markets explicitly enumerated by GNTA; no claim of a full top 20",
+      "inboundNote": "GNTA Statistical Overview of Georgian Tourism 2025, pages 5–6. Counts international visitor trips, including overnight and same-day visits; distinct from all 7,803,239 traveller crossings and 5,521,866 overnight tourist trips. Source: Ministry of Internal Affairs, Information-analytical Department. The source chart provides 15 countries, so the list is intentionally limited to 15.",
+      "inboundTotal": 6856809,
+      "url": "https://api.gnta.ge/storage/files/doc/statistical-data-overview-2025.pdf#page=6"
+    },
+    "BT": {
+      "priority": 115,
+      "period": "2025",
+      "label": "Official 2025 travel flows with direction-specific definitions",
+      "inbound": [
+        "India",
+        "United States",
+        "China",
+        "Singapore",
+        "United Kingdom",
+        "Malaysia",
+        "Bangladesh",
+        "Germany",
+        "Australia",
+        "Thailand"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 130299,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 1,
+          "share": 62.23
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 13076,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 2,
+          "share": 6.25
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 6189,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 3,
+          "share": 2.96
+        },
+        {
+          "country": "Singapore",
+          "code": "SG",
+          "value": 4687,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 4,
+          "share": 2.24
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 4185,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 5,
+          "share": 2
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 3347,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 6,
+          "share": 1.6
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 3323,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 7,
+          "share": 1.59
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 3267,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 8,
+          "share": 1.56
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 2556,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 9,
+          "share": 1.22
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 2509,
+          "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+          "rank": 10,
+          "share": 1.2
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Tourist arrivals by nationality (official annual top 10)",
+      "inboundUrl": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "The 10 source markets enumerated in the Department of Tourism annual Top 10 Markets 2025 graphic; 157 nationalities were recorded overall",
+      "inboundNote": "Tashel Melong 2025, Department of Tourism / Ministry of Industry, Commerce and Employment; PDF page 5 (printed page 4), annual Top 10 Markets graphic. The graphic is a raster image; counts were transcribed after visual inspection at high resolution. National total on PDF page 4 and December 2025 bulletin agree at 209,376. Arrivals include non-SDF-paying tourists. This source only reports ten individual markets, so no top-20 claim is made.",
+      "inboundTotal": 209376,
+      "url": "https://a.storyblok.com/f/171618/x/96818ac25f/tashel-melong-2025-final-1.pdf#page=5"
+    }
+  },
+  "researchNotes": [
+    {
+      "iso2": "UZ",
+      "direction": "inbound",
+      "excludedRows": [
+        {
+          "country": "Netherlands Antilles",
+          "sourceCode": "530",
+          "value": 0
+        },
+        {
+          "country": "Other countries",
+          "sourceCode": "0",
+          "value": 7
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Last modified date",
+          "value": "2026-04-23"
+        },
+        {
+          "label": "Indicator identification number (code)",
+          "value": "2.04.11.0037"
+        },
+        {
+          "label": "Unit of measurement",
+          "value": "persons"
+        },
+        {
+          "label": "Note",
+          "value": "for 2014-2023"
+        },
+        {
+          "label": "Note",
+          "value": "In accordance with the resolution of the cabinet of Ministers of the Republic of Uzbekistan dated april 3, 2018 no. 263 “on measures to ensure the compilation of statistics of the external sector of the Republic of Uzbekistan”, tourism indicators by state began to be fully taken into account in 2018"
+        }
+      ]
+    },
+    {
+      "iso2": "UZ",
+      "direction": "outbound",
+      "excludedRows": [
+        {
+          "country": "Other countries",
+          "sourceCode": "0",
+          "value": 0
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Last modified date",
+          "value": "2026-04-23"
+        },
+        {
+          "label": "Indicator identification number (code)",
+          "value": "2.04.11.0020"
+        },
+        {
+          "label": "Unit of measurement",
+          "value": "people"
+        },
+        {
+          "label": "Note",
+          "value": "for the years 2014-2023"
+        }
+      ]
+    },
+    {
+      "iso2": "KZ",
+      "direction": "inbound",
+      "excludedRows": [
+        {
+          "country": "STATELESS PERSON",
+          "value": 2058
+        },
+        {
+          "country": "UNKNOWN",
+          "value": 0
+        }
+      ],
+      "worksheet": "The number of visitors (crossings) of inbound tourism by the number of days of stay*",
+      "column": "2025 Total",
+      "workbookNationalTotal": 15740528
+    },
+    {
+      "iso2": "KZ",
+      "direction": "outbound",
+      "excludedRows": [
+        {
+          "country": "UNKNOWN",
+          "value": 514
+        },
+        {
+          "country": "OTHERS",
+          "value": 11172
+        }
+      ],
+      "worksheet": "Number of outbound tourism visitors (crossings) by number of days*",
+      "column": "2025 Total",
+      "workbookNationalTotal": 11816627
+    },
+    {
+      "iso2": "AZ",
+      "direction": "inbound",
+      "excludedRows": [
+        {
+          "country": "A",
+          "allPurposes": 1,
+          "tourismPurposes": 2
+        },
+        {
+          "country": "Total",
+          "allPurposes": 2570212,
+          "tourismPurposes": 1804754
+        },
+        {
+          "country": "A",
+          "allPurposes": 1,
+          "tourismPurposes": 2
+        },
+        {
+          "country": "Other countries",
+          "allPurposes": 77766,
+          "tourismPurposes": 74756
+        }
+      ],
+      "table": "Table 1",
+      "pdfPages": [
+        6,
+        7
+      ],
+      "printedPages": [
+        7,
+        8
+      ]
+    },
+    {
+      "iso2": "AZ",
+      "direction": "outbound",
+      "excludedRows": [
+        {
+          "country": "A",
+          "allPurposes": 1,
+          "tourismPurposes": 2
+        },
+        {
+          "country": "Total",
+          "allPurposes": 2109869,
+          "tourismPurposes": 1280787
+        },
+        {
+          "country": "Other countries",
+          "allPurposes": 28796,
+          "tourismPurposes": 23871
+        }
+      ],
+      "table": "Table 1",
+      "pdfPages": [
+        6
+      ],
+      "printedPages": [
+        7
+      ]
+    },
+    {
+      "iso2": "BT",
+      "direction": "inbound",
+      "officialLandingPage": "https://bhutan.travel/travel-trade",
+      "source": "Tashel Melong 2025, PDF page 5, printed page 4, Top 10 Markets 2025",
+      "extraction": "Manually verified raster infographic at high resolution; all ten country labels and 2025 count values read directly."
+    },
+    {
+      "iso2": "UZ",
+      "direction": "inbound",
+      "metricCount": 203,
+      "enumeratedMarketSum": 11679173,
+      "nationalTotal": null
+    },
+    {
+      "iso2": "UZ",
+      "direction": "outbound",
+      "metricCount": 79,
+      "enumeratedMarketSum": 7558722,
+      "nationalTotal": null
+    },
+    {
+      "iso2": "KZ",
+      "direction": "inbound",
+      "metricCount": 201,
+      "enumeratedMarketSum": 15738470,
+      "nationalTotal": 15740528
+    },
+    {
+      "iso2": "KZ",
+      "direction": "outbound",
+      "metricCount": 79,
+      "enumeratedMarketSum": 11804941,
+      "nationalTotal": 11816627
+    },
+    {
+      "iso2": "AZ",
+      "direction": "inbound",
+      "metricCount": 50,
+      "enumeratedMarketSum": 1729998,
+      "nationalTotal": 1804754
+    },
+    {
+      "iso2": "AZ",
+      "direction": "outbound",
+      "metricCount": 34,
+      "enumeratedMarketSum": 1256916,
+      "nationalTotal": 1280787
+    },
+    {
+      "iso2": "GE",
+      "direction": "inbound",
+      "metricCount": 15,
+      "enumeratedMarketSum": 5651050,
+      "nationalTotal": 6856809
+    },
+    {
+      "iso2": "BT",
+      "direction": "inbound",
+      "metricCount": 10,
+      "enumeratedMarketSum": 173438,
+      "nationalTotal": 209376
+    }
+  ]
+}

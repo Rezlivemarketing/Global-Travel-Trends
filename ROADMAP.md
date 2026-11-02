@@ -48,3 +48,12 @@ Validation asserts India’s exact key ranks/counts and total, HongKong search b
 - [x] Add per-country coverage cards and a continent/detail directory; make map arcs follow the visible country list.
 - [x] Verify representative inbound/outbound paths across all populated continents and mobile layouts.
 - [ ] Remaining country directions without verified bilateral tables are explicitly gaps; no fabricated rows.
+
+## All-place content and historical evidence completion — 2November2026
+
+- [x] Review all250 place records:246 attributed place guides plus four explicit scope exceptions. Retain1,433 described source-listed places; no artificial city rankings.
+- [x] Expand primary numeric tables to81 inbound/43 outbound, across82 source profiles.
+- [x] Add separate2019 factual references:181 inbound tables and236 partial destination-reported outbound lists, strictly62 residence-based border-tourist reporters.
+- [x] Add alphabetic mixed-period evidence links, retaining each source's unit/population instead of combining them into a ranking.
+- [x] Preserve current tables as default, prominent historical banners, source selectors, local jurisdiction context, community attribution, exports and cache versioning.
+- [ ] Universal current-year complete Top20 rankings do not exist in the retained sources; sources with fewer or unavailable observations remain explicit. This is not filled with fabricated or cross-border-model figures.

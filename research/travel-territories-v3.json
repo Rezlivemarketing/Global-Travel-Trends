@@ -1,0 +1,199 @@
+{
+  "researchedAt": "2026-11-02",
+  "travel": {
+    "FK": {
+      "priority": 115,
+      "inbound": [
+        "United Kingdom",
+        "Argentina",
+        "United States",
+        "Chile",
+        "Germany",
+        "France",
+        "Spain",
+        "Poland"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1169,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 495,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 329,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 109,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 108,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 80,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 59,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 53,
+          "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf"
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Personal / leisure overnight tourist arrivals by country of residence",
+      "inboundUrl": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf",
+      "inboundUnit": "arrivals",
+      "inboundScope": "Falkland Islands; personal-purpose overnight tourists only",
+      "inboundNote": "Eight named markets with exact counts reported on pages 8–9. This is not a complete Top 8: Australia appears only as a rounded chart share and cannot be ranked exactly here. Personal travel includes holidays and visiting friends/relatives; business tourists and cruise day visitors are excluded. All personal arrivals: 2,918; all overnight tourists including business: 4,818. Counts are historical, not Nov–Dec 2026 forecasts.",
+      "label": "Falkland Islands Tourist Board · 2025 leisure arrivals",
+      "period": "2025",
+      "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf",
+      "note": "Market counts use the territory's own tourism report, not United Kingdom totals. No resident outbound destination ranking was verified."
+    },
+    "AW": {
+      "priority": 115,
+      "outbound": [
+        "United States",
+        "Colombia",
+        "Curaçao",
+        "Netherlands",
+        "Dominican Republic",
+        "Panama",
+        "Sint Maarten",
+        "Bonaire (island only)",
+        "Suriname"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 25805,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 20726,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Curaçao",
+          "code": "CW",
+          "value": 15621,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 9044,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 4011,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 3753,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Sint Maarten",
+          "code": "SX",
+          "value": 908,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Bonaire (island only)",
+          "code": "BQ",
+          "value": 865,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        },
+        {
+          "country": "Suriname",
+          "code": "SR",
+          "value": 735,
+          "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639"
+        }
+      ],
+      "outboundPeriod": "2022",
+      "outboundMetricLabel": "Resident outbound travelers by main destination",
+      "outboundUrl": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639",
+      "outboundUnit": "resident outbound travel movements",
+      "outboundScope": "Aruba resident outbound travel; main destination counts, IASA administrative universe",
+      "outboundNote": "Table 2.1, page 4: nine individually reported destinations with numeric 2022 values, plus Other 330; total 81,798. Venezuela is a dash and is omitted rather than treated as zero. Bonaire is the island only, linked to BQ for navigation. This table's source is Instituto Alarma y Seguridad Aruba; the expenditure/characteristics survey's April–December 2022 limitation is separate. These are travel movements, not a deduplicated count of residents or a 2026 projection.",
+      "label": "CBS Aruba · resident outbound travel 2022",
+      "period": "2022",
+      "url": "https://cbs.aw/wp/index.php/2024/12/13/outbound-tourism-survey-results-2018-2022/?download=24639",
+      "note": "Historical local resident outbound counts; the source publishes fewer than 20 named destinations. Inbound figures, where available elsewhere, use a different series."
+    },
+    "FO": {
+      "priority": 115,
+      "inbound": [
+        "Denmark"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 62203,
+          "url": "https://hagstova.fo/en/news/more-hotel-stays-fewer-room-nights-2024"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Hotel guest nights by country of residence",
+      "inboundUrl": "https://hagstova.fo/en/news/more-hotel-stays-fewer-room-nights-2024",
+      "inboundUnit": "guest nights",
+      "inboundScope": "Reporting hotels in the Faroe Islands, excluding Suðuroy",
+      "inboundNote": "Denmark is the only foreign country individually reported in this official residence breakdown. Other countries together: 113,472 guest nights; Faroese residents: 54,759; all residence groups: 230,434. Therefore this is not a one-country ranking of all foreign demand, nor a Top 20. Nights are not unique tourists, and Faroese domestic nights are excluded from the inbound market row. Historical 2024 figures are not November–December 2026 forecasts.",
+      "label": "Statistics Faroe Islands · hotel guest nights",
+      "period": "2024",
+      "url": "https://hagstova.fo/en/news/more-hotel-stays-fewer-room-nights-2024",
+      "note": "Official local accommodation series. Danish national travel totals are not assigned to the Faroes; no resident outbound destination table was verified."
+    }
+  },
+  "researchNotes": [
+    {
+      "iso2": "AW",
+      "url": "https://cbs.aw/wp/index.php/2026/06/12/tourism-in-aruba-2018/",
+      "note": "CBS publishes 2009–2025 stayover arrivals by residence as an XLSX download. Its download returned a browser JavaScript challenge to this research client, so no unverified 2025 counts were transcribed."
+    },
+    {
+      "iso2": "SH",
+      "url": "https://www.sainthelena.gov.sh/st-helena/statistics/resources/",
+      "note": "Arrivals and departures workbook exists, but passenger counts are not a country market ranking. Government notes changed immigration procedures and missing 2025 purpose/resident classifications. St Helena island statistics are not all SH territory."
+    },
+    {
+      "iso2": "FK",
+      "url": "https://www.falklandislands.com/downloads/Falkland%20Islands%20Statistics%20Report%202025.pdf",
+      "note": "Eight exact market counts are available in the 2025 leisure-arrivals table and narrative. Country chart percentages were not converted to invented counts; other countries remain grouped."
+    }
+  ]
+}

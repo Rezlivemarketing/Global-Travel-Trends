@@ -6,7 +6,7 @@
  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
  <link rel="stylesheet" href="style.css"><link rel="alternate" type="application/json" href="data/atlas.json" title="Agent-readable atlas">
-<link rel="stylesheet" href="calendar.css"><link rel="stylesheet" href="travel-detail.css"></head>
+<link rel="stylesheet" href="calendar.css"><link rel="stylesheet" href="travel-detail.css?v=20261102-complete"></head>
 <body class="atlas-focused">
 <a class="skip" href="#explorer">Skip to the atlas</a>
 <header class="site-header"><a class="brand" href="./" aria-label="Global Trendes home"><span class="brand-icon">✳</span> global<span>trendes</span><sup>2026</sup></a><nav aria-label="Main navigation"><a class="active" href="#explorer">Explore the atlas</a><a href="#calendar">Event calendar</a><a href="#inspiration">Seasonal picks</a><button id="sources-nav">Research &amp; sources <span>↗</span></button></nav><span class="edition">THE YEAR-END EDITION <i></i> 2026</span></header>
@@ -28,6 +28,6 @@
 <dialog id="directory-dialog"><div class="dialog-head"><div><div class="eyebrow">EVERY PLACE, WITHIN REACH</div><h2>Countries &amp; travel coverage</h2></div><button id="close-directory" aria-label="Close country directory">×</button></div><input type="search" id="directory-search" placeholder="Search all 250 countries and territories" aria-label="Search country directory"><div class="coverage-filters"><label>Continent<select id="coverage-continent" aria-label="Coverage continent"><option value="all">All continents</option><option>Africa</option><option>Asia</option><option>Europe</option><option>North America</option><option>South America</option><option>Oceania</option><option>Antarctic</option></select></label><label>Available detail<select id="coverage-detail" aria-label="Available travel detail"><option value="all">All countries &amp; territories</option><option value="inbound20">20+ inbound markets</option><option value="outbound20">20+ outbound markets</option><option value="numeric">Numeric market values</option><option value="cities">City &amp; town guides</option><option value="gaps">Market-table gaps</option></select></label></div><p id="coverage-result" role="status"></p><div id="directory-list"></div></dialog>
 <div class="toast" id="toast" role="status" hidden=""></div>
 <noscript><p class="wrap">This interactive atlas needs JavaScript. The full <a href="data/atlas.json">country and event dataset</a> remains available as JSON.</p></noscript>
-<script src="app.js" defer=""></script>
+<script src="app.js?v=20261102-complete" defer=""></script>
 
 </body></html>

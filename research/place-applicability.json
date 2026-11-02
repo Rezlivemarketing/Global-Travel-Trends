@@ -1,0 +1,590 @@
+{
+  "researchedAt": "2026-11-02",
+  "methodology": "Exceptions audit against the atlas country/territory directory. Unlisted places retain the standard default. Status describes statistical applicability, not travel advice or a sovereignty determination. A territory label never authorizes inheriting another jurisdiction's flows. A small population does not imply zero tourism or inherently prevent a 20-market table. Missing public rankings are not zero flows.",
+  "places": {
+    "AI": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "BM": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "VG": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "KY": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "FK": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "GI": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "MS": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "TC": {
+      "status": "parent-jurisdiction",
+      "note": "UK Overseas Territory with its own destination scope. Use locally reported travel figures; UK visitor or resident outbound totals do not describe this territory.",
+      "sources": [
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "SH": {
+      "status": "limited-public-statistics",
+      "note": "This code combines St Helena, Ascension and Tristan da Cunha. St Helena passenger series covers St Helena island, not all three. Government flags a change in immigration procedures and unavailable leisure/St Helenian classifications for 2025. Passenger totals include residents and are not tourist market rankings.",
+      "sources": [
+        {
+          "title": "St Helena Government: statistics resources",
+          "url": "https://www.sainthelena.gov.sh/st-helena/statistics/resources/"
+        },
+        {
+          "title": "St Helena Government: arrivals reporting limitations",
+          "url": "https://www.sainthelena.gov.sh/category/statistics/page/2/"
+        },
+        {
+          "title": "UK Government: Overseas Territories arrangements",
+          "url": "https://www.gov.uk/government/publications/the-central-government-s-concept-of-operations/the-amber-book-appendices-html"
+        }
+      ]
+    },
+    "PN": {
+      "status": "parent-jurisdiction",
+      "note": "Inhabited UK Overseas Territory; Pitcairn is the only inhabited island of the four. Its small population does not imply zero visitors or justify fabricated source markets. Use territory-specific tourism statistics, never UK flows.",
+      "sources": [
+        {
+          "title": "UN: Pitcairn working paper 2025",
+          "url": "https://digitallibrary.un.org/record/4079327/files/A_AC.109_2025_12-EN.pdf"
+        },
+        {
+          "title": "Government of the Pitcairn Islands",
+          "url": "https://www.government.pn/home"
+        }
+      ]
+    },
+    "AQ": {
+      "status": "no-permanent-population",
+      "note": "Antarctica has no permanent human resident population. Research personnel and expedition visitors are present; Antarctic tourism is substantial. A conventional resident outbound country ranking is not applicable. Expedition visitor nationality and landing statistics are separate measures.",
+      "sources": [
+        {
+          "title": "British Antarctic Survey: permanent inhabitants and staff",
+          "url": "https://legacy.bas.ac.uk/about_antarctica/environment/waste/index.php"
+        },
+        {
+          "title": "Antarctic Treaty Secretariat: tourism",
+          "url": "https://www.ats.aq/e/tourism.html"
+        }
+      ]
+    },
+    "BV": {
+      "status": "restricted-access",
+      "note": "Bouvetøya is a protected Norwegian nature reserve. Landing or staying generally does not require a permit, but activities are strictly regulated, including seasonal protection of Nyrøysa. There is no ordinary visitor infrastructure. Do not substitute Norway-wide travel flows or interpret absent rankings as zero expedition visits.",
+      "sources": [
+        {
+          "title": "Norwegian Polar Institute: Bouvetøya nature reserve regulations",
+          "url": "https://npolar.no/en/regulations-bouvetoya-nature-reserve/"
+        }
+      ]
+    },
+    "HM": {
+      "status": "no-permanent-population",
+      "note": "Heard Island and McDonald Islands has no resident population. Scientific and occasional private expeditions are separate from an ordinary resident tourism economy; conventional resident outbound rankings are not applicable. Australian national travel flows must not be assigned here.",
+      "sources": [
+        {
+          "title": "Australian Antarctic Program: Heard Island",
+          "url": "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/"
+        },
+        {
+          "title": "Australian Antarctic Program: Heard and McDonald Islands history",
+          "url": "https://www.antarctica.gov.au/about-antarctica/history/stations/heard-island-and-mcdonald-islands/"
+        }
+      ]
+    },
+    "TF": {
+      "status": "no-permanent-population",
+      "note": "The French Southern and Antarctic Lands has no permanent population. Scientific, technical and military personnel rotate through its districts. Expedition or vessel participation is not resident outbound tourism, and mainland France's country rankings cannot be inherited.",
+      "sources": [
+        {
+          "title": "TAAF administration: territory presentation",
+          "url": "https://taaf.fr/collectivites/presentation/"
+        }
+      ]
+    },
+    "GS": {
+      "status": "no-permanent-population",
+      "note": "South Georgia and the South Sandwich Islands has no permanent population; government and scientific staff are present. Cruise and yacht visitors travel by sea under territorial entry arrangements. Resident outbound rankings are not applicable; ship passenger statistics remain meaningful.",
+      "sources": [
+        {
+          "title": "Government of South Georgia: frequently asked questions",
+          "url": "https://gov.gs/frequently-asked-questions/"
+        },
+        {
+          "title": "Government of South Georgia: how to visit",
+          "url": "https://gov.gs/how-to-visit/"
+        }
+      ]
+    },
+    "IO": {
+      "status": "restricted-access",
+      "note": "The territorial administration states this is not a tourist destination and access requires permission. Outer-island yacht permits and access connected with Diego Garcia are distinct. Do not turn military or administrative movements into tourist arrivals or infer UK resident outbound flows.",
+      "sources": [
+        {
+          "title": "BIOT administration: visiting",
+          "url": "https://www.biot.gov.io/visiting/"
+        },
+        {
+          "title": "BIOT administration: permits",
+          "url": "https://www.biot.gov.io/visiting/permits/"
+        }
+      ]
+    },
+    "UM": {
+      "status": "restricted-access",
+      "note": "This is an aggregate of separate US islands and atolls, not one ordinary tourist destination. Access and staffing differ by island: Midway is closed to public visitation, while Palmyra has a small field-station workforce. Do not equate staff with a resident tourism market or inherit US travel flows.",
+      "sources": [
+        {
+          "title": "US Fish and Wildlife Service: Midway public visitation",
+          "url": "https://www.fws.gov/refuge/midway-atoll"
+        },
+        {
+          "title": "US Fish and Wildlife Service: Palmyra Atoll",
+          "url": "https://www.fws.gov/refuge/palmyra-atoll"
+        },
+        {
+          "title": "US Department of the Interior: insular definitions",
+          "url": "https://www.doi.gov/node/11613"
+        }
+      ]
+    },
+    "SJ": {
+      "status": "parent-jurisdiction",
+      "note": "This code combines Svalbard and Jan Mayen. Svalbard has resident communities and a tourism economy; Jan Mayen has rotating station personnel. Svalbard accommodation data must be labelled Svalbard rather than all SJ; do not assign Norway-wide travel markets.",
+      "sources": [
+        {
+          "title": "Norwegian Government: Svalbard communities",
+          "url": "https://www.regjeringen.no/en/documents/meld.-st.-26-20232024/id3041130/?ch=1"
+        },
+        {
+          "title": "Norwegian Government: Jan Mayen staffing",
+          "url": "https://www.regjeringen.no/contentassets/532db14229204633b6ceaa45fb5017ae/hoeringsnotat_svalbard_jan_mayen.pdf"
+        }
+      ]
+    },
+    "CX": {
+      "status": "parent-jurisdiction",
+      "note": "Inhabited Australian external territory with a distinct destination scope. Use local visitor evidence; national Australian inbound and outbound market rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "Australian Government: Australian territories",
+          "url": "https://www.infrastructure.gov.au/territories-regions/australian-territories"
+        }
+      ]
+    },
+    "CC": {
+      "status": "parent-jurisdiction",
+      "note": "Inhabited Australian external territory with a distinct destination scope. Use local visitor evidence; national Australian inbound and outbound market rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "Australian Government: Australian territories",
+          "url": "https://www.infrastructure.gov.au/territories-regions/australian-territories"
+        }
+      ]
+    },
+    "NF": {
+      "status": "parent-jurisdiction",
+      "note": "Inhabited Australian external territory with a distinct destination scope. Use local visitor evidence; national Australian inbound and outbound market rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "Australian Government: Australian territories",
+          "url": "https://www.infrastructure.gov.au/territories-regions/australian-territories"
+        }
+      ]
+    },
+    "GG": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing Crown Dependency, constitutionally outside the United Kingdom. UK travel totals are not this island's flows; use island-specific visitor surveys and resident travel evidence.",
+      "sources": [
+        {
+          "title": "UK Ministry of Justice: Crown Dependencies",
+          "url": "https://www.gov.uk/government/publications/crown-dependencies-jersey-guernsey-and-the-isle-of-man"
+        }
+      ]
+    },
+    "JE": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing Crown Dependency, constitutionally outside the United Kingdom. UK travel totals are not this island's flows; use island-specific visitor surveys and resident travel evidence.",
+      "sources": [
+        {
+          "title": "UK Ministry of Justice: Crown Dependencies",
+          "url": "https://www.gov.uk/government/publications/crown-dependencies-jersey-guernsey-and-the-isle-of-man"
+        }
+      ]
+    },
+    "IM": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing Crown Dependency, constitutionally outside the United Kingdom. UK travel totals are not this island's flows; use island-specific visitor surveys and resident travel evidence.",
+      "sources": [
+        {
+          "title": "UK Ministry of Justice: Crown Dependencies",
+          "url": "https://www.gov.uk/government/publications/crown-dependencies-jersey-guernsey-and-the-isle-of-man"
+        }
+      ]
+    },
+    "FO": {
+      "status": "limited-public-statistics",
+      "note": "Self-governing territory within the Kingdom of Denmark. The current official hotel residence table separately identifies Faroes and Denmark, with remaining countries grouped together; it cannot yield a Top 20. Hotel check-ins or nights are not unique border arrivals and exclude hotels in Suðuroy.",
+      "sources": [
+        {
+          "title": "Statistics Faroe Islands: hotel residence table GIST02021",
+          "url": "https://statbank.hagstova.fo/pxweb/en/H2/H2__VV__VV07/gist_gistbus_ar.px/"
+        },
+        {
+          "title": "Nordic Council of Ministers: Faroe Islands",
+          "url": "https://www.norden.org/en/information/facts-about-faroe-islands"
+        }
+      ]
+    },
+    "AX": {
+      "status": "parent-jurisdiction",
+      "note": "Autonomous part of Finland with its own regional statistical scope. Ferry passengers, accommodation guests and international tourists are different measures; do not assign Finland-wide travel rankings.",
+      "sources": [
+        {
+          "title": "Nordic Council of Ministers: Åland",
+          "url": "https://www.norden.org/en/information/about-aland"
+        }
+      ]
+    },
+    "TK": {
+      "status": "parent-jurisdiction",
+      "note": "Inhabited non-self-governing territory within the Realm of New Zealand, with its own institutions and shipping services. New Zealand arrivals and resident outbound markets do not describe Tokelau.",
+      "sources": [
+        {
+          "title": "New Zealand MFAT: Tokelau",
+          "url": "https://www.mfat.govt.nz/en/countries-and-regions/australia-and-pacific/tokelau"
+        }
+      ]
+    },
+    "NU": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing in free association with New Zealand, with a distinct government and tourism statistical scope. Free association does not justify assigning New Zealand visitor or resident outbound markets.",
+      "sources": [
+        {
+          "title": "New Zealand MFAT: Pacific constitutional relationships",
+          "url": "https://www.mfat.govt.nz/en/about-us/mfat-annual-reports/mfat-annual-report-2025-26/sustain-our-deep-and-comprehensive-focus-on-the-pacific"
+        }
+      ]
+    },
+    "CK": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing in free association with New Zealand, with a distinct government and tourism statistical scope. Free association does not justify assigning New Zealand visitor or resident outbound markets.",
+      "sources": [
+        {
+          "title": "New Zealand MFAT: Pacific constitutional relationships",
+          "url": "https://www.mfat.govt.nz/en/about-us/mfat-annual-reports/mfat-annual-report-2025-26/sustain-our-deep-and-comprehensive-focus-on-the-pacific"
+        }
+      ]
+    },
+    "VA": {
+      "status": "limited-public-statistics",
+      "note": "Vatican City has residents: the official population page records 882 at 31 December 2024. No comparable resident outbound destination table was verified in this audit. Religious-site or museum admissions should not be presented as a border-arrivals country ranking.",
+      "sources": [
+        {
+          "title": "Vatican City State: population",
+          "url": "https://www.vaticanstate.va/en/state-and-government/general-informations/population.html"
+        }
+      ]
+    },
+    "GF": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "PF": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "GP": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "MQ": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "YT": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "NC": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "RE": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "BL": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "MF": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "PM": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "WF": {
+      "status": "parent-jurisdiction",
+      "note": "French overseas destination; use locally defined tourism statistics rather than metropolitan France's national travel rankings.",
+      "sources": [
+        {
+          "title": "French Ministry for Overseas Territories: twelve territories",
+          "url": "https://www.outre-mer.gouv.fr/"
+        }
+      ]
+    },
+    "AW": {
+      "status": "parent-jurisdiction",
+      "note": "A constituent country of the Kingdom of the Netherlands with its own destination scope. European Netherlands travel flows must not be inherited.",
+      "sources": [
+        {
+          "title": "Government of the Netherlands: parts of the Kingdom",
+          "url": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands"
+        }
+      ]
+    },
+    "CW": {
+      "status": "parent-jurisdiction",
+      "note": "A constituent country of the Kingdom of the Netherlands with its own destination scope. European Netherlands travel flows must not be inherited.",
+      "sources": [
+        {
+          "title": "Government of the Netherlands: parts of the Kingdom",
+          "url": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands"
+        }
+      ]
+    },
+    "SX": {
+      "status": "parent-jurisdiction",
+      "note": "A constituent country of the Kingdom of the Netherlands with its own destination scope. European Netherlands travel flows must not be inherited.",
+      "sources": [
+        {
+          "title": "Government of the Netherlands: parts of the Kingdom",
+          "url": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands"
+        }
+      ]
+    },
+    "BQ": {
+      "status": "parent-jurisdiction",
+      "note": "This code groups Bonaire, Sint Eustatius and Saba, the Caribbean public bodies of the Netherlands. Island-level series must retain their island scope rather than being treated as an all-BQ ranking.",
+      "sources": [
+        {
+          "title": "Government of the Netherlands: parts of the Kingdom",
+          "url": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands"
+        }
+      ]
+    },
+    "AS": {
+      "status": "parent-jurisdiction",
+      "note": "US territory with a distinct destination and local statistical scope. US national tourism or resident outbound country rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "US Department of the Interior: insular areas",
+          "url": "https://www.doi.gov/node/17472"
+        }
+      ]
+    },
+    "GU": {
+      "status": "parent-jurisdiction",
+      "note": "US territory with a distinct destination and local statistical scope. US national tourism or resident outbound country rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "US Department of the Interior: insular areas",
+          "url": "https://www.doi.gov/node/17472"
+        }
+      ]
+    },
+    "MP": {
+      "status": "parent-jurisdiction",
+      "note": "US territory with a distinct destination and local statistical scope. US national tourism or resident outbound country rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "US Department of the Interior: insular areas",
+          "url": "https://www.doi.gov/node/17472"
+        }
+      ]
+    },
+    "VI": {
+      "status": "parent-jurisdiction",
+      "note": "US territory with a distinct destination and local statistical scope. US national tourism or resident outbound country rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "US Department of the Interior: insular areas",
+          "url": "https://www.doi.gov/node/17472"
+        }
+      ]
+    },
+    "PR": {
+      "status": "parent-jurisdiction",
+      "note": "US insular commonwealth with a distinct destination scope. Island visitor evidence is required; US national inbound or outbound country rankings do not describe Puerto Rico.",
+      "sources": [
+        {
+          "title": "US Department of the Interior: insular political definitions",
+          "url": "https://www.doi.gov/node/11613"
+        }
+      ]
+    },
+    "HK": {
+      "status": "parent-jurisdiction",
+      "note": "Special Administrative Region of China with separately reported visitor and resident movement statistics. Mainland China market rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "Hong Kong SAR Government: constitutional position",
+          "url": "https://www.info.gov.hk/gia/general/202004/18/P2020041800802p.htm"
+        }
+      ]
+    },
+    "MO": {
+      "status": "parent-jurisdiction",
+      "note": "Special Administrative Region of China with its own tourism statistics. Use Macao-specific tables; mainland China travel markets are not a substitute.",
+      "sources": [
+        {
+          "title": "Macao Government: constitutional documents",
+          "url": "https://www.gov.mo/en/content/laws/constitutional-documents/"
+        }
+      ]
+    },
+    "GL": {
+      "status": "parent-jurisdiction",
+      "note": "Self-governing Greenland has its own visitor statistics. Cruise passengers, hotel guests and overnight stays have different scopes. Denmark-wide travel rankings must not be inherited.",
+      "sources": [
+        {
+          "title": "Greenland Government: Self-Government Act context",
+          "url": "https://govmin.gl/wp-content/uploads/2019/11/Explanatory_notes_to_the_mineral_resources_act.pdf"
+        }
+      ]
+    },
+    "EH": {
+      "status": "limited-public-statistics",
+      "note": "The UN lists Western Sahara as a Non-Self-Governing Territory. No harmonized territory-wide inbound or resident outbound country ranking was verified in this audit. Morocco-wide, Spain-wide or neighbouring-country flows must not be substituted; locally scoped figures need explicit geographic coverage.",
+      "sources": [
+        {
+          "title": "United Nations: Western Sahara",
+          "url": "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"
+        }
+      ]
+    }
+  }
+}

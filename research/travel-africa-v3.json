@@ -1,0 +1,353 @@
+{
+  "researchedAt": "2026-11-02",
+  "travel": {
+    "UG": {
+      "priority": 115,
+      "inbound": [
+        "Kenya",
+        "Rwanda",
+        "South Sudan",
+        "DR Congo",
+        "Burundi",
+        "Eritrea",
+        "Tanzania",
+        "India",
+        "United States",
+        "Sudan",
+        "China",
+        "United Kingdom",
+        "Canada",
+        "Ghana",
+        "Zambia",
+        "Zimbabwe",
+        "Pakistan",
+        "South Africa",
+        "Bangladesh",
+        "Nigeria"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 466902,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 390830,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "South Sudan",
+          "code": "SS",
+          "value": 101187,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "DR Congo",
+          "code": "CD",
+          "value": 63357,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Burundi",
+          "code": "BI",
+          "value": 48870,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Eritrea",
+          "code": "ER",
+          "value": 43743,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Tanzania",
+          "code": "TZ",
+          "value": 39409,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 34208,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 16237,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Sudan",
+          "code": "SD",
+          "value": 13288,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 10961,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 10179,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 9688,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Ghana",
+          "code": "GH",
+          "value": 7778,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 7627,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 6743,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 5208,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 5035,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 4897,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 4677,
+          "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Tourist arrivals by country of residence",
+      "inboundUrl": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "Uganda; international tourist arrivals, all modes",
+      "inboundNote": "Top 20 sorted from Table 34 of MTWA Statistical Abstract 2025, printed pages 66–69 (PDF pages 82–85), covering calendar 2024. Total arrivals 1,371,895. Nigeria at rank 20 has 4,677; Ethiopia next has 4,676. Use the annex country-of-residence table consistently; other narrative top-market sections use different scopes/labels. Primary report hosted on the Ministry's former Wix file service and linked by the Ministry of Finance publication page.",
+      "label": "Official national tourist arrivals · 2024",
+      "period": "2024",
+      "url": "https://static.wixstatic.com/ugd/1e6d1c_49418bd0fddc468ea4bc99831f5d45ef.pdf",
+      "note": "Historical annual country-of-residence counts; not measured November–December 2026 demand. No resident outbound country table verified in this research batch."
+    },
+    "NA": {
+      "priority": 115,
+      "inbound": [
+        "South Africa",
+        "Angola",
+        "Botswana",
+        "Germany",
+        "Zambia",
+        "Zimbabwe",
+        "United States",
+        "United Kingdom",
+        "France",
+        "Netherlands",
+        "Switzerland",
+        "Italy",
+        "Belgium",
+        "Spain",
+        "Canada",
+        "Austria",
+        "China",
+        "Russia",
+        "Portugal",
+        "Brazil",
+        "United Arab Emirates"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 484054,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Angola",
+          "code": "AO",
+          "value": 151444,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Botswana",
+          "code": "BW",
+          "value": 123276,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 111164,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 84242,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 37478,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 28686,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 25314,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 23187,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 22954,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 18908,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 10816,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 8014,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 7807,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 7729,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 7444,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 4357,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 3501,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 3061,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 3035,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 1193,
+          "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Tourist arrivals by country of residence",
+      "inboundUrl": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "Namibia; international overnight tourist arrivals",
+      "inboundNote": "All 21 individually named countries in Table 10 of Tourist Statistical Report 2024 are retained, sorted by arrivals. Remaining markets are grouped by region or Other; this is a ranking among reported countries, not a complete global Top 21. Table 10 country totals reconcile to Europe 265,798 and Americas 46,920; do not use the misaligned text extraction of Table 6. Published overall total is 1,257,093. Some group summations differ by one in the published table; no country value has been adjusted.",
+      "label": "Official national tourist arrivals · 2024",
+      "period": "2024",
+      "url": "https://visitnamibia.com.na/wp-content/uploads/2025/12/Tourist-Statistical-Report-2024.pdf",
+      "note": "Historical annual country-of-residence counts; not measured November–December 2026 demand. No resident outbound country table verified in this research batch."
+    }
+  },
+  "researchNotes": [
+    {
+      "iso2": "UG",
+      "url": "https://development.finance.go.ug/knowledge-centre-reports/uganda-tourism-trends-and-statistics-report-2024",
+      "note": "Official Ministry of Finance page links the primary MTWA report. The old tourism.go.ug/_files/ugd address returns 404 after site migration; identical file is accessible at static.wixstatic.com/ugd/."
+    },
+    {
+      "iso2": "MA",
+      "url": "https://observatoiredutourisme.ma/publication/tourisme-au-maroc-en-2024/",
+      "note": "Official full 2024 country-market report exists, but its page requires a free account login to download. No unsupported Top 20 added."
+    },
+    {
+      "iso2": "BW",
+      "url": "https://statsbots.org.bw/sites/default/files/Tourism%20Statistics%20Annual%20Report%202024_2.pdf",
+      "note": "Official 2024 report is a 20 MB PDF; web retrieval exceeds the tool content limit and download transfer did not complete within the research bound."
+    },
+    {
+      "iso2": "TZ",
+      "url": "https://www.nbs.go.tz/uploads/statistics/documents/en-1783059562-Tanzania%20Tourism%20Sector%20Survey%20Report.pdf",
+      "note": "Retrieved country markets describe the August 2025 exit survey sample. Raw sample visitor counts must not be presented as annual national tourist arrivals. No sample-count ranking added."
+    },
+    {
+      "iso2": "ZW",
+      "url": "https://zimbabwetourism.net/download/tourism-trends-and-statistics-2025/",
+      "note": "Official 2025 report exists; large file transfer did not complete within the research bound."
+    }
+  ]
+}

@@ -1,60 +1,42 @@
 # Global Trendes
 
-Interactive November–December 2026 travel atlas. Live: https://rezlivemarketing.github.io/Global-Travel-Trends/
+Interactive November–December2026 travel atlas. Live: https://rezlivemarketing.github.io/Global-Travel-Trends/
 
-## Current experience
+## Country coverage
 
-- 250 searchable country/territory records, map polygons, small-island markers and continent views.
-- 268 researched major events, festivals, cultural celebrations and commemorations, plus 672 calculated holiday/observance entries. Calendar evidence covers 234 country/territory records; local programmes are not exhaustive.
-- Date-by-date calendar with country, continent and worldwide scopes, event/holiday filters and source-linked day agendas. Published opening-day arrays take precedence over date ranges. Unconfirmed dates remain off the grid.
-- Inbound travel and Outbound travel tabs: 69 historical source-market profiles (69 inbound, 40 outbound), with direction-specific periods, definitions, sources and reported counts where available.
-- Travel evidence for 207 countries/territories, combining market profiles and archived annual indicators. World Bank/UN Tourism indicators cover 205 records and generally end in 2020. Their age, units and pandemic context are explicit. They do not measure 2026 monthly demand.
-- Actual historical November/December 2024 observations for the United States and Mauritius; other profiles retain their own historical periods.
-- 21 seasonal profiles, JSON country briefs, source library, local photography, responsive layouts and agent-readable data. The introductory hero requested for removal is absent.
+All250 country/territory records have reviewed destination guidance or a sourced local-scope explanation. There are246 place guides (94 official-source guides and152 attributed community guides), containing1,433 described cities, towns, islands, districts, regions and other places. Bouvet, Heard/McDonald, BIOT and US Minor Outlying Islands have explicit scope exceptions rather than invented city lists. A place list is not a measured city-popularity ranking.
 
-The original automated source index contains 1,966 retrieved pages from 1,009 website hosts, after deduplication and detected policy/error exclusions. This background index is not 1,966 independently verified seasonal claims. Expanded primary research remains separately attributed per event and statistical record.
+The current primary-source collection contains82 market profiles:81 numeric inbound tables and43 numeric outbound tables; two older outbound named-market summaries are also retained. New2024/2025 tables include Central Asia, Bhutan, CostaRica, Colombia, DominicanRepublic, Uganda and Namibia, plus locally defined Falklands/Aruba/Faroes records. Their measurement periods and definitions remain explicit.
 
-## Detailed country rankings and cities
+A separate2019 historical reference contains181 inbound tables and236 outbound reference lists. The outbound reference transposes ONLY62 destination reporters' border-tourist arrivals by usual residence. It is a partial reporting sample, not a complete worldwide resident-departure ranking. Inbound references preserve whether each country reports nationality, residence, border visitors/tourists or accommodation arrivals. Recent numeric national tables take priority; historical sources have a prominent banner and an explicit source selector. The atlas retains leading20 positions plus ties for these references; omitted source observations are not zero.
 
-India now uses the verified country annexes in **India Tourism Statistics 2026** for annual 2025: all 220 outbound and 215 inbound individually reported markets are retained. Default display shows 20 positions, with full-list search retaining Hong Kong at its actual #22 rank. US is #4 and Vietnam #13. Counts are departures across all recorded purposes, including repeat trips, rather than unique holidaymakers. Purpose shares and derived leisure estimates are labelled. Source pages, 2024 comparisons, historical seasonality and source consistency notes are in `research/india-top20.json`.
+Preferred published/reference records provide185 inbound and236 outbound numeric country views. There are147 inbound and100 outbound views with20+ retained records; some sources legitimately report fewer. Additional published evidence indexes link221 places to origin-reported outbound records and245 places to destination-reported inbound records. These are alphabetic, unranked source indexes: different years, units and populations are never combined into a numerical ranking. Not every place has a current or complete Top20; no figures are fabricated to fill a missing table.
 
-Greenland adds 33 named cruise residence markets, 12 named foreign accommodation-night markets, all 19 ranked ports, separate accommodation/cruise totals, city guides and seasonal context. Both observations tied at rank 20 are shown. Airport routes and passenger residence are not used to invent resident outbound destinations.
+## Other features
 
-The global expansion includes numeric inbound records for69 countries/territories and numeric outbound records for38;65 inbound tables and20 outbound tables supply at least20 reported markets. The default shows20 positions with ties, while full-list search retains all available source rows. Eurostat36 profiles now retain full2025 country lists with2024 fallback independently per direction. UK, US, Canada, Australia and NewZealand use2025 primary tables. Asia includes national/ASEAN tables, alongside Africa, Americas and Pacific source records. City/town guides cover94 destinations and399 places with official tourism links. These are planning examples, not measured origin-specific city rankings; Greenland port statistics remain a separate measured table.
+- 250 searchable map records, small-island markers, continent views and country/detail filters. Map connections follow the selected retained ranking, search and boundary ties.
+- 268 researched major events/celebrations and672 calculated holiday/observance entries. Calendar evidence covers234 places; local programmes are not exhaustive.
+- Date-by-date country, continent and worldwide calendars. Unknown dates remain off the grid; published opening-day arrays take precedence over ranges.
+- Country briefs export current tables, historical references, related evidence, source definitions, place guides and local applicability.
+- 21 seasonal profiles; WorldBank/UN Tourism annual archive for205 places, generally ending in2020, remains separate.
+- Source library:1,966 automatically indexed pages from1,009 hosts. This is background indexing, not1,966 independently verified forecasts.
+
+## Measurement and provenance
+
+India uses the verified2025 annexes in IndiaTourismStatistics2026, with220 outbound and215 inbound markets. US#4, Vietnam#13 and HongKong#22 preserve actual ranks. Counts include all recorded purposes and repeated departures, not unique holidaymakers.
+
+Greenland retains33 cruise residence markets,12 foreign accommodation-night markets,19 ranked ports and separate totals. Local air routes or passenger residence are not treated as resident outbound destinations.
+
+US SIAT2025 outbound values are weighted overseas-air destination percentages, excluding Canada/Mexico and other modes. UAE2024 has five rounded visitor-market shares. GreatBritain ONS country tables exclude NorthernIreland. Brunei's country breakdown is air-only. HongKong's cited report is Jan–Feb2026. Nepal's earlier2025 release is not mixed with the later revised national total. DominicanRepublic allocated figures retain precision and approximation labels. CostaRica outbound air-recorded countries do not establish every final destination.
+
+The historical references are newly calculated leading-country lists of basic statistical observations, with exact PDF pages and definitions. Source prose/layout/complete tables are not republished. Coordinate controls verify India←US2019=1,512,032 and US←Canada2019=20,723,322. Missing cells and aggregates stay excluded. Raw coordinate extraction remains work-only.
 
 ## Development
 
-Requires Node.js 24 or later.
+Requires Node.js24+. Run npm ci, npm run build, npm run verify and npm run dev. GitHubPages publishes main/root; root redirects to dist/ preserving query/hash. Builds merge research snapshots; they do not automatically refresh research. Asset/data versioning prevents the previous release being reused after navigation.
 
-```sh
-npm ci
-npm run build
-npm run verify
-npm run dev
-```
-
-Build merges research bundles, calculates holiday rules and bundles the browser code into dist/. It does not refresh research automatically. GitHub Pages publishes main / root; the root entry redirects to dist/ while retaining selection parameters.
-
-## Research files
-
-- research/events-curated.json, events-asia-expansion.json, events-europe-expansion.json, events-world-expansion.json and events-additional.json retain primary sources, periods, date confidence and exclusions.
-- research/merge-research.mjs preserves existing market evidence where appropriate and adds direction-specific definitions and monthly observations. expanded-research.json is generated.
-- research/travel-global.mjs and travel-global.json provide reproducible World Bank annual-indicator retrieval and its dated result. Archived totals and recent bilateral profiles are separate measures.
-- src/calendar.js implements calendar date expansion and scope filtering. Unknown dates never become invented day entries.
-- dist/data/atlas.json is the complete dataset; coverage.json lists country-by-country evidence; travel-statistics.json contains archived indicators; curated-research.json contains expanded primary-source records.
-- research/coverage-notes.md documents caveats and cancellation exclusions.
-- The crawl/expand/market-seeds/finalize scripts retain the prior automated background-index workflow, failed requests and cleanup. Source hosts count hostnames, including subdomains, not registrable domains.
-
-Historical market arrays are not forecasts. Country residence, nationality, accommodation arrivals, border crossings, trips, disembarkation countries and unique people differ. Eurostat lists separately reported countries and may omit countries inside regional aggregates. Mauritius disembarkation can include transit. Missing data remain unavailable. Cancelled/postponed events are excluded. Reference inclusion does not imply a sovereignty position.
+Research bundles preserve exact values, source URLs, periods, populations and exclusions. historical-travel-reference.json is generated by research/build-historical-reference.mjs from a work-only coordinate validation extract. Community guides preserve source revision/hash, attribution and CC BY-SA4.0 licensing. place-applicability.json preserves jurisdiction-specific primary sources.
 
 ## Attribution
 
-Original code MIT. Wikivoyage/Wikipedia: linked contributors, CC BY-SA 4.0. Natural Earth public domain. Country metadata mledoze/countries ODbL. date-holidays ISC. World Bank/UN Tourism CC BY 4.0. Eurostat European Commission reuse policy. Photography Unsplash License; original-image links in dist/assets/photo-credits.json. Regional mood photos do not necessarily depict the selected country or event.
-
-## Global coverage and measurement
-
-Every travel tab shows its own inbound/outbound coverage and selected-country city guide. The directory filters by continent, numeric detail,20+ market tables, cities and gaps; direction buttons open the actual selected table. Map connections follow the displayed market set, including search and boundary ties.
-
-US outbound SIAT2025 values are weighted destination percentages among overseas air travellers, not visitor counts or a complete US outbound ranking; Mexico/Canada and other modes fall outside that universe. UAE2024 has five rounded market shares, not20 headcounts. Great Britain ONS country tables exclude NorthernIreland. Brunei's breakdown is air-only. HongKong's cited report is January–February2026. Nepal's earlier2025 NTB publication has a different total from the later ministry revision; the editions are not combined. Source notes retain these limits.
-
-New bundles: research/europe-full-v2.json; travel-anglo-v2.json; travel-asia-v2.json; travel-world-v2.json; travel-southasia-v2.json; travel-uae-v2.json; cities-*-v2.json. Full source extracts remain in bundles; runtime provenance avoids repeating the numeric tables already in directions. There is no claim of complete top20 rankings for all250 references.
+Original application code MIT. Wikivoyage/Wikipedia contributors: linked attribution; adapted community place descriptions CC BY-SA4.0. Country metadata mledoze/countries ODbL; NaturalEarth geography public domain; date-holidays ISC; WorldBank annual archive CC BY4.0; Eurostat EuropeanCommission reuse policy. Other statistical facts retain individual publication references and definitions. Photography: UnsplashLicense, dist/assets/photo-credits.json. Regional mood imagery need not depict the selected place/event. Reference boundaries and inclusion do not imply a sovereignty position.

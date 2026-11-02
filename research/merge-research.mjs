@@ -1,5 +1,5 @@
 import fs from'node:fs';
-const root=new URL('./',import.meta.url),names=['events-curated.json','events-asia-expansion.json','events-europe-expansion.json','events-world-expansion.json','events-additional.json','europe-top20.json','europe-full-v2.json','india-top20.json','greenland-detail.json','travel-asia-v2.json','travel-anglo-v2.json','travel-world-v2.json','travel-southasia-v2.json','travel-uae-v2.json'];
+const root=new URL('./',import.meta.url),names=['events-curated.json','events-asia-expansion.json','events-europe-expansion.json','events-world-expansion.json','events-additional.json','europe-top20.json','europe-full-v2.json','india-top20.json','greenland-detail.json','travel-asia-v2.json','travel-anglo-v2.json','travel-world-v2.json','travel-southasia-v2.json','travel-uae-v2.json','travel-additions-v3.json','travel-territories-v3.json','travel-africa-v3.json','travel-americas-v3.json'];
 const bundles=names.filter(n=>fs.existsSync(new URL(n,root))).map(n=>({name:n,data:JSON.parse(fs.readFileSync(new URL(n,root)))}));
 const events=[],keys=new Set(),travel={},exclusions=[];
 const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/2026|[^a-z0-9]/g,'');
