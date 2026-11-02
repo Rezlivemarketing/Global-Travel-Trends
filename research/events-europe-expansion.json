@@ -1,0 +1,4571 @@
+{
+  "researchedAt": "2026-11-02",
+  "scope": "Primary-source Europe event expansion; historical annual travel rankings with explicit statistical definitions.",
+  "events": [
+    {
+      "iso2": "EE",
+      "title": "Tallinn Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-20",
+      "end": "2027-01-06",
+      "dateStatus": "2026 confirmed by organiser",
+      "description": "Wooden market huts, Estonian food, handicrafts and weekend cultural performances surround the Christmas tree in Tallinn Town Hall Square.",
+      "url": "https://christmasmarket.ee/en/"
+    },
+    {
+      "iso2": "EE",
+      "title": "Estonian Academy of Arts Christmas Market",
+      "month": [
+        12
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "dateStatus": "2026 confirmed by city tourism calendar",
+      "description": "Students and alumni present Estonian design and art across several floors of the Academy of Arts in Tallinn.",
+      "url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events"
+    },
+    {
+      "iso2": "EE",
+      "title": "Estonian Open Air Museum Christmas Village",
+      "month": [
+        12
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "dateStatus": "2026 confirmed by city tourism calendar",
+      "description": "The open-air museum interprets Christmas celebrations from different historical eras through a fair, decorated farmhouses and family activities.",
+      "url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events"
+    },
+    {
+      "iso2": "LV",
+      "title": "Riga Old Town Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "Dome Square hosts Latvian crafts, traditional food and festive music in Riga Old Town.",
+      "url": "https://www.liveriga.com/en/2795-riga-christmas-market"
+    },
+    {
+      "iso2": "LT",
+      "title": "Vilnius Cathedral Square Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-28",
+      "end": "2026-12-27",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "The market beside the capital's Christmas tree offers gifts and seasonal treats. The tree and associated attractions have their own longer operating periods.",
+      "url": "https://www.govilnius.lt/christmas-in-vilnius-2026"
+    },
+    {
+      "iso2": "LT",
+      "title": "Vilnius Slowest Christmas Marathon",
+      "month": [
+        12
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "A leisurely festive walk starts in Cathedral Square, with several route lengths, Christmas stops and optional challenges around the city.",
+      "url": "https://www.govilnius.lt/christmas-in-vilnius-2026"
+    },
+    {
+      "iso2": "MC",
+      "title": "Monaco Christmas Village",
+      "month": [
+        12
+      ],
+      "start": "2026-12-04",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by municipality",
+      "description": "Port Hercule hosts an Enchanted Forest themed Christmas village with food, shopping and family entertainment.",
+      "url": "https://www.mairie.mc/le-village-de-noel"
+    },
+    {
+      "iso2": "MC",
+      "title": "Monaco National Day celebrations",
+      "month": [
+        11
+      ],
+      "start": "2026-11-18",
+      "end": "2026-11-19",
+      "dateStatus": "2026 confirmed by municipality; individual shows may require resident invitations",
+      "description": "Fireworks over Port Hercule on November 18 precede National Day on November 19, with local food and music at the Condamine Market.",
+      "url": "https://mairie.mc/la-fete-nationale"
+    },
+    {
+      "iso2": "SM",
+      "title": "San Marino Christmas of Wonders markets",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-28",
+      "end": "2027-01-06",
+      "dates": [
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06"
+      ],
+      "dateStatus": "2026 confirmed by national tourism board; selected opening days only",
+      "description": "Crafts and seasonal food stalls animate San Marino's historic centre on selected November and December dates, then daily from December 24 to January 6.",
+      "url": "https://www.visitsanmarino.com/pub1/VisitSM/en/contenuto/Il_Natale_delle_-Meraviglie/Mercatini_di_Natale_2026.html"
+    },
+    {
+      "iso2": "LI",
+      "title": "Vaduz Christmas Market",
+      "month": [
+        12
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "dateStatus": "2026 confirmed by tourism event listing supplied by local organiser",
+      "description": "Peter-Kaiser-Platz becomes a seasonal market with handmade gifts, warm food and live Christmas music.",
+      "url": "https://www.myswitzerland.com/en-us/experiences/events/vaduzer-weihnachtsmarkt/"
+    },
+    {
+      "iso2": "AD",
+      "title": "Poblet de Nadal, Andorra la Vella",
+      "month": [
+        11,
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Annual November–January season documented by national tourism board; 2026 exact programme unconfirmed",
+      "description": "Andorra la Vella's Christmas village combines a festive market, lights and family attractions. Confirm the 2026 programme rather than reusing last season's opening dates.",
+      "url": "https://visitandorra.com/content/dam/visitandorra/ca/assets/documents/visitor-information/tourist-guides/2025/guia-and-2025-cat-v2.pdf"
+    },
+    {
+      "iso2": "LU",
+      "title": "Luxembourg City Winterlights",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-20",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by national tourism calendar",
+      "description": "Luxembourg City stages its winter market and festive lighting season around central squares, with individual attractions and stalls following their own schedules.",
+      "url": "https://www.visitluxembourg.com/de/veranstaltung/winterlights"
+    },
+    {
+      "iso2": "NL",
+      "title": "Amsterdam Light Festival",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-26",
+      "end": "2027-01-17",
+      "dateStatus": "2026 confirmed by organiser",
+      "description": "The fifteenth edition places light artworks along Amsterdam's waterways for evening viewing on foot or by boat.",
+      "url": "https://amsterdamlightfestival.com/nl/faq-algemeen"
+    },
+    {
+      "iso2": "CH",
+      "title": "Basel Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-26",
+      "end": "2026-12-23",
+      "dateStatus": "2026 confirmed by cantonal government",
+      "description": "Christmas stalls fill Barfüsserplatz and Münsterplatz with gifts, crafts and seasonal food. Closing hours vary by site on December 23.",
+      "url": "https://www.bs.ch/pd/marketing/messenundmaerkte/weihnachtsmarkt"
+    },
+    {
+      "iso2": "CH",
+      "title": "Montreux Riviera Noël",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-20",
+      "end": "2026-12-24",
+      "dateStatus": "2026 confirmed by regional tourism board",
+      "description": "Illuminated chalets and festive attractions line the Lake Geneva waterfront, including Montreux's flying Santa performances.",
+      "url": "https://www.montreuxriviera.com/en/PA445/riviera-noel"
+    },
+    {
+      "iso2": "CZ",
+      "title": "Prague Sounds festival",
+      "month": [
+        11
+      ],
+      "start": "2026-11-02",
+      "end": "2026-11-22",
+      "dateStatus": "2026 confirmed by Prague City Tourism",
+      "description": "Prague's autumn music festival brings a cross-genre programme to venues around the city. Individual concerts require separate programme checks.",
+      "url": "https://prague.eu/en/"
+    },
+    {
+      "iso2": "CZ",
+      "title": "Prague Old Town Square Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-28",
+      "end": "2027-01-06",
+      "dateStatus": "2026 confirmed by Prague City Tourism",
+      "description": "Prague's principal Old Town Christmas market brings crafts, seasonal food and decorated stalls to the historic square.",
+      "url": "https://prague.eu/en/akce-kategorie/events/"
+    },
+    {
+      "iso2": "CZ",
+      "title": "Prague Wenceslas Square Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-28",
+      "end": "2027-01-06",
+      "dateStatus": "2026 confirmed by Prague City Tourism",
+      "description": "The New Town market offers another central festive stop on Wenceslas Square, complementing the Old Town programme.",
+      "url": "https://prague.eu/en/objevujte/wenceslas-square-vaclavske-namesti/"
+    },
+    {
+      "iso2": "CZ",
+      "title": "Náměstí Republiky Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-25",
+      "end": "2026-12-24",
+      "dateStatus": "2026 confirmed by Prague City Tourism",
+      "description": "A Christmas market operates on the square beside Prague's Municipal House, close to the Old Town–New Town boundary.",
+      "url": "https://prague.eu/en/objevujte/namesti-republiky-square/"
+    },
+    {
+      "iso2": "SK",
+      "title": "Bratislava Main Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-26",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by city organiser; official tree-lighting celebration November 27",
+      "description": "Food, crafts and cultural activities animate Bratislava's central squares. The market opens November 26, a day before the ceremonial festivities.",
+      "url": "https://bratislavskevianoce.sk/o-vianociach/"
+    },
+    {
+      "iso2": "SK",
+      "title": "Bratislava Old Market Hall Christmas Market",
+      "month": [
+        12
+      ],
+      "start": "2026-12-13",
+      "end": "2026-12-22",
+      "dateStatus": "2026 confirmed by venue",
+      "description": "Stará tržnica hosts a Christmas shopping programme with designers, independent makers, food and gifts. Daily hours vary.",
+      "url": "https://staratrznica.sk/sk/vianocnatrznica"
+    },
+    {
+      "iso2": "RO",
+      "title": "Craiova Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-13",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by municipality",
+      "description": "Craiova's city-centre Christmas season combines themed decorations, seasonal stalls and attractions across its festive public spaces.",
+      "url": "https://primariacraiova.ro/ro/a/3977/criterii-de-participare-comercian%C8%9Ai-echipamente-agrement--t%C3%82rgul-de-cr%C4%82ciun-craiova-2026-13-noiembrie-2026-%E2%80%93-03-ianuarie-2027"
+    },
+    {
+      "iso2": "RO",
+      "title": "Great Union Day / Romania National Day",
+      "month": [
+        12
+      ],
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "dateStatus": "Fixed annual national observance; local 2026 ceremony programmes vary",
+      "description": "Romania marks the 1918 Great Union on December 1. Ceremonies and cultural programmes differ between Bucharest, Alba Iulia and other cities.",
+      "url": "https://english.mapn.ro/international_students_training/Courses_Catalog_2026.pdf"
+    },
+    {
+      "iso2": "SI",
+      "title": "Ljubljana Christmas Markets",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "Markets along Ljubljana's riverfront and central squares feature Slovenian design, handmade gifts, regional food and seasonal drinks.",
+      "url": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/christmas-markets-in-ljubljana"
+    },
+    {
+      "iso2": "SI",
+      "title": "Ljubljana St Nicholas Procession",
+      "month": [
+        12
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "The St Nicholas procession follows a route through Ljubljana's historic centre as part of the city's Festive December programme.",
+      "url": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/festive-december"
+    },
+    {
+      "iso2": "SI",
+      "title": "Ljubljana New Year celebrations",
+      "month": [
+        12
+      ],
+      "start": "2026-12-31",
+      "end": "2027-01-01",
+      "dateStatus": "2026 confirmed by city tourism board; venues and concert programmes to recheck",
+      "description": "Public celebrations in central Ljubljana welcome the New Year. A separate children's celebration takes place earlier on December 31.",
+      "url": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/festive-december"
+    },
+    {
+      "iso2": "HR",
+      "title": "Advent Zagreb",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-28",
+      "end": "2027-01-07",
+      "dateStatus": "2026 confirmed on official Advent Zagreb site",
+      "description": "Zagreb's Advent season spreads Christmas markets, lighting, music and family attractions across the city's squares and parks.",
+      "url": "https://www.adventzagreb.hr/it"
+    },
+    {
+      "iso2": "HU",
+      "title": "Advent Basilica, Budapest",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-13",
+      "end": "2027-01-01",
+      "dateStatus": "2026 confirmed by organiser",
+      "description": "St Stephen's Square hosts Budapest's Advent Basilica market with festive food, artisan stalls and a Christmas atmosphere beside the basilica.",
+      "url": "https://adventbazilika.hu/en/history"
+    },
+    {
+      "iso2": "CY",
+      "title": "Cyprus Christmas Villages",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-21",
+      "end": "2027-01-06",
+      "dateStatus": "2026 official season; selected dates before December 21; recheck each village",
+      "description": "Traditional Cypriot villages host Christmas crafts, regional food and cultural activities. Early-season openings are selected dates; the published schedule becomes daily from December 21 to January 6. Verify each village's programme.",
+      "url": "https://www.visitcyprus.com/christmas-villages-of-cyprus/",
+      "scheduleNote": "dates lists unambiguous published dates only. The source currently labels December 14-15 as a weekend despite these falling Monday-Tuesday; that pair is omitted pending clarification. Do not infer operation on December 12-13.",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-11",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06"
+      ]
+    },
+    {
+      "iso2": "BG",
+      "title": "Sofia Christmas Fest",
+      "month": [
+        11,
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Listed in official 2026–2027 planner; exact 2026 opening dates unconfirmed",
+      "description": "Sofia's winter festival at the National Palace of Culture area combines Christmas market stalls, food and entertainment. Confirm the specific 2026 programme with the organiser.",
+      "url": "https://www.visitsofia.bg/images/Event_Planners_Guide_Sofia_2026-2027.pdf"
+    },
+    {
+      "iso2": "RS",
+      "title": "Novi Sad Winter Fest",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Recurring winter event documented by city tourism board; 2026 dates unconfirmed",
+      "description": "Novi Sad's winter programme has featured a festive market, music and a singing Christmas tree. The linked city guide describes the tradition; it is not a confirmed 2026 schedule.",
+      "url": "https://novisad.travel/wp-content/uploads/2020/10/Vodic-veliki-2019-eng-1.pdf"
+    },
+    {
+      "iso2": "ME",
+      "title": "Days of Wine and Bleak, Virpazar",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "December tradition documented by national tourism board; 2026 dates unconfirmed",
+      "description": "Virpazar celebrates Lake Skadar wine and local bleak-fish specialities. Consult Bar's tourism organisation for the exact 2026 festival dates.",
+      "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/ENG/Map-Sea-and-Heights.pdf"
+    },
+    {
+      "iso2": "MK",
+      "title": "Taksirat Festival, Skopje",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Previous December festival edition documented by organiser; 2026 programme unconfirmed",
+      "description": "Skopje's Taksirat presents a winter live-music festival and associated concerts. This record does not adopt secondary-site date claims as a confirmed programme.",
+      "url": "https://taksirat.mk/taksirat-english/"
+    },
+    {
+      "iso2": "AL",
+      "title": "Albania Independence Day celebrations",
+      "month": [
+        11
+      ],
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "dateStatus": "Fixed annual national observance; 2026 local programmes vary",
+      "description": "Albania's principal independence commemoration takes place on November 28, with ceremonies and cultural celebrations including in Vlorë and Tirana.",
+      "url": "https://albania.al/wp-content/uploads/2019/08/DISCOVER-ALBANIA-compressed.pdf"
+    },
+    {
+      "iso2": "GB",
+      "title": "Hyde Park Winter Wonderland",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-19",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by The Royal Parks",
+      "description": "London's Hyde Park hosts a ticketed winter event with rides, festive entertainment, ice attractions and Christmas-market stalls.",
+      "url": "https://www.royalparks.org.uk/whats-on/hyde-park-winter-wonderland-0"
+    },
+    {
+      "iso2": "GB",
+      "title": "Edinburgh Hogmanay",
+      "month": [
+        12
+      ],
+      "start": "2026-12-29",
+      "end": "2027-01-01",
+      "dateStatus": "2026 confirmed by Edinburgh destination organisation",
+      "description": "Scotland's capital marks the New Year with a multi-day Hogmanay festival. Individual concerts and street-party access have their own booking and age conditions.",
+      "url": "https://edinburgh.org/festivals/edinburghs-hogmanay/"
+    },
+    {
+      "iso2": "IE",
+      "title": "New Year Festival Dublin",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Annual New Year event documented by national tourism destination guide; 2026–2027 details unconfirmed",
+      "description": "Dublin's New Year festival combines live music and festive events across city-centre locations. The linked destination guide still describes a prior season; recheck the forthcoming programme.",
+      "url": "https://www.visitdublin.com//guides/new-years-guide"
+    },
+    {
+      "iso2": "IS",
+      "title": "Arrival of Iceland's Yule Lads",
+      "month": [
+        12
+      ],
+      "start": "2026-12-12",
+      "end": "2026-12-24",
+      "dateStatus": "Fixed annual folklore calendar; local event times vary",
+      "description": "The thirteen Yule Lads arrive one at a time in the nights before Christmas, a distinctive Icelandic gift-giving tradition celebrated by families.",
+      "url": "https://visitreykjavik.is/thirteen-footsteps-snow-story-icelands-yule-lads"
+    },
+    {
+      "iso2": "IS",
+      "title": "Þorláksmessa / St Thorlak's Day",
+      "month": [
+        12
+      ],
+      "start": "2026-12-23",
+      "end": "2026-12-23",
+      "dateStatus": "Fixed annual cultural and religious observance",
+      "description": "Iceland's December 23 tradition combines last-minute Christmas preparations with customary seasonal food and social gatherings.",
+      "url": "https://inspiredbyiceland.atdev.is/about-iceland/christmas-and-new-year"
+    },
+    {
+      "iso2": "SE",
+      "title": "Skansen Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-20",
+      "dates": [
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "dateStatus": "2026 confirmed by venue; Friday–Sunday openings only",
+      "description": "Stockholm's open-air museum hosts a traditional Swedish market with crafts, seasonal food and historical Christmas settings on Fridays through Sundays.",
+      "url": "https://www.skansen.se/se-och-gora/marknader-temadagar/julmarknad/"
+    },
+    {
+      "iso2": "NO",
+      "title": "Oslo Jul i Vinterland",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-07",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by national tourism board",
+      "description": "Oslo's central winter market at Spikersuppa features festive stalls, food and family attractions.",
+      "url": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/"
+    },
+    {
+      "iso2": "NO",
+      "title": "Bergen Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-20",
+      "end": "2026-12-22",
+      "dateStatus": "2026 confirmed by national tourism board",
+      "description": "Festplassen hosts Bergen's principal Christmas market, a seasonal gathering for food, crafts and winter activities.",
+      "url": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/"
+    },
+    {
+      "iso2": "NO",
+      "title": "Trondheim Christmas Market",
+      "month": [
+        12
+      ],
+      "start": "2026-12-03",
+      "end": "2026-12-21",
+      "dateStatus": "2026 confirmed by national tourism board",
+      "description": "The market on Torvet in central Trondheim combines Norwegian Christmas food, crafts and a festive city-square setting.",
+      "url": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/"
+    },
+    {
+      "iso2": "NO",
+      "title": "Røros Christmas Market",
+      "month": [
+        12
+      ],
+      "start": "2026-12-03",
+      "end": "2026-12-06",
+      "dateStatus": "2026 confirmed by national tourism board",
+      "description": "The historic mining town hosts a short Christmas-market programme with traditional seasonal products and a distinctive wooden-town setting.",
+      "url": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/"
+    },
+    {
+      "iso2": "FI",
+      "title": "Helsinki Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-22",
+      "dateStatus": "2026 confirmed by organiser",
+      "description": "Tuomaan Markkinat brings Finnish food, crafts and festive stalls to Helsinki's Senate Square.",
+      "url": "https://tuomaanmarkkinat.fi/en/"
+    },
+    {
+      "iso2": "FI",
+      "title": "Aleksanterinkatu Christmas Street opening",
+      "month": [
+        11
+      ],
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "dateStatus": "2026 confirmed by City of Helsinki",
+      "description": "Helsinki marks the start of its Christmas street season with the official Aleksanterinkatu opening ceremony.",
+      "url": "https://www.hel.fi/en/business-and-work/apply-for-permits-and-facilities/sales-spots-and-leasing-of-land/temporary-and-seasonal-sales-spots"
+    },
+    {
+      "iso2": "DK",
+      "title": "Christmas in Tivoli",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-13",
+      "end": "2027-01-03",
+      "dateStatus": "Season dates published by venue; recheck daily opening calendar",
+      "description": "Copenhagen's Tivoli Gardens stages a decorated Christmas season with market stalls, food, rides and festive entertainment.",
+      "url": "https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli"
+    },
+    {
+      "iso2": "DE",
+      "title": "Dresden Striezelmarkt",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-25",
+      "end": "2026-12-24",
+      "dateStatus": "2026 confirmed by Saxony tourism board",
+      "description": "Dresden's historic market on the Altmarkt celebrates Saxon Christmas crafts, food and traditions.",
+      "url": "https://www.sachsen-tourismus.de/typisch-sachsen/weihnachten/weihnachtsmaerkte/All/offset%3A0"
+    },
+    {
+      "iso2": "FR",
+      "title": "Strasbourg Christmas Market",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-24",
+      "dateStatus": "2026 confirmed by municipality",
+      "description": "Strasbourg's Christmas markets occupy central squares with Alsatian food, crafts and festive lighting; detailed opening hours differ by date.",
+      "url": "https://www.strasbourg.eu/en/web/noel/frequently-asked-questions"
+    },
+    {
+      "iso2": "FR",
+      "title": "Beaujolais Nouveau release celebrations",
+      "month": [
+        11
+      ],
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "dateStatus": "Annual third-Thursday rule applied to 2026; individual local event dates vary",
+      "description": "The release of the new Beaujolais vintage prompts tastings and celebrations in the wine region and beyond. Some local festivities begin the preceding evening.",
+      "url": "https://rendez-vous.beaujolais.com/chez-les-cavistes/"
+    },
+    {
+      "iso2": "IT",
+      "title": "Venice Festa della Madonna della Salute",
+      "month": [
+        11
+      ],
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "dateStatus": "2026 confirmed by official Venice visitor portal",
+      "description": "Venice's major devotional celebration honours the Madonna della Salute with visits to the basilica and a temporary votive crossing of the Grand Canal.",
+      "url": "https://www.veneziaunica.it/en"
+    },
+    {
+      "iso2": "IT",
+      "title": "Venice Biennale Arte 2026 — closing weeks",
+      "month": [
+        11
+      ],
+      "start": "2026-05-09",
+      "end": "2026-11-22",
+      "dateStatus": "2026 confirmed by official Venice visitor portal",
+      "description": "The international contemporary-art exhibition continues through November 22. This record highlights its final weeks; pavilion openings and closures require programme checks.",
+      "url": "https://www.veneziaunica.it/en"
+    },
+    {
+      "iso2": "ES",
+      "title": "Barcelona Fira de Santa Llúcia",
+      "month": [
+        11,
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Annual November–December market; organiser page still refers to 239th edition, so 2026 dates unconfirmed",
+      "description": "Barcelona's traditional nativity and Christmas craft fair takes place beside the cathedral. Do not reuse a prior edition's November 28–December 23 dates as confirmed for 2026.",
+      "url": "https://firadesantallucia.cat/"
+    },
+    {
+      "iso2": "PT",
+      "title": "Madeira Christmas and New Year Festivities",
+      "month": [
+        12
+      ],
+      "start": "2026-12-01",
+      "end": "2027-01-10",
+      "dateStatus": "2026 confirmed by Madeira Tourism Board",
+      "description": "Madeira's festive season includes decorations, traditional celebrations and events in Funchal, culminating in the New Year fireworks programme.",
+      "url": "https://visitmadeira.com/en/whats-on/events/christmas-and-new-year-festivities/"
+    },
+    {
+      "iso2": "GR",
+      "title": "Athens St Nicholas Day and start of Christmas traditions",
+      "month": [
+        12
+      ],
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "dateStatus": "Fixed annual cultural/religious date; city attraction programmes vary",
+      "description": "Athens' seasonal guide identifies St Nicholas Day as the traditional beginning of the Christmas season, which continues to Epiphany. Markets and venue-specific festivities have separate dates.",
+      "url": "https://www.thisisathens.org/seasonal-guide/winter/christmas-holidays"
+    },
+    {
+      "iso2": "PL",
+      "title": "Kraków Nativity Scene Contest",
+      "month": [
+        12
+      ],
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "dateStatus": "2026 confirmed by organising museum",
+      "description": "The 84th contest presents Kraków's elaborate szopka nativity constructions at the Adam Mickiewicz monument in the Main Market Square.",
+      "url": "https://www.muzeumkrakowa.pl/kalendarium/84-konkurs-szopek-krakowskich-2026"
+    },
+    {
+      "iso2": "PL",
+      "title": "Andrzejki / St Andrew's Eve traditions",
+      "month": [
+        11
+      ],
+      "start": "2026-11-29",
+      "end": "2026-11-30",
+      "dateStatus": "Fixed annual folk-calendar night of November 29–30; individual events vary",
+      "description": "Polish St Andrew's Eve traditions include playful fortune-telling gatherings and seasonal parties; the observance is not a single centrally scheduled festival.",
+      "url": "https://muzhp.pl/wiedza-on-line/wrozebne-seanse-w-noc-andrzejkowa-w-dawnej-polsce"
+    },
+    {
+      "iso2": "AM",
+      "title": "Yerevan New Year Fair",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Previous 2025–2026 municipal edition documented; 2026–2027 dates unconfirmed",
+      "description": "Yerevan's municipal New Year fair offers seasonal activities and festive stalls. The tourism-board listing still describes the previous December 14–January 14 edition.",
+      "url": "https://armenia.travel/events/yerevan-new-year-events/"
+    },
+    {
+      "iso2": "AZ",
+      "title": "Azerbaijan Victory Day observances",
+      "month": [
+        11
+      ],
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "dateStatus": "Fixed annual national observance; 2026 ceremonies not inferred from previous parades",
+      "description": "Azerbaijan marks Victory Day on November 8. Public commemorations and any specific 2026 parade arrangements require separate official confirmation.",
+      "url": "https://files.preslib.az/projects/zefer/en/xronika.pdf"
+    },
+    {
+      "iso2": "AZ",
+      "title": "World Azerbaijanis Solidarity Day",
+      "month": [
+        12
+      ],
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "dateStatus": "Fixed annual national observance; individual programmes vary",
+      "description": "Solidarity Day is observed on December 31 alongside the transition to the New Year, with gatherings connecting Azerbaijani communities.",
+      "url": "https://nato-pfp.mfa.gov.az/en/news/president-ilham-aliyev-congratulates-world-azerbaijanis-on-solidarity-day"
+    },
+    {
+      "iso2": "RU",
+      "title": "National Unity Day",
+      "month": [
+        11
+      ],
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "dateStatus": "Fixed annual national holiday; specific 2026 public programmes vary",
+      "description": "Russia observes National Unity Day on November 4. This entry identifies the commemoration, without assuming any particular local event programme.",
+      "url": "https://www.cbr.ru/eng/other/holidays/"
+    },
+    {
+      "iso2": "UA",
+      "title": "Ukrainian Christmas observance",
+      "month": [
+        12
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "dateStatus": "Fixed annual Gregorian-calendar observance; local celebrations and availability vary",
+      "description": "Ukraine's official Christmas date is December 25. Family, religious and community traditions differ; this calendar entry does not confirm any public gathering or travel conditions.",
+      "url": "https://www.kmu.gov.ua/en/news/promova-premier-ministra-ukrainy-denysa-shmyhalia-na-zasidanni-uriadu-22122023"
+    },
+    {
+      "iso2": "MD",
+      "title": "Moldovan Christmas traditions — new-style observance",
+      "month": [
+        12
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "dateStatus": "Fixed annual observance documented by national tourism organisation",
+      "description": "Moldova observes Christmas on December 25 and also January 7 under the old calendar. Carolling, food and family gatherings are important traditions.",
+      "url": "https://moldova.travel/en/cultural-heritage/"
+    },
+    {
+      "iso2": "MD",
+      "title": "Chișinău winter holiday market",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Previous winter municipal programme documented; December 2026 dates unconfirmed",
+      "description": "Chișinău's winter market combines lights, carols, seasonal food and family activities. The linked municipal page describes the December 2025–January 2026 edition, not confirmed December 2026 dates.",
+      "url": "https://visit.chisinau.md/en/4668-2/"
+    },
+    {
+      "iso2": "GE",
+      "title": "Giorgoba / St George's Day",
+      "month": [
+        11
+      ],
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "dateStatus": "Fixed annual religious/public-holiday date; local services vary",
+      "description": "Georgia's November feast of its patron saint is marked by church services, pilgrimages and family gatherings. It is distinct from the spring St George commemoration.",
+      "url": "https://sportuni.edu.ge/en/students/academic-calendar/"
+    },
+    {
+      "iso2": "MT",
+      "title": "Christmas in the Square, Ta' Sannat",
+      "month": [
+        12
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "dateStatus": "2026 confirmed by national tourism event calendar",
+      "description": "Ta' Sannat in Gozo hosts a Christmas programme with markets and family entertainment; consult the event listing for the day-by-day schedule.",
+      "url": "https://www.visitmalta.com/en/events-in-malta-and-gozo/"
+    },
+    {
+      "iso2": "MT",
+      "title": "Joy to the World, Nadur",
+      "month": [
+        12
+      ],
+      "start": "2026-12-10",
+      "end": "2026-12-10",
+      "dateStatus": "2026 confirmed by national tourism event calendar",
+      "description": "Nadur's Christmas programme offers a community celebration with seasonal entertainment and family activities.",
+      "url": "https://www.visitmalta.com/en/events-in-malta-and-gozo/"
+    },
+    {
+      "iso2": "MT",
+      "title": "Santa's Factory and the Glowing Alley, Gozo",
+      "month": [
+        12
+      ],
+      "start": "2026-12-11",
+      "end": "2026-12-13",
+      "dateStatus": "2026 confirmed by national tourism event calendar",
+      "description": "A ticketed Christmas attraction in Gozo offers a themed seasonal experience. Confirm venue, sessions and access details with the organiser.",
+      "url": "https://www.visitmalta.com/en/events-in-malta-and-gozo/"
+    },
+    {
+      "iso2": "BE",
+      "title": "Brussels Winter Wonders",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-27",
+      "end": "2027-01-03",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "Brussels celebrates the 25th edition of its central Christmas-market and winter-entertainment season, with activities across several city-centre locations.",
+      "url": "https://www.visit.brussels/en/visitors/event-details.Winter-Wonders.5700028296"
+    },
+    {
+      "iso2": "AT",
+      "title": "Salzburg Christkindlmarkt",
+      "month": [
+        11,
+        12
+      ],
+      "start": "2026-11-19",
+      "end": "2027-01-01",
+      "dateStatus": "2026 confirmed by organiser",
+      "description": "The traditional market on Domplatz and Residenzplatz combines seasonal food, crafts and music in the historic city centre. Opening hours change around Christmas and New Year.",
+      "url": "https://christkindlmarkt.co.at/en/faq/"
+    },
+    {
+      "iso2": "AT",
+      "title": "Salzburg Christmas Market Krampus Run",
+      "month": [
+        12
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "Masked Krampus figures appear in a traditional run at the Salzburg Christmas market, a prominent Alpine Advent custom.",
+      "url": "https://www2.salzburg.info/en/salzburg/advent/salzburg-christmas-market"
+    },
+    {
+      "iso2": "AT",
+      "title": "Salzburg Traditional Perchten Run",
+      "month": [
+        12
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "dateStatus": "2026 confirmed by city tourism board",
+      "description": "Salzburg presents its traditional Perchten procession during the Christmas-market season, continuing regional masked winter customs.",
+      "url": "https://www2.salzburg.info/en/salzburg/advent/salzburg-christmas-market"
+    },
+    {
+      "iso2": "BY",
+      "title": "Autumn Dzyady ancestor-remembrance traditions",
+      "month": [
+        11
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Traditional autumn observance with local calendar variations; no single 2026 programme asserted",
+      "description": "Belarusian Dzyady customs honour ancestors through remembrance meals and local ritual traditions. Dates differ between communities and religious calendars; this is cultural context rather than a scheduled public festival.",
+      "url": "https://set.ethno.by/?page_id=1619"
+    },
+    {
+      "iso2": "XK",
+      "title": "Vere n-Dimen, Prishtina",
+      "month": [
+        12
+      ],
+      "start": null,
+      "end": null,
+      "dateStatus": "Annual year-end municipal festival documented in prior programme; 2026 dates unconfirmed",
+      "description": "The municipality of Prishtina documents this recurring winter celebration with a festive programme in the city centre. The cited programme is historical and does not establish exact December 2026 dates.",
+      "url": "https://prishtinaonline.com/uploads/verendimen.fin.fin.pdf"
+    },
+    {
+      "iso2": "BA",
+      "title": "Statehood Day observances",
+      "month": [
+        11
+      ],
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "dateStatus": "Fixed annual date; observance and closures vary by entity and locality",
+      "description": "November 25 is marked as Statehood Day in the Federation of Bosnia and Herzegovina. This entry does not imply uniform observance throughout the country or a confirmed 2026 public-event programme.",
+      "url": "https://fbihvlada.gov.ba/hr/fmrsp-informacija-o-obiljezavanju-dana-drzavnosti-bih-21452"
+    },
+    {
+      "iso2": "VA",
+      "title": "Christmas in Vatican City",
+      "month": [
+        12
+      ],
+      "start": "2026-12-24",
+      "end": "2026-12-25",
+      "dateStatus": "Fixed annual Christmas observance; 2026 detailed liturgy and attendance arrangements to confirm",
+      "description": "Christmas Eve and Christmas Day are central dates in the religious year of the Vatican. Recheck the Holy See calendar for published liturgies, times and attendance arrangements rather than assuming a prior season schedule.",
+      "url": "https://www.vatican.va/content/leo-xiv/en/events/year.dir.html/2026.html"
+    }
+  ],
+  "travel": {
+    "BE": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Netherlands",
+        "France",
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ],
+      "outbound": [
+        "France",
+        "Spain",
+        "Netherlands",
+        "Italy",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=BE&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=BE&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=BE&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 2441948,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1403821,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1247416,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 819749,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 477150,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 367192,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 289835,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 4667825,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1803252,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 1565325,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 1032967,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 961049,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 490919,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 423959,
+          "status": null
+        }
+      ]
+    },
+    "BG": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Romania",
+        "Ukraine",
+        "Poland",
+        "United Kingdom",
+        "Germany"
+      ],
+      "outbound": [
+        "Greece",
+        "Türkiye",
+        "Italy",
+        "Romania",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=BG&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=BG&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=BG&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 906966,
+          "status": null
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 296113,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 269531,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 252845,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 246517,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 169907,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 165140,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 410010,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 302107,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 94415,
+          "status": null
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 83149,
+          "status": "u"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 54488,
+          "status": "u"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 48926,
+          "status": "u"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 38134,
+          "status": "u"
+        }
+      ]
+    },
+    "CZ": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Slovakia",
+        "Poland",
+        "United States",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "Slovakia",
+        "Italy",
+        "Austria",
+        "Croatia",
+        "Poland"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CZ&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CZ&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=CZ&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2372694,
+          "status": null
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 896999,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 839229,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 563682,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 530067,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 433854,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 347210,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 1070662,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 917659,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 740181,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 682005,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 558292,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 475675,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 354089,
+          "status": null
+        }
+      ]
+    },
+    "DK": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Sweden",
+        "United States",
+        "Norway",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "Sweden",
+        "Germany",
+        "Spain",
+        "Norway",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=DK&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=DK&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=DK&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 720517,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 389244,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 324840,
+          "status": null
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 267031,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 257696,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 189189,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 130849,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 1432737,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1410595,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1303204,
+          "status": null
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 820772,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 799815,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 679793,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 679422,
+          "status": null
+        }
+      ]
+    },
+    "DE": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Netherlands",
+        "Switzerland and Liechtenstein",
+        "United States",
+        "United Kingdom",
+        "Austria"
+      ],
+      "outbound": [
+        "Italy",
+        "Austria",
+        "Spain",
+        "France",
+        "Netherlands"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=DE&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=DE&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=DE&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 5250119,
+          "status": null
+        },
+        {
+          "country": "Switzerland and Liechtenstein",
+          "code": "CH_LI",
+          "value": 3315820,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 3222927,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 2373132,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 2131281,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1849028,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 1577424,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 15750444,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 14443691,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 11181975,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 8631163,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 8130353,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 4249777,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 3751169,
+          "status": null
+        }
+      ]
+    },
+    "EE": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Finland",
+        "Latvia",
+        "Germany",
+        "Lithuania",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "Finland",
+        "Latvia",
+        "Sweden",
+        "Spain",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=EE&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=EE&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=EE&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 696483,
+          "status": null
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 250902,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 116797,
+          "status": null
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 81446,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 69593,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 53082,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 52212,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 168294,
+          "status": null
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 162975,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 109311,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 101303,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 95839,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 81135,
+          "status": null
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 71516,
+          "status": null
+        }
+      ]
+    },
+    "IE": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "United Kingdom",
+        "United States",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "outbound": [
+        "United Kingdom",
+        "Spain",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=IE&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=IE&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=IE&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1253141,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1069544,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 365466,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 275262,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 164613,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 162749,
+          "status": null
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 155574,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 3551360,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 2738455,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 739093,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 613757,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 597154,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 389466,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 374718,
+          "status": null
+        }
+      ]
+    },
+    "GR": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "United Kingdom",
+        "Germany",
+        "United States",
+        "France",
+        "Italy"
+      ],
+      "outbound": [
+        "Italy",
+        "United Kingdom",
+        "Türkiye",
+        "Germany",
+        "France"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=EL&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=EL&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=EL&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 4370707,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 3521528,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 2443191,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1816151,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 1390910,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 1079861,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 1041813,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 159408,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 86077,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 84273,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 67661,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 63881,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 44733,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 39798,
+          "status": "u"
+        }
+      ]
+    },
+    "ES": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "United Kingdom",
+        "Germany",
+        "France",
+        "United States",
+        "Italy"
+      ],
+      "outbound": [
+        "France",
+        "Portugal",
+        "Italy",
+        "United Kingdom",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=ES&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=ES&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=ES&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 14420935,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 9830078,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 8610559,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 5116377,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 4407936,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 3959602,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 2572004,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 2796676,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 2481972,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 2453626,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1186591,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 857598,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 546274,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 342281,
+          "status": null
+        }
+      ]
+    },
+    "FR": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "United Kingdom",
+        "Netherlands",
+        "Belgium",
+        "United States"
+      ],
+      "outbound": [
+        "Spain",
+        "Italy",
+        "Germany",
+        "Belgium",
+        "United Kingdom"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=FR&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=FR&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=FR&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 7672061,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 7303464,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 5887772,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 5021189,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 4680052,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 3779996,
+          "status": null
+        },
+        {
+          "country": "Switzerland and Liechtenstein",
+          "code": "CH_LI",
+          "value": 3103302,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 6168036,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 4379148,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2840388,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 2470775,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 2256390,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 1811158,
+          "status": null
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 1237191,
+          "status": null
+        }
+      ]
+    },
+    "HR": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Slovenia",
+        "Austria",
+        "Poland",
+        "Italy"
+      ],
+      "outbound": [
+        "Italy",
+        "Slovenia",
+        "Austria",
+        "Germany",
+        "Hungary"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=HR&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=HR&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=HR&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 3071260,
+          "status": null
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 1570541,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 1509598,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 1127453,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 911024,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 799329,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 758540,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 302701,
+          "status": null
+        },
+        {
+          "country": "Slovenia",
+          "code": "SI",
+          "value": 213136,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 213075,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 177079,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 99390,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 64631,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 50057,
+          "status": "u"
+        }
+      ]
+    },
+    "IT": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "United States",
+        "France",
+        "United Kingdom",
+        "Switzerland and Liechtenstein"
+      ],
+      "outbound": [
+        "Spain",
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Romania"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=IT&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=IT&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=IT&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 14053919,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 8134363,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 5360149,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 3804452,
+          "status": null
+        },
+        {
+          "country": "Switzerland and Liechtenstein",
+          "code": "CH_LI",
+          "value": 3488567,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 3016682,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 2594093,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1602293,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1063059,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 587761,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 543130,
+          "status": "u"
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 540460,
+          "status": "u"
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 534297,
+          "status": "u"
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 401141,
+          "status": "u"
+        }
+      ]
+    },
+    "CY": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "United Kingdom",
+        "Poland",
+        "Germany",
+        "Sweden",
+        "Greece"
+      ],
+      "outbound": [
+        "Greece",
+        "United Kingdom",
+        "Italy",
+        "Germany",
+        "Netherlands"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CY&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CY&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=CY&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1150664,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 218325,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 195561,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 137291,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 72968,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 71787,
+          "status": null
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 59446,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 606958,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 183180,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 90582,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 64239,
+          "status": "u"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 52183,
+          "status": "u"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 50746,
+          "status": "u"
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 50647,
+          "status": "u"
+        }
+      ]
+    },
+    "LV": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Lithuania",
+        "Estonia",
+        "Germany",
+        "Finland",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "Estonia",
+        "Lithuania",
+        "Italy",
+        "Türkiye",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LV&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LV&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=LV&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 280749,
+          "status": null
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 180489,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 165702,
+          "status": null
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 112326,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 94737,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 74089,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 59587,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 274535,
+          "status": null
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 195429,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 123680,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 106440,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 102037,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 89167,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 82536,
+          "status": null
+        }
+      ]
+    },
+    "LT": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Poland",
+        "Germany",
+        "Latvia",
+        "United States",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "Türkiye",
+        "Latvia",
+        "Poland",
+        "United Kingdom",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LT&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LT&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=LT&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 174229,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 154570,
+          "status": null
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 145609,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 91911,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 82975,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 66090,
+          "status": null
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 56031,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 232992,
+          "status": null
+        },
+        {
+          "country": "Latvia",
+          "code": "LV",
+          "value": 227729,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 184618,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 171739,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 151068,
+          "status": null
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 119385,
+          "status": null
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 108176,
+          "status": null
+        }
+      ]
+    },
+    "LU": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Netherlands",
+        "Belgium",
+        "Germany",
+        "France",
+        "United Kingdom"
+      ],
+      "outbound": [
+        "France",
+        "Germany",
+        "Belgium",
+        "Spain",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LU&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LU&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=LU&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 314180,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 242921,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 238235,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 179447,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 71548,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 39290,
+          "status": null
+        },
+        {
+          "country": "Switzerland and Liechtenstein",
+          "code": "CH_LI",
+          "value": 28441,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 657480,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 412917,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 263573,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 246029,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 226548,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 219059,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 131174,
+          "status": null
+        }
+      ]
+    },
+    "HU": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Romania",
+        "Czechia",
+        "United Kingdom",
+        "Austria"
+      ],
+      "outbound": [
+        "Germany",
+        "Italy",
+        "Austria",
+        "Greece",
+        "Czechia"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=HU&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=HU&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=HU&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 634412,
+          "status": null
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 437331,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 390859,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 384929,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 360148,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 354045,
+          "status": null
+        },
+        {
+          "country": "Slovakia",
+          "code": "SK",
+          "value": 319156,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 848641,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 536705,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 460522,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 452900,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 421374,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 377725,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 353823,
+          "status": null
+        }
+      ]
+    },
+    "MT": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "United Kingdom",
+        "Italy",
+        "France",
+        "Poland",
+        "Germany"
+      ],
+      "outbound": [
+        "Italy",
+        "United Kingdom",
+        "Spain",
+        "France",
+        "Greece"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=MT&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=MT&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=MT&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 534142,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 339746,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 182819,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 166197,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 163479,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 72308,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 59717,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 258778,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 85423,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 45307,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 35648,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 30667,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 28230,
+          "status": null
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 18370,
+          "status": "u"
+        }
+      ]
+    },
+    "NL": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Belgium",
+        "United Kingdom",
+        "United States",
+        "France"
+      ],
+      "outbound": [
+        "Germany",
+        "France",
+        "Spain",
+        "Belgium",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=NL&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=NL&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=NL&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 7537893,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 2656056,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1917344,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1530828,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1065121,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 823547,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 597127,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 4020837,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 3185070,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 2923918,
+          "status": null
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 2400386,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 1555654,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 1481611,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 1243244,
+          "status": null
+        }
+      ]
+    },
+    "AT": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Netherlands",
+        "Switzerland and Liechtenstein",
+        "Italy",
+        "Czechia"
+      ],
+      "outbound": [
+        "Italy",
+        "Germany",
+        "Croatia",
+        "Spain",
+        "Hungary"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=AT&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=AT&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=AT&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 12969982,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 1841947,
+          "status": null
+        },
+        {
+          "country": "Switzerland and Liechtenstein",
+          "code": "CH_LI",
+          "value": 1284184,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 996516,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 956620,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 919182,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 879019,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 3027789,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2821024,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 1793351,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 899932,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 638952,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 632037,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 486768,
+          "status": null
+        }
+      ]
+    },
+    "PL": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Ukraine",
+        "United Kingdom",
+        "United States",
+        "Czechia"
+      ],
+      "outbound": [
+        "Germany",
+        "Italy",
+        "Spain",
+        "United Kingdom",
+        "Greece"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=PL&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=PL&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=PL&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1803918,
+          "status": null
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 887552,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 692366,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 557241,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 410221,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 266346,
+          "status": null
+        },
+        {
+          "country": "Lithuania",
+          "code": "LT",
+          "value": 250714,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2595078,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 1312024,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1112365,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 951686,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 932909,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 819138,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 700317,
+          "status": null
+        }
+      ]
+    },
+    "PT": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Spain",
+        "United Kingdom",
+        "United States",
+        "Germany",
+        "France"
+      ],
+      "outbound": [
+        "Spain",
+        "France",
+        "Italy",
+        "United Kingdom",
+        "Switzerland"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=PT&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=PT&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=PT&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 2496095,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 2300786,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 2218592,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1810381,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1745301,
+          "status": null
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 1072242,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 868794,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1168079,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 274270,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 190545,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 141027,
+          "status": null
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 127281,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 79286,
+          "status": null
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 63274,
+          "status": null
+        }
+      ]
+    },
+    "RO": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Italy",
+        "United States",
+        "United Kingdom",
+        "Spain"
+      ],
+      "outbound": [
+        "Italy",
+        "Greece",
+        "Spain",
+        "Austria",
+        "Bulgaria"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=RO&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=RO&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=RO&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 240910,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 213637,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 147500,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 135237,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 120114,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 114105,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 113176,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 430657,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 366698,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 296224,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 272839,
+          "status": null
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 248613,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 137307,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 128400,
+          "status": null
+        }
+      ]
+    },
+    "SI": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Italy",
+        "Austria",
+        "Croatia",
+        "Hungary"
+      ],
+      "outbound": [
+        "Croatia",
+        "Italy",
+        "Austria",
+        "Germany",
+        "Spain"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SI&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SI&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=SI&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 721022,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 521396,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 418443,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 334566,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 241652,
+          "status": null
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 239023,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 217463,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 2267176,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 410991,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 299629,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 159141,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 115972,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 100494,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 67038,
+          "status": null
+        }
+      ]
+    },
+    "SK": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Czechia",
+        "Poland",
+        "Germany",
+        "Hungary",
+        "Ukraine"
+      ],
+      "outbound": [
+        "Czechia",
+        "Croatia",
+        "Hungary",
+        "Italy",
+        "Poland"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SK&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SK&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=SK&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 670024,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 304588,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 150147,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 118959,
+          "status": null
+        },
+        {
+          "country": "Ukraine",
+          "code": "UA",
+          "value": 94138,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 89822,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 60332,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 1081783,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 515410,
+          "status": null
+        },
+        {
+          "country": "Hungary",
+          "code": "HU",
+          "value": 394980,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 379783,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 296767,
+          "status": null
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 273060,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 263926,
+          "status": null
+        }
+      ]
+    },
+    "FI": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Sweden",
+        "United Kingdom",
+        "United States",
+        "France"
+      ],
+      "outbound": [
+        "Sweden",
+        "Estonia",
+        "Spain",
+        "Italy",
+        "Germany"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=FI&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=FI&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=FI&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 310463,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 275144,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 222355,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 209712,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 129440,
+          "status": null
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 120089,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 104214,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 1210829,
+          "status": null
+        },
+        {
+          "country": "Estonia",
+          "code": "EE",
+          "value": 1201344,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 787323,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 365764,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 349035,
+          "status": null
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 331791,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 321519,
+          "status": null
+        }
+      ]
+    },
+    "SE": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Norway",
+        "Germany",
+        "United States",
+        "Denmark",
+        "Netherlands"
+      ],
+      "outbound": [
+        "Germany",
+        "Spain",
+        "Norway",
+        "Greece",
+        "Finland"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SE&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=SE&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=SE&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 1539637,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1302807,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 799360,
+          "status": null
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 705746,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 371441,
+          "status": null
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 339717,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 333090,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2457746,
+          "status": "u"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1902035,
+          "status": "u"
+        },
+        {
+          "country": "Norway",
+          "code": "NO",
+          "value": 1678451,
+          "status": "u"
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 1402642,
+          "status": "u"
+        },
+        {
+          "country": "Finland",
+          "code": "FI",
+          "value": 1177479,
+          "status": "u"
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 1149043,
+          "status": "u"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 945232,
+          "status": "u"
+        }
+      ]
+    },
+    "NO": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "United States",
+        "Sweden",
+        "Netherlands",
+        "Denmark"
+      ],
+      "outbound": [
+        "Sweden",
+        "Spain",
+        "Denmark",
+        "United Kingdom",
+        "Italy"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=NO&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=NO&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=NO&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 1217382,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 762647,
+          "status": null
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 692610,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 494962,
+          "status": null
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 402103,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 382826,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 319862,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 2147564,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1354045,
+          "status": null
+        },
+        {
+          "country": "Denmark",
+          "code": "DK",
+          "value": 732014,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 596235,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 438282,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 393772,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 349556,
+          "status": null
+        }
+      ]
+    },
+    "CH": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "United States",
+        "France",
+        "United Kingdom",
+        "China"
+      ],
+      "outbound": [
+        "Italy",
+        "Germany",
+        "France",
+        "Spain",
+        "Austria"
+      ],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied. For Switzerland and Liechtenstein, the combined CH_LI residence group is excluded because it mixes domestic and foreign guests.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CH&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=CH&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=CH&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2307189,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1766467,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 1016108,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 830849,
+          "status": null
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 575798,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 524980,
+          "status": null
+        }
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 2576511,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 2534395,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 2060941,
+          "status": null
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 1274780,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 848532,
+          "status": null
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 666289,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 415371,
+          "status": null
+        }
+      ]
+    },
+    "LI": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "United States",
+        "Austria",
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "outbound": [],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied. For Switzerland and Liechtenstein, the combined CH_LI residence group is excluded because it mixes domestic and foreign guests.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LI&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=LI&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=LI&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 23820,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 5999,
+          "status": null
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 3872,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 3686,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 2929,
+          "status": null
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 2372,
+          "status": null
+        }
+      ],
+      "outboundMetrics": []
+    },
+    "TR": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Germany",
+        "Russia",
+        "United Kingdom",
+        "Poland",
+        "United States"
+      ],
+      "outbound": [],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=TR&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=TR&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=TR&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 8537079,
+          "status": null
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 6480977,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 4756830,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 2288082,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 1052373,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 1044274,
+          "status": null
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 1021305,
+          "status": null
+        }
+      ],
+      "outboundMetrics": []
+    },
+    "RS": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Türkiye",
+        "Russia",
+        "China",
+        "Bulgaria",
+        "Germany"
+      ],
+      "outbound": [],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=RS&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=RS&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=RS&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 232527,
+          "status": null
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 184609,
+          "status": null
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 156644,
+          "status": null
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 132054,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 130485,
+          "status": null
+        },
+        {
+          "country": "Croatia",
+          "code": "HR",
+          "value": 120637,
+          "status": null
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 111232,
+          "status": null
+        }
+      ],
+      "outboundMetrics": []
+    },
+    "ME": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Türkiye",
+        "Germany",
+        "United Kingdom",
+        "France",
+        "China"
+      ],
+      "outbound": [],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=ME&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=ME&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=ME&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 83329,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 83061,
+          "status": null
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 81778,
+          "status": null
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 73583,
+          "status": null
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 60680,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 43277,
+          "status": null
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 40147,
+          "status": null
+        }
+      ],
+      "outboundMetrics": []
+    },
+    "MK": {
+      "period": "2024 calendar year",
+      "label": "Historical annual leading separately reported accommodation and overnight-trip markets",
+      "inbound": [
+        "Türkiye",
+        "Greece",
+        "Germany",
+        "Bulgaria",
+        "Netherlands"
+      ],
+      "outbound": [],
+      "note": "Inbound measures arrivals at hotels, holiday/short-stay accommodation and camping establishments, not border arrivals or unique people. Outbound measures resident overnight trips (total personal and business purposes; residents aged 15 and over in Eurostat demand survey scope). Rankings use separately reported countries; Switzerland and Liechtenstein are combined where the inbound source combines them. World-region/other-country aggregates are excluded, so an unreported country may not be individually ranked. No November/December 2026 forecast is implied.",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=MK&unit=NR&nace_r2=I551-I553",
+      "sources": {
+        "inbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_occ_arnraw?lang=EN&time=2024&geo=MK&unit=NR&nace_r2=I551-I553",
+        "outbound": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tour_dem_ttw?lang=EN&time=2024&geo=MK&unit=NR&purpose=TOTAL&duration=N_GE1"
+      },
+      "inboundMetrics": [
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 284366,
+          "status": null
+        },
+        {
+          "country": "Greece",
+          "code": "GR",
+          "value": 39229,
+          "status": null
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 37848,
+          "status": null
+        },
+        {
+          "country": "Bulgaria",
+          "code": "BG",
+          "value": 32243,
+          "status": null
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 25011,
+          "status": null
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 24885,
+          "status": null
+        },
+        {
+          "country": "Romania",
+          "code": "RO",
+          "value": 22895,
+          "status": null
+        }
+      ],
+      "outboundMetrics": []
+    }
+  }
+}

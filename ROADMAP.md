@@ -18,3 +18,14 @@ Year: 2026, as requested in the current November 2026 planning context. This is 
 - [x] GitHub source committed, GitHub Pages enabled by the owner, and initial live page verified. Final research update follows the same publishing path.
 
 Validation: `npm run build` and `npm run verify`. Research retrieval is an index, not a manual verification of every source page. Distinct hosts can include subdomains; the wider corpus includes general travel background. Verified event dates and annual statistical claims remain separately identified.
+
+## Country-research and calendar revision
+
+- [x] Removed the pictured introductory hero and renamed the travel tabs to Inbound travel and Outbound travel.
+- [x] Expanded to 263 researched events across 152 countries/areas; combined event/holiday evidence covers 234 country/territory records. Unverified programmes remain labelled rather than invented.
+- [x] Added a month calendar with country, continent and worldwide scopes, event/holiday filters, daily agendas and separate undated watchlists. Selected-day programmes use their exact opening-day arrays.
+- [x] Expanded to 57 historical source-market profiles (56 inbound and 39 outbound). Direction-specific sources and periods are preserved. US and Mauritius have actual historical November/December observations.
+- [x] Added separate archived World Bank/UN Tourism annual totals for 205 country/area records; combined travel evidence covers 206. Archive age, units, pandemic context and missing directions remain explicit.
+- [x] Added country-by-country coverage data, primary-source research bundles and reproducible retrieval/merge scripts.
+
+Revision verification covers hero removal and tab labels; continuous and selected-day calendar dates; unknown-date exclusion; country/world scope; direction-specific statistical sources; source periods; archived numerical observations; desktop/mobile browser interaction; and production asset equality after publication.
