@@ -1,0 +1,66 @@
+{
+  "KR": {
+    "cities": [
+      {"name":"Seoul","description":"Explore royal palaces, the N Seoul Tower area and Hongdae's contemporary culture in South Korea's capital.","url":"https://english.visitkorea.or.kr/public/asis/contents/travel/must100_2023/23-24_100must-visit_guide-eng.pdf"},
+      {"name":"Busan","description":"A coastal city with Haeundae, Gwangalli and the colourful hillside streets of Gamcheon Culture Village.","url":"https://english.visitkorea.or.kr/public/asis/contents/travel/must100_2023/23-24_100must-visit_guide-eng.pdf"},
+      {"name":"Gyeongju","description":"Discover the former Silla capital through royal tombs, Bulguksa Temple and the city's historic landscape.","url":"https://www.gyeongju.go.kr/tour/index.do"}
+    ],
+    "note":"Editorial city examples from official tourism sources; these are not statistical rankings of cities visited."
+  },
+  "TW": {
+    "cities": [
+      {"name":"Taipei","description":"Taiwan's capital brings together museums, temples, neighbourhood food and the Taipei 101 skyline.","url":"https://eng.taiwan.net.tw/m1.aspx?sNo=0002090"},
+      {"name":"Tainan","description":"Visit Taiwan's former capital for Anping Old Fort, Confucius Temple and a distinctive local food tradition.","url":"https://eng.taiwan.net.tw/m1.aspx?sNo=0002119"},
+      {"name":"Kaohsiung","description":"A southern harbour city with waterfront attractions, cultural spaces and access to the area's coastal scenery.","url":"https://eng.taiwan.net.tw/m1.aspx?sNo=0002121"}
+    ],
+    "note":"Editorial city examples from Taiwan Tourism Administration; these are not statistical rankings of cities visited."
+  },
+  "MO": {
+    "cities": [
+      {"name":"Macao Peninsula","description":"Explore the historic centre around Senado Square and the Ruins of St Paul's, where Chinese and Portuguese heritage meet.","url":"https://content.macaotourism.gov.mo/uploads/mgto_brochures/5f5a5154b21e34dddedddaa5becedd9bb8120ee5.pdf"},
+      {"name":"Taipa Village","description":"Taipa's village streets and Taipa Houses combine local food, museums and Portuguese architectural influences.","url":"https://www.macaotourism.gov.mo/en/macao-full-of-fun/portuguese-ambiance-tour-at-taipa-island"},
+      {"name":"Coloane Village","description":"The old pier and village waterfront recall Coloane's fishing and ferry history and traditional dried-seafood trade.","url":"https://www.macaotourism.gov.mo/en/step-out-macao/coloane/coloane-pier"}
+    ],
+    "note":"Macao is one city-region. These are districts and villages within it, not separate cities or visitor-volume rankings. Sources: Macao Government Tourism Office."
+  },
+  "LA": {
+    "cities": [
+      {"name":"Vientiane","description":"The Lao capital offers That Luang, Wat Sisaket, Patuxay and a Mekong promenade with markets and local food.","url":"https://www.tourismlaos.org/central-provinces/vientiane-capital/"},
+      {"name":"Luang Prabang","description":"A heritage town where Buddhist temples and traditional architecture form the centre of a broader northern Laos visit.","url":"https://www.tourismlaos.org/northern-provinces/louangphabang-province/"},
+      {"name":"Pakse","description":"At the Mekong and Sedon confluence, Pakse is a gateway to Champasak, Vat Phou and the Bolaven Plateau.","url":"https://www.tourismlaos.org/southern-provinces/champasak-province/"}
+    ],
+    "note":"Editorial city examples from the official Tourism Laos portal; these are not statistical rankings of cities visited."
+  },
+  "BN": {
+    "cities": [
+      {"name":"Bandar Seri Begawan","description":"Brunei's capital combines landmark mosques, museums and Kampong Ayer's water-village heritage.","url":"https://www.bruneitourism.com/brunei-muara/"},
+      {"name":"Tutong","description":"Tutong town sits beside a river associated with mangroves, river cruises and traditional communities.","url":"https://www.bruneitourism.com/places/tutong-river/"},
+      {"name":"Kuala Belait","description":"The Belait District Museum introduces the district's history and cultural diversity from its home in Kuala Belait.","url":"https://www.bruneitourism.com/places/belait-district-museum/"}
+    ],
+    "note":"Editorial town and city examples from Brunei Tourism; these are not statistical rankings of cities visited."
+  },
+  "PH": {
+    "cities": [
+      {"name":"Manila","description":"Explore the historic Intramuros district, museums and contemporary arts alongside the capital's food and shopping.","url":"https://www.genevapm.dfa.gov.ph/resources/visit-the-philippines"},
+      {"name":"Cebu","description":"A major gateway combining urban heritage and local food with access to surrounding beaches and diving areas.","url":"https://www.genevapm.dfa.gov.ph/resources/visit-the-philippines"},
+      {"name":"Vigan","description":"Vigan's preserved historic streets and living traditions offer a distinctive heritage-city experience in northern Luzon.","url":"https://philippines.travel/destinations/vigan/index"}
+    ],
+    "note":"Editorial city examples from Philippine government tourism sources; these are not statistical rankings of cities visited."
+  },
+  "MM": {
+    "cities": [
+      {"name":"Yangon","description":"The former capital's tourism heritage includes Shwedagon Pagoda, the National Museum, Bogyoke Market and its historic centre.","url":"https://tourism.gov.mm/en/regions/yangon"},
+      {"name":"Mandalay","description":"Myanmar's last royal capital is associated with the palace, Shwenandaw Monastery and Kuthodaw Pagoda.","url":"https://tourism.gov.mm/en/regions/mandalay"},
+      {"name":"Nay Pyi Taw","description":"Myanmar's administrative capital includes Uppatasanti Pagoda, museums and landscaped public spaces.","url":"https://tourism.gov.mm/en/regions/naypyitaw"}
+    ],
+    "note":"Editorial place descriptions from Myanmar Ministry of Hotels and Tourism; these are not visitor rankings or claims about current opening or access."
+  },
+  "KH": {
+    "cities": [
+      {"name":"Phnom Penh","description":"Cambodia's capital is an international gateway and a centre of the country's political, cultural and urban life.","url":"https://akp.gov.kh/post/detail/378596"},
+      {"name":"Siem Reap","description":"The gateway to Angkor's Khmer archaeological landscape, including Angkor Wat and the Bayon temple at Angkor Thom.","url":"https://whc.unesco.org/en/list/668/"},
+      {"name":"Battambang","description":"A UNESCO Creative City of Gastronomy with rice-based culinary traditions, a riverside food street and local food initiatives.","url":"https://www.unesco.org/en/creative-cities/battambang"}
+    ],
+    "note":"Editorial city examples from Cambodian state news and UNESCO heritage sources; these are not statistical rankings of cities visited."
+  }
+}

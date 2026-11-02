@@ -1,0 +1,1483 @@
+{
+  "researchedAt": "2026-11-02",
+  "travel": {
+    "ZA": {
+      "priority": 110,
+      "inbound": [
+        "Zimbabwe",
+        "Mozambique",
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "United Kingdom",
+        "United States",
+        "Germany",
+        "Malawi",
+        "Namibia",
+        "Zambia",
+        "Netherlands",
+        "France",
+        "Australia",
+        "India",
+        "Canada",
+        "Brazil",
+        "Kenya",
+        "Italy",
+        "Belgium"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 2307196,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Mozambique",
+          "code": "MZ",
+          "value": 2078635,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Lesotho",
+          "code": "LS",
+          "value": 1395346,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Eswatini",
+          "code": "SZ",
+          "value": 958716,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Botswana",
+          "code": "BW",
+          "value": 418474,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 403714,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 391939,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 290795,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Malawi",
+          "code": "MW",
+          "value": 230640,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Namibia",
+          "code": "NA",
+          "value": 175588,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Zambia",
+          "code": "ZM",
+          "value": 175165,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 140338,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 135007,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 121361,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 69680,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 65744,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 63848,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 58376,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 55947,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 50134,
+          "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Top 20 inbound tourist source markets",
+      "inboundUrl": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "All purposes; overnight international tourists.",
+      "inboundNote": "Ranked from the report's regional country tables. Arrival counts originate from Statistics South Africa, distinct from expenditure survey estimates.",
+      "period": "2025",
+      "label": "Top 20 inbound tourist source markets",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://satourismonline.com/wp-content/uploads/2026/04/SAT-2025-Annual-International-Tourism-Performance-Report_compressed.pdf"
+    },
+    "KE": {
+      "priority": 110,
+      "inbound": [
+        "United States",
+        "Uganda",
+        "Tanzania",
+        "United Kingdom",
+        "India",
+        "Italy",
+        "China",
+        "Germany",
+        "Somalia",
+        "Rwanda",
+        "France",
+        "Burundi",
+        "Ethiopia",
+        "Canada",
+        "South Sudan",
+        "Democratic Republic of the Congo",
+        "South Africa",
+        "Netherlands",
+        "Nigeria",
+        "Poland",
+        "Spain",
+        "Australia",
+        "Sweden",
+        "Ghana",
+        "Zimbabwe",
+        "Belgium"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 306501,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Uganda",
+          "code": "UG",
+          "value": 225559,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Tanzania",
+          "code": "TZ",
+          "value": 203290,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 180639,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 131570,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 91842,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 90462,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 87556,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Somalia",
+          "code": "SO",
+          "value": 81555,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Rwanda",
+          "code": "RW",
+          "value": 65866,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 54839,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Burundi",
+          "code": "BI",
+          "value": 51865,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Ethiopia",
+          "code": "ET",
+          "value": 48291,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 47745,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "South Sudan",
+          "code": "SS",
+          "value": 45250,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Democratic Republic of the Congo",
+          "code": "CD",
+          "value": 38986,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 38247,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 37898,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Nigeria",
+          "code": "NG",
+          "value": 33804,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 32872,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 27744,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 27396,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Sweden",
+          "code": "SE",
+          "value": 22224,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Ghana",
+          "code": "GH",
+          "value": 16757,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Zimbabwe",
+          "code": "ZW",
+          "value": 15895,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 15518,
+          "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Reported inbound source markets — ranked by arrivals",
+      "inboundUrl": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf",
+      "inboundUnit": "international visitor arrivals",
+      "inboundScope": "26 country totals transcribed from the report's Top 30 table.",
+      "inboundNote": "Table 5 total column; sorted numerically because the printed sequence places Germany before China despite lower totals. Do not use inconsistent port subtotals to replace country totals.",
+      "period": "2024",
+      "label": "Reported inbound source markets — ranked by arrivals",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://tri.go.ke/wp-content/uploads/2025/02/TRI-Tourism-Sector-Performance-Report-2024.pdf"
+    },
+    "BR": {
+      "priority": 110,
+      "inbound": [
+        "Argentina",
+        "United States",
+        "Chile",
+        "Paraguay",
+        "Uruguay",
+        "France",
+        "Portugal",
+        "Germany",
+        "Italy",
+        "United Kingdom",
+        "Spain",
+        "Peru",
+        "Bolivia",
+        "Colombia",
+        "Mexico",
+        "Canada",
+        "China",
+        "Japan",
+        "Switzerland",
+        "Netherlands"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 1960182,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 728537,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 653895,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Paraguay",
+          "code": "PY",
+          "value": 465020,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 388464,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 235163,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 218354,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 182166,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 154495,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 153754,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 132484,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 131368,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 129992,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 129501,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 99137,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 96540,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 76524,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 61129,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 58092,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 54273,
+          "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Top 20 international tourist source countries",
+      "inboundUrl": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "All arrival modes; countries of permanent residence.",
+      "inboundNote": "Table 2.8, official yearbook 2025, base years 2023/2024. Revised annual counts; arrivals are not unique people.",
+      "period": "2024",
+      "label": "Top 20 international tourist source countries",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://www.gov.br/turismo/pt-br/anuario-estatistico-2025.pdf/@@display-file/file"
+    },
+    "MU": {
+      "priority": 110,
+      "inbound": [
+        "France",
+        "United Kingdom",
+        "Réunion",
+        "Germany",
+        "South Africa",
+        "India",
+        "Switzerland",
+        "Italy",
+        "Russia",
+        "Saudi Arabia",
+        "Australia",
+        "Madagascar",
+        "Belgium",
+        "Austria",
+        "Poland",
+        "United States",
+        "Czechia",
+        "Spain",
+        "China",
+        "United Arab Emirates"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 339421,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 158188,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Réunion",
+          "code": "RE",
+          "value": 140618,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 123825,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 106542,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 56788,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 35329,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 29489,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 28750,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 22171,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 21228,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Madagascar",
+          "code": "MG",
+          "value": 19152,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Belgium",
+          "code": "BE",
+          "value": 18775,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 18540,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 17560,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 15450,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 14929,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 13919,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 13095,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 12374,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Top 20 tourist residence markets",
+      "inboundUrl": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "Country or territory of residence; air and sea.",
+      "inboundNote": "Ranked from handbook tables 10 and 12, excluding grouped regional totals.",
+      "period": "2024",
+      "label": "Top 20 tourist residence markets",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf",
+      "outbound": [
+        "United Arab Emirates",
+        "Réunion",
+        "India",
+        "France",
+        "South Africa",
+        "United Kingdom",
+        "Saudi Arabia",
+        "Malaysia",
+        "Türkiye",
+        "Madagascar",
+        "Australia",
+        "Kenya",
+        "Germany",
+        "Seychelles",
+        "Switzerland",
+        "Austria",
+        "Italy"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 85131,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Réunion",
+          "code": "RE",
+          "value": 43625,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 39354,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 35884,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "South Africa",
+          "code": "ZA",
+          "value": 28854,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 25294,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 17617,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 17507,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 14119,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Madagascar",
+          "code": "MG",
+          "value": 10945,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 9214,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Kenya",
+          "code": "KE",
+          "value": 7157,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 6276,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Seychelles",
+          "code": "SC",
+          "value": 4825,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 2945,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 958,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 172,
+          "url": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf"
+        }
+      ],
+      "outboundPeriod": "2024",
+      "outboundMetricLabel": "All reported resident departure disembarkation countries",
+      "outboundUnit": "resident departures",
+      "outboundUrl": "https://tourism.govmu.org/Documents/Statistics/Handbook%20of%20Statistical%20Data%20on%20Tourism%2C%20Year%202024.pdf",
+      "outboundScope": "17 named countries or territories with applicable counts; others/not stated 283.",
+      "outboundNote": "Country of disembarkation can be final destination or a transit country. Not unique travellers or tourism-only departures. Table 5."
+    },
+    "MX": {
+      "priority": 110,
+      "inbound": [
+        "United States",
+        "Canada",
+        "Colombia",
+        "United Kingdom",
+        "Argentina",
+        "Spain",
+        "France",
+        "Germany",
+        "Chile",
+        "Brazil",
+        "Costa Rica",
+        "Peru",
+        "Guatemala",
+        "Italy",
+        "China",
+        "Netherlands",
+        "Panama",
+        "South Korea",
+        "Japan",
+        "Portugal",
+        "Poland",
+        "Uruguay",
+        "Cuba",
+        "Australia",
+        "Ecuador"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 13709389,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 2522479,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 515361,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 426856,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 313795,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 258813,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 235881,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 231311,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 192113,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 177862,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Costa Rica",
+          "code": "CR",
+          "value": 172067,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Peru",
+          "code": "PE",
+          "value": 128727,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Guatemala",
+          "code": "GT",
+          "value": 117485,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 104005,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 99026,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 69973,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 64553,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 61856,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 57476,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Portugal",
+          "code": "PT",
+          "value": 57326,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 51398,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Uruguay",
+          "code": "UY",
+          "value": 50860,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Cuba",
+          "code": "CU",
+          "value": 46203,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 45521,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 42455,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Top 25 foreign air-tourist residence markets",
+      "inboundUrl": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+      "inboundUnit": "air entry events",
+      "inboundScope": "Foreign tourists arriving by air; excludes Mexican nationals and foreign residents of Mexico.",
+      "inboundNote": "Residence-based UPMRIP/SEGOB series, not all international tourists. Automated immigration data combine advance passenger information with residence records.",
+      "period": "2024",
+      "label": "Top 25 foreign air-tourist residence markets",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+      "inboundCityMetrics": [
+        {
+          "name": "Cancún",
+          "value": 8989510,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Mexico City — AICM",
+          "value": 3498261,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Los Cabos",
+          "value": 2214958,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Puerto Vallarta",
+          "value": 1799869,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Guadalajara",
+          "value": 1406227,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Monterrey",
+          "value": 372985,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Tulum airport",
+          "value": 312282,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Silao",
+          "value": 255057,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Cozumel",
+          "value": 226381,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        },
+        {
+          "name": "Querétaro",
+          "value": 186552,
+          "url": "https://datatur.sectur.gob.mx/Documentoscompartidos/upm/RES_2024_12.pdf",
+          "period": "2024",
+          "unit": "foreign tourist air entry events"
+        }
+      ],
+      "inboundCityMetricLabel": "Top 10 arrival airports, not cities ultimately visited",
+      "inboundCityNote": "Airport entry location is a gateway measure and does not identify the traveller's final city or a bilateral city preference."
+    },
+    "FJ": {
+      "priority": 110,
+      "inbound": [
+        "Australia",
+        "New Zealand",
+        "United States",
+        "China",
+        "Canada",
+        "United Kingdom",
+        "Japan",
+        "India",
+        "South Korea",
+        "Hong Kong"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 452422,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "New Zealand",
+          "code": "NZ",
+          "value": 219301,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 118148,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 28602,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 20466,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 13607,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 8630,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 5314,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 1700,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "value": 896,
+          "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+        }
+      ],
+      "inboundPeriod": "2025 (provisional)",
+      "inboundMetricLabel": "All individually named visitor residence markets",
+      "inboundUrl": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf",
+      "inboundUnit": "visitor arrivals",
+      "inboundScope": "Ten named countries or territories in table 2.",
+      "inboundNote": "Continental Europe, rest of Asia, Pacific Islands and Others are grouped categories and omitted. Hong Kong is reported separately. This is not a Top 20.",
+      "period": "2025 (provisional)",
+      "label": "All individually named visitor residence markets",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://www.statsfiji.gov.fj/download/403/2025/5893/va_dec_2025.pdf"
+    },
+    "PE": {
+      "priority": 110,
+      "inbound": [
+        "Chile",
+        "United States",
+        "Ecuador",
+        "Bolivia",
+        "Brazil",
+        "Colombia",
+        "Spain",
+        "Argentina",
+        "Mexico",
+        "France",
+        "Canada",
+        "Germany",
+        "United Kingdom",
+        "Italy"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 700029,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 604251,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 291472,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 188791,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 184725,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 170347,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 138360,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 120287,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Mexico",
+          "code": "MX",
+          "value": 103434,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 76705,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 74994,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 61080,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 57580,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 55380,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Extracted international tourist residence markets",
+      "inboundUrl": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602",
+      "inboundUnit": "tourist arrivals",
+      "inboundScope": "14 named markets extracted from official table 5; not a complete Top 20.",
+      "inboundNote": "Includes foreign tourists and Peruvians resident abroad. Country of residence, not nationality.",
+      "period": "2024",
+      "label": "Extracted international tourist residence markets",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7855006/6529654-compendio-cifras-de-turismo-febrero-2025.pdf?v=1743460602",
+      "outbound": [
+        "Chile",
+        "United States",
+        "Bolivia",
+        "Spain",
+        "Colombia",
+        "Panama",
+        "Brazil",
+        "Argentina",
+        "Dominican Republic",
+        "Ecuador"
+      ],
+      "outboundMetrics": [
+        {
+          "country": "Chile",
+          "code": "CL",
+          "value": 347229,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 136935,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Bolivia",
+          "code": "BO",
+          "value": 132124,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 108301,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Colombia",
+          "code": "CO",
+          "value": 105320,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Panama",
+          "code": "PA",
+          "value": 73223,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "value": 72334,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Argentina",
+          "code": "AR",
+          "value": 69599,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Dominican Republic",
+          "code": "DO",
+          "value": 36989,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        },
+        {
+          "country": "Ecuador",
+          "code": "EC",
+          "value": 35218,
+          "url": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf"
+        }
+      ],
+      "outboundPeriod": "January–April 2026 (provisional)",
+      "outboundMetricLabel": "Top 10 destinations for resident tourist departures",
+      "outboundUnit": "tourist departures",
+      "outboundUrl": "https://cdn.www.gob.pe/uploads/document/file/9986366/8143307-reporte-mensual-de-turismo-abril-2026.pdf",
+      "outboundScope": "Peruvian residents departing for tourism; ten named destinations.",
+      "outboundNote": "Observed January–April 2026, not November–December. Different period from the 2024 inbound table."
+    },
+    "SA": {
+      "priority": 110,
+      "inbound": [
+        "Egypt",
+        "Pakistan",
+        "Bahrain",
+        "Kuwait",
+        "India",
+        "Indonesia",
+        "United Arab Emirates",
+        "Jordan",
+        "Iraq",
+        "Yemen",
+        "Türkiye",
+        "United Kingdom",
+        "France"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "value": 3200000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 2800000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Bahrain",
+          "code": "BH",
+          "value": 2600000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Kuwait",
+          "code": "KW",
+          "value": 2100000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 1900000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "value": 1900000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "United Arab Emirates",
+          "code": "AE",
+          "value": 1500000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Jordan",
+          "code": "JO",
+          "value": 1200000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Iraq",
+          "code": "IQ",
+          "value": 1000000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Yemen",
+          "code": "YE",
+          "value": 1000000,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "value": 867700,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 536090,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 233300,
+          "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Named inbound source markets — rounded published volumes",
+      "inboundUrl": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf",
+      "inboundUnit": "tourist arrivals (published rounding)",
+      "inboundScope": "13 named source markets in UN Tourism's investment report; religious and other travel included.",
+      "inboundNote": "Approximately: published volumes have different rounding precision; equal values do not establish exact rank. This is not a complete Top 20.",
+      "period": "2024",
+      "label": "Named inbound source markets — rounded published volumes",
+      "note": "Historical observed data; not a forecast for November–December 2026.",
+      "url": "https://pre-webunwto.s3.amazonaws.com/s3fs-public/2025-10/tourism-doing-bisiness-investing-in-saudi-arabia.pdf"
+    }
+  },
+  "researchNotes": [
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "note": "Reviewed Dubai DET 2024 report provides regional source shares. Dubai is one emirate; do not label its visitor markets as UAE-wide. No replacement national country-count table verified.",
+      "url": "https://www.dubaidet.gov.ae/en/research-and-insights/tourism-performance-report-december-2024"
+    },
+    {
+      "country": "Egypt",
+      "code": "EG",
+      "note": "Primary 2024 sources identify Germany, Russia and Saudi Arabia as leaders, but a full numerical country table was not established. Conflicting aggregate totals in official news releases were not combined.",
+      "url": "https://www.nbe.com.eg/AssetsManager/ccd7024c-87a6-4e0f-b038-cb1a5b27610c.pdf"
+    },
+    {
+      "country": "Morocco",
+      "code": "MA",
+      "note": "Official 2024 detailed country-market publication is behind a free-login download. No country counts fabricated from headline growth or aggregate arrivals.",
+      "url": "https://observatoiredutourisme.ma/publication/tourisme-au-maroc-en-2024/"
+    },
+    {
+      "note": "An absent outbound replacement means no stronger numerical official destination table was verified; preserve earlier qualified evidence rather than inferring destinations from source-country arrivals."
+    }
+  ]
+}

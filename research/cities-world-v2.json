@@ -1,0 +1,597 @@
+{
+  "KE": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://tic.magicalkenya.com/circuit/nairobi/",
+    "cities": [
+      {
+        "name": "Nairobi",
+        "description": "National park access, museums and a large urban culture and dining scene.",
+        "url": "https://tic.magicalkenya.com/circuit/nairobi/"
+      },
+      {
+        "name": "Mombasa",
+        "description": "Old Town, Fort Jesus and a base for coastal experiences.",
+        "url": "https://tic.magicalkenya.com/listing/mombasa-marine-national-park-reserve/"
+      },
+      {
+        "name": "Lamu",
+        "description": "Swahili heritage, waterfront streets and dhow excursions.",
+        "url": "https://magicalkenya.com/wp-content/uploads/2024/10/48-hours-in-Mombasa-brochure.pdf"
+      },
+      {
+        "name": "Kisumu",
+        "description": "Lake Victoria city with lakeside culture and regional transport connections.",
+        "url": "https://magicalkenya.com/wp-content/uploads/2024/10/Destination_KISUMU.pdf"
+      },
+      {
+        "name": "Nakuru",
+        "description": "A Rift Valley town base for nearby landscapes and wildlife.",
+        "url": "https://tic.magicalkenya.com/circuit/nairobi/"
+      }
+    ]
+  },
+  "MA": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales",
+    "cities": [
+      {
+        "name": "Marrakech",
+        "description": "Medina craftsmanship, gardens and architectural heritage.",
+        "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales"
+      },
+      {
+        "name": "Fes",
+        "description": "Historic medina, artisan workshops and cultural visits.",
+        "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales"
+      },
+      {
+        "name": "Rabat",
+        "description": "Atlantic capital with the Hassan Tower and the Oudayas district.",
+        "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales"
+      },
+      {
+        "name": "Meknes",
+        "description": "Imperial heritage and a base for nearby Volubilis.",
+        "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales"
+      },
+      {
+        "name": "Casablanca",
+        "description": "Atlantic city stop connecting a wider Moroccan itinerary.",
+        "url": "https://www.visitmorocco.com/fr/idees-de-voyage/les-villes-imperiales"
+      }
+    ]
+  },
+  "EG": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf",
+    "cities": [
+      {
+        "name": "Cairo",
+        "description": "Museums, historic neighbourhoods and access to wider Greater Cairo heritage.",
+        "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf"
+      },
+      {
+        "name": "Luxor",
+        "description": "Ancient Thebes, temples and the west-bank necropolis.",
+        "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf"
+      },
+      {
+        "name": "Aswan",
+        "description": "Nubian heritage and a southern Nile base.",
+        "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf"
+      },
+      {
+        "name": "Alexandria",
+        "description": "Mediterranean city base for culture and coastal stays.",
+        "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf"
+      },
+      {
+        "name": "Sharm el-Sheikh",
+        "description": "A Red Sea resort city with marine and coastal excursions.",
+        "url": "https://www.experienceegypt.eg/files/Egypt%20Map-Eng.pdf"
+      }
+    ]
+  },
+  "PE": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.peru.travel/es",
+    "cities": [
+      {
+        "name": "Lima",
+        "description": "Capital dining, museums and urban heritage.",
+        "url": "https://www.peru.travel/es"
+      },
+      {
+        "name": "Cusco",
+        "description": "Inka and colonial heritage, San Blas workshops and Sacred Valley access.",
+        "url": "https://www.peru.travel/destinations/cusco"
+      },
+      {
+        "name": "Arequipa",
+        "description": "White-stone architecture, Santa Catalina and access to Colca Canyon.",
+        "url": "https://www.peru.travel/destinations/arequipa"
+      },
+      {
+        "name": "Puno",
+        "description": "A city base for Lake Titicaca and the surrounding Andean region.",
+        "url": "https://www.peru.travel/es"
+      }
+    ]
+  },
+  "FJ": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.fiji.travel/things-to-know/destination-guide/discover-fiji",
+    "cities": [
+      {
+        "name": "Nadi",
+        "description": "Main international gateway and western Viti Levu tourism hub.",
+        "url": "https://www.fiji.travel/things-to-know/destination-guide/discover-fiji"
+      },
+      {
+        "name": "Suva",
+        "description": "Fiji's capital on Viti Levu's southeast coast.",
+        "url": "https://www.fiji.travel/things-to-know/destination-guide/discover-fiji"
+      },
+      {
+        "name": "Savusavu",
+        "description": "Small-town Vanua Levu base for diving, marinas and nearby hot springs.",
+        "url": "https://www.fiji.travel/things-to-know/destination-guide/discover-fiji"
+      },
+      {
+        "name": "Labasa",
+        "description": "Northern Vanua Levu town with regional transport and Great Sea Reef access.",
+        "url": "https://www.fiji.travel/things-to-know/destination-guide/discover-fiji"
+      },
+      {
+        "name": "Lautoka",
+        "description": "A western Viti Levu city close to Nadi.",
+        "url": "https://www.fiji.travel/things-to-know/destination-guide/geography"
+      }
+    ]
+  },
+  "CO": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://colombia.travel/en/where-to-go",
+    "cities": [
+      {
+        "name": "Bogotá",
+        "description": "Capital museums, food and historic urban districts.",
+        "url": "https://colombia.travel/en"
+      },
+      {
+        "name": "Medellín",
+        "description": "Arts, food and a base for the western Colombian Andes.",
+        "url": "https://colombia.travel/en/where-to-go"
+      },
+      {
+        "name": "Cartagena de Indias",
+        "description": "Caribbean heritage streets and coastal stays.",
+        "url": "https://colombia.travel/en/where-to-go"
+      },
+      {
+        "name": "Cali",
+        "description": "Salsa culture, food and a gateway to the Colombian Pacific.",
+        "url": "https://colombia.travel/en/where-to-go"
+      },
+      {
+        "name": "Santa Marta",
+        "description": "Caribbean coastal city and a base for nearby natural landscapes.",
+        "url": "https://colombia.travel/en/where-to-go"
+      }
+    ]
+  },
+  "AR": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations",
+    "cities": [
+      {
+        "name": "Buenos Aires",
+        "description": "Capital neighbourhoods, architecture and cultural life.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      },
+      {
+        "name": "Mendoza",
+        "description": "City base for nearby wineries and Andean landscapes.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      },
+      {
+        "name": "Salta",
+        "description": "Northern heritage and a gateway to colourful northwest landscapes.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      },
+      {
+        "name": "San Carlos de Bariloche",
+        "description": "A lake district city surrounded by mountain scenery.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      },
+      {
+        "name": "Ushuaia",
+        "description": "Southern city base for Tierra del Fuego adventures.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      },
+      {
+        "name": "El Calafate",
+        "description": "A town base for the Patagonian glacier region.",
+        "url": "https://www.argentina.travel/en/news/what-to-do-in-argentinas-most-sought-after-tourist-destinations"
+      }
+    ]
+  },
+  "CL": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities",
+    "cities": [
+      {
+        "name": "Santiago",
+        "description": "Capital culture, dining and the main urban arrival gateway.",
+        "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities"
+      },
+      {
+        "name": "Valparaíso",
+        "description": "Port-city heritage and bohemian neighbourhoods.",
+        "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities"
+      },
+      {
+        "name": "Puerto Varas",
+        "description": "A lake district town for nearby forest and volcano landscapes.",
+        "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities"
+      },
+      {
+        "name": "Valdivia",
+        "description": "A southern city within Chile's lakes and forest region.",
+        "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities"
+      },
+      {
+        "name": "Punta Arenas",
+        "description": "A city base for the Strait of Magellan and Patagonia.",
+        "url": "https://chile.travel/en/landscapes/cities/?landscapes=cities"
+      }
+    ]
+  },
+  "UY": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://uruguaynatural.com/en/destinos-regiones/",
+    "cities": [
+      {
+        "name": "Montevideo",
+        "description": "Capital museums, theatres, food and waterfront neighbourhoods.",
+        "url": "https://uruguaynatural.com/en/destinos-regiones/"
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "description": "Historic streets and a UNESCO-listed urban quarter.",
+        "url": "https://uruguaynatural.com/es/uruguay-mas-de-lo-que-imaginas/"
+      },
+      {
+        "name": "Punta del Este",
+        "description": "Coastal resort city combining beaches and art.",
+        "url": "https://uruguaynatural.com/es/uruguay-mas-de-lo-que-imaginas/"
+      }
+    ]
+  },
+  "TZ": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.tanzaniatourism.com/destinations/towns-and-cities",
+    "cities": [
+      {
+        "name": "Dar es Salaam",
+        "description": "Coastal gateway with access to nearby marine reserves.",
+        "url": "https://www.tanzaniatourism.com/destinations/dar-es-salaam"
+      },
+      {
+        "name": "Arusha",
+        "description": "A northern safari gateway close to Mount Meru.",
+        "url": "https://www.tanzaniatourism.com/destinations/region/arusha"
+      },
+      {
+        "name": "Bagamoyo",
+        "description": "Historic coastal town within the eastern tourism circuit.",
+        "url": "https://www.tanzaniatourism.com/destinations/towns-and-cities"
+      },
+      {
+        "name": "Pangani",
+        "description": "Coastal town for heritage and beach stays.",
+        "url": "https://www.tanzaniatourism.com/destinations/towns-and-cities"
+      },
+      {
+        "name": "Kilwa Kivinje",
+        "description": "A smaller coastal heritage town.",
+        "url": "https://www.tanzaniatourism.com/destinations/towns-and-cities"
+      }
+    ]
+  },
+  "TN": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://brochures.discovertunisia.com/Catalogue_ontt_Seniors/img/catalogue-Seniors.pdf",
+    "cities": [
+      {
+        "name": "Tunis",
+        "description": "Capital city base with the Bardo museum's mosaic collections.",
+        "url": "https://brochures.discovertunisia.com/Catalogue_ontt_Seniors/img/catalogue-Seniors.pdf"
+      },
+      {
+        "name": "Sousse",
+        "description": "Coastal city with museum and mosaic heritage.",
+        "url": "https://brochures.discovertunisia.com/Catalogue_ontt_Seniors/img/catalogue-Seniors.pdf"
+      },
+      {
+        "name": "Kairouan",
+        "description": "Historic inland city associated with Islamic art and heritage.",
+        "url": "https://brochures.discovertunisia.com/Catalogue_ontt_Seniors/img/catalogue-Seniors.pdf"
+      }
+    ]
+  },
+  "GH": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf",
+    "cities": [
+      {
+        "name": "Accra",
+        "description": "Capital city base for a wider Ghana itinerary.",
+        "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf"
+      },
+      {
+        "name": "Kumasi",
+        "description": "Inland city stop highlighted in national tourism planning.",
+        "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf"
+      },
+      {
+        "name": "Cape Coast",
+        "description": "Coastal heritage city in the country's visitor circuit.",
+        "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf"
+      },
+      {
+        "name": "Elmina",
+        "description": "A neighbouring coastal heritage town.",
+        "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf"
+      },
+      {
+        "name": "Tamale",
+        "description": "A northern city base for regional travel.",
+        "url": "https://visitghana.com/wp-content/uploads/2021/10/NATIONAL-TOURISM-DEVELOPMENT-PLAN-2013-%E2%80%93-2027.pdf"
+      }
+    ]
+  },
+  "BW": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.botswanatourism.co.bw/explore",
+    "cities": [
+      {
+        "name": "Gaborone",
+        "description": "Capital city with urban services and local craft shopping.",
+        "url": "https://www.botswanatourism.co.bw/explore"
+      },
+      {
+        "name": "Maun",
+        "description": "Tourism centre and gateway to the Okavango region.",
+        "url": "https://www.botswanatourism.co.bw/sites/default/files/2023-05/clean_ATI%20Exhibtors%20Manual%20BTO.pdf"
+      },
+      {
+        "name": "Kasane",
+        "description": "Tourism centre used to access Chobe.",
+        "url": "https://www.botswanatourism.co.bw/sites/default/files/2023-05/clean_ATI%20Exhibtors%20Manual%20BTO.pdf"
+      },
+      {
+        "name": "Francistown",
+        "description": "An established urban centre and regional stopping point.",
+        "url": "https://www.botswanatourism.co.bw/glance"
+      }
+    ]
+  },
+  "RW": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://visitrwanda.com/tourism/destinations/",
+    "cities": [
+      {
+        "name": "Kigali",
+        "description": "Capital city and a starting base for a Rwanda itinerary.",
+        "url": "https://visitrwanda.com/tourism/destinations/"
+      },
+      {
+        "name": "Musanze",
+        "description": "Northern town used as a base for the Volcanoes region.",
+        "url": "https://visitrwanda.com/wp-content/uploads/2024/07/Kigali-and-countrywide-packages.pdf"
+      },
+      {
+        "name": "Rubavu",
+        "description": "Lake Kivu area town featured in countrywide itineraries.",
+        "url": "https://visitrwanda.com/wp-content/uploads/2024/07/Kigali-and-countrywide-packages.pdf"
+      },
+      {
+        "name": "Huye",
+        "description": "A southern destination listed by Rwanda's tourism board.",
+        "url": "https://visitrwanda.com/tourism/destinations/"
+      },
+      {
+        "name": "Nyanza",
+        "description": "A cultural destination listed by Rwanda's tourism board.",
+        "url": "https://visitrwanda.com/tourism/destinations/"
+      }
+    ]
+  },
+  "NA": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://visitnamibia.com.na/transportation/",
+    "cities": [
+      {
+        "name": "Windhoek",
+        "description": "A central city base for onward travel within Namibia.",
+        "url": "https://visitnamibia.com.na/transportation/"
+      },
+      {
+        "name": "Swakopmund",
+        "description": "Coastal city connected with inland Namibia itineraries.",
+        "url": "https://visitnamibia.com.na/transportation/"
+      },
+      {
+        "name": "Walvis Bay",
+        "description": "Coastal gateway served by an international airport.",
+        "url": "https://visitnamibia.com.na/transportation/"
+      }
+    ]
+  },
+  "ZM": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.zambiatourism.com/towns/towns-cities/",
+    "cities": [
+      {
+        "name": "Lusaka",
+        "description": "Capital markets, museums and a main travel hub.",
+        "url": "https://www.zambiatourism.com/towns/lusaka/"
+      },
+      {
+        "name": "Livingstone",
+        "description": "A town base for Victoria Falls and the Zambezi.",
+        "url": "https://www.zambiatourism.com/towns/livingstone/"
+      },
+      {
+        "name": "Ndola",
+        "description": "A Copperbelt city included in the national towns guide.",
+        "url": "https://www.zambiatourism.com/towns/towns-cities/"
+      },
+      {
+        "name": "Kitwe",
+        "description": "An urban Copperbelt stop included in the national towns guide.",
+        "url": "https://www.zambiatourism.com/towns/towns-cities/"
+      },
+      {
+        "name": "Chipata",
+        "description": "An eastern city included in the national towns guide.",
+        "url": "https://www.zambiatourism.com/towns/towns-cities/"
+      }
+    ]
+  },
+  "PG": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://papuanewguinea.travel/port-moresby-ncd/",
+    "cities": [
+      {
+        "name": "Port Moresby",
+        "description": "Capital city and the main international arrival gateway.",
+        "url": "https://papuanewguinea.travel/port-moresby-ncd/"
+      },
+      {
+        "name": "Madang",
+        "description": "Coastal town linked by domestic flights from Port Moresby.",
+        "url": "https://papuanewguinea.travel/port-moresby-ncd/"
+      },
+      {
+        "name": "Lae",
+        "description": "An urban destination connected with Port Moresby by domestic air.",
+        "url": "https://papuanewguinea.travel/port-moresby-ncd/"
+      },
+      {
+        "name": "Rabaul",
+        "description": "An East New Britain town connected to the wider domestic travel network.",
+        "url": "https://papuanewguinea.travel/port-moresby-ncd/"
+      }
+    ]
+  },
+  "SB": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.visitsolomons.com.sb/plan-your-adventure/how-to-get-around/",
+    "cities": [
+      {
+        "name": "Honiara",
+        "description": "The main urban base for exploring Guadalcanal and onward islands.",
+        "url": "https://www.visitsolomons.com.sb/plan-your-adventure/how-to-get-around/"
+      },
+      {
+        "name": "Gizo",
+        "description": "A Western Province town reached within the inter-island transport network.",
+        "url": "https://www.visitsolomons.com.sb/plan-your-adventure/how-to-get-around/"
+      },
+      {
+        "name": "Auki",
+        "description": "A Malaita town connected with Honiara by passenger boats.",
+        "url": "https://www.visitsolomons.com.sb/plan-your-adventure/how-to-get-around/"
+      },
+      {
+        "name": "Tulagi",
+        "description": "A Central Province town connected with Honiara by sea.",
+        "url": "https://www.visitsolomons.com.sb/plan-your-adventure/how-to-get-around/"
+      }
+    ]
+  },
+  "VU": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.vanuatu.travel/en/things-to-know/how-to-contact-us",
+    "cities": [
+      {
+        "name": "Port Vila",
+        "description": "Efate's main city base, with markets and visitor information.",
+        "url": "https://www.vanuatu.travel/en/plan/planning-tools/guides/how-to-shop-at-the-markets-in-vanuatu"
+      },
+      {
+        "name": "Luganville",
+        "description": "Espiritu Santo town with local markets and regional visitor services.",
+        "url": "https://www.vanuatu.travel/en/plan/planning-tools/guides/how-to-shop-at-the-markets-in-vanuatu"
+      },
+      {
+        "name": "Lenakel",
+        "description": "Tanna town with a produce market and island visitor information.",
+        "url": "https://www.vanuatu.travel/en/plan/planning-tools/guides/how-to-shop-at-the-markets-in-vanuatu"
+      },
+      {
+        "name": "Lakatoro",
+        "description": "Malekula town with a travel information centre for Malampa.",
+        "url": "https://www.vanuatu.travel/en/things-to-know/how-to-contact-us"
+      }
+    ]
+  },
+  "WS": {
+    "label": "Cities & towns to explore",
+    "rankingStatus": "Official destination guidance; no statistical city ranking",
+    "note": "Selected cities and towns from official visitor information. This is an editorial destination guide, not a measured ranking of cities visited by travellers from a particular origin country.",
+    "url": "https://www.samoa.travel/experience/foodies/markets-to-visit/",
+    "cities": [
+      {
+        "name": "Apia",
+        "description": "Capital markets, local food and cultural village activities.",
+        "url": "https://www.samoa.travel/experience/foodies/markets-to-visit/"
+      },
+      {
+        "name": "Salelologa",
+        "description": "Savai'i ferry town with a local produce and craft market.",
+        "url": "https://www.samoa.travel/experience/foodies/markets-to-visit/"
+      }
+    ]
+  }
+}

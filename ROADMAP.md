@@ -39,3 +39,12 @@ Revision verification covers hero removal and tab labels; continuous and selecte
 - [x] Added official city/town guidance for53 destinations, including every destination in India’s top20. City guidance is not misrepresented as an origin-specific measured city ranking.
 
 Validation asserts India’s exact key ranks/counts and total, HongKong search beyond20, top20 city-guide coverage, Greenland rank20tie, hotel/cruise unit separation, complete19port totals, and continued calendar/data integrity.
+
+## Global country detail expansion — 2November2026
+
+- [x] Upgrade69 inbound profiles to numeric observations and38 outbound profiles to numeric observations;40 outbound market lists remain available overall.
+- [x] Retain full reported tables, including65 inbound and20 outbound sources with20+ markets. Separate percentages, arrivals, trips, residence/nationality and measurement periods.
+- [x] Provide94 destination guides with399 cities/towns and source-linked planning examples.
+- [x] Add per-country coverage cards and a continent/detail directory; make map arcs follow the visible country list.
+- [x] Verify representative inbound/outbound paths across all populated continents and mobile layouts.
+- [ ] Remaining country directions without verified bilateral tables are explicitly gaps; no fabricated rows.

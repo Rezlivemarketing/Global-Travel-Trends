@@ -1,0 +1,63 @@
+{
+  "researchedAt": "2026-11-02",
+  "travel": {
+    "AE": {
+      "priority": 110,
+      "inbound": [
+        "India",
+        "United Kingdom",
+        "Russia",
+        "China",
+        "Saudi Arabia"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 14,
+          "valueType": "percentage",
+          "precision": 0,
+          "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 8,
+          "valueType": "percentage",
+          "precision": 0,
+          "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 8,
+          "valueType": "percentage",
+          "precision": 0,
+          "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 5,
+          "valueType": "percentage",
+          "precision": 0,
+          "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/"
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 5,
+          "valueType": "percentage",
+          "precision": 0,
+          "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/"
+        }
+      ],
+      "inboundPeriod": "2024",
+      "inboundMetricLabel": "Named international visitor source-market shares",
+      "inboundUnit": "share of international visitors (%)",
+      "inboundUrl": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-uae-among-top-7-global-destinations-for-international-tourist-spending/",
+      "inboundScope": "UAE-wide visitor-market shares in the government summary of WTTC2024 research.",
+      "inboundNote": "The government summary publishes five individually named markets only. Rest of world is60%, which cannot be assigned to individual countries or used to build a top20. Values are rounded percentages, not visitor headcounts; equal rounded values indicate no strict order. This is historical annual context, not November–December2026 demand."
+    }
+  }
+}

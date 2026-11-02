@@ -1,0 +1,390 @@
+{
+  "researchedAt": "2026-11-02",
+  "destinations": {
+    "BG": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Sofia",
+          "description": "A capital-city base for the wider Bulgarian cultural itinerary.",
+          "url": "https://bulgariatravel.org/wp-content/uploads/2021/03/Slow-tourism-eng-MT-2-3.pdf"
+        },
+        {
+          "name": "Plovdiv",
+          "description": "A city stop on inland cultural routes.",
+          "url": "https://bulgariatravel.org/wp-content/uploads/2021/03/Slow-tourism-eng-MT-2-3.pdf"
+        },
+        {
+          "name": "Varna",
+          "description": "A Black Sea city base for the surrounding coast.",
+          "url": "https://bulgariatravel.org/wp-content/uploads/2021/03/Slow-tourism-eng-MT-2-3.pdf"
+        },
+        {
+          "name": "Burgas",
+          "description": "A coastal gateway for the southern Black Sea region.",
+          "url": "https://bulgariatravel.org/wp-content/uploads/2021/03/Slow-tourism-eng-MT-2-3.pdf"
+        },
+        {
+          "name": "Veliko Tarnovo",
+          "description": "A town stop on heritage routes through central Bulgaria.",
+          "url": "https://bulgariatravel.org/wp-content/uploads/2021/03/Slow-tourism-eng-MT-2-3.pdf"
+        }
+      ]
+    },
+    "EE": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Tallinn",
+          "description": "Capital-city streets and urban cultural sightseeing.",
+          "url": "https://visitestonia.com/en/where-to-go"
+        },
+        {
+          "name": "Tartu",
+          "description": "A southern city base for culture and regional exploration.",
+          "url": "https://visitestonia.com/en/where-to-go"
+        },
+        {
+          "name": "Pärnu",
+          "description": "A coastal resort city; beach activity is seasonal.",
+          "url": "https://visitestonia.com/en/where-to-go"
+        },
+        {
+          "name": "Narva",
+          "description": "An eastern city destination in Ida-Viru County.",
+          "url": "https://visitestonia.com/en/where-to-go"
+        },
+        {
+          "name": "Haapsalu",
+          "description": "A seaside town for a slower coastal visit.",
+          "url": "https://visitestonia.com/en/where-to-go"
+        }
+      ]
+    },
+    "CY": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Lefkosia (Nicosia)",
+          "description": "The capital combines a walled historic centre with modern city life.",
+          "url": "https://www.visitcyprus.com/regions-cities/"
+        },
+        {
+          "name": "Lemesos (Limassol)",
+          "description": "An urban base for the surrounding coastal and wine regions.",
+          "url": "https://www.visitcyprus.com/regions-cities/"
+        },
+        {
+          "name": "Larnaka",
+          "description": "A city destination with longstanding island heritage.",
+          "url": "https://www.visitcyprus.com/regions-cities/"
+        },
+        {
+          "name": "Pafos (Paphos)",
+          "description": "Archaeological sights, mosaics and a coastal town setting.",
+          "url": "https://www.visitcyprus.com/regions-cities/"
+        }
+      ]
+    },
+    "LV": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Riga",
+          "description": "Capital-city heritage and a base for a wider Latvian itinerary.",
+          "url": "https://www.latvia.travel/en/cities-latvia"
+        },
+        {
+          "name": "Liepāja",
+          "description": "A western coastal city to combine with regional exploration.",
+          "url": "https://www.latvia.travel/en/cities-latvia"
+        },
+        {
+          "name": "Jūrmala",
+          "description": "A seaside resort city near Riga; beach activities are seasonal.",
+          "url": "https://www.latvia.travel/en/cities-latvia"
+        },
+        {
+          "name": "Daugavpils",
+          "description": "An eastern city stop for a regional itinerary.",
+          "url": "https://www.latvia.travel/en/cities-latvia"
+        },
+        {
+          "name": "Ventspils",
+          "description": "A coastal city stop with family-oriented urban activities.",
+          "url": "https://www.latvia.travel/en/cities-latvia"
+        }
+      ]
+    },
+    "LT": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Vilnius",
+          "description": "A capital-city base for historic streets and cultural visits.",
+          "url": "https://lithuania.travel/en/mice/general-information/locations/mice-cities"
+        },
+        {
+          "name": "Kaunas",
+          "description": "A second city stop for urban heritage and regional exploration.",
+          "url": "https://lithuania.travel/en/mice/general-information/locations/mice-cities"
+        },
+        {
+          "name": "Klaipėda",
+          "description": "A port-city base for the Lithuanian coast.",
+          "url": "https://lithuania.travel/en/mice/general-information/locations/mice-cities"
+        },
+        {
+          "name": "Trakai",
+          "description": "A small town suitable for an excursion from Vilnius.",
+          "url": "https://lithuania.travel/en/mice/general-information/locations/mice-cities"
+        },
+        {
+          "name": "Palanga",
+          "description": "A coastal resort town; seaside recreation is seasonal.",
+          "url": "https://lithuania.travel/en/mice/general-information/locations/mice-cities"
+        }
+      ]
+    },
+    "MT": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Valletta",
+          "description": "Capital-city exploration and harbour heritage.",
+          "url": "https://www.visitmalta.com/en/location/valletta/"
+        },
+        {
+          "name": "Mdina",
+          "description": "A historic walled city for a compact cultural visit.",
+          "url": "https://www.visitmalta.com/en/location/mdina/"
+        },
+        {
+          "name": "Victoria",
+          "description": "Gozo’s principal town, also called Rabat.",
+          "url": "https://visitgozo.com/places/ir-rabat-victoria/"
+        }
+      ]
+    },
+    "SI": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Ljubljana",
+          "description": "The capital offers a compact urban and cultural base.",
+          "url": "https://www.slovenia.info/en/places-to-go/cities-and-destinations"
+        },
+        {
+          "name": "Maribor",
+          "description": "A city base near the Pohorje mountains.",
+          "url": "https://www.slovenia.info/en/places-to-go/cities-and-destinations"
+        },
+        {
+          "name": "Koper",
+          "description": "A historic town with Venetian-influenced architecture near the coast.",
+          "url": "https://www.slovenia.info/en/places-to-go/cities-and-destinations"
+        },
+        {
+          "name": "Piran",
+          "description": "A Mediterranean town with medieval streets.",
+          "url": "https://www.slovenia.info/en/places-to-go/cities-and-destinations"
+        },
+        {
+          "name": "Ptuj",
+          "description": "A historic town on the Drava River.",
+          "url": "https://www.slovenia.info/en/places-to-go/cities-and-destinations"
+        }
+      ]
+    },
+    "SK": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Bratislava",
+          "description": "The capital is a starting point for city sightseeing and regional trips.",
+          "url": "https://slovakia.travel/en/about-slovakia/towns"
+        },
+        {
+          "name": "Košice",
+          "description": "An eastern city destination for an urban cultural stay.",
+          "url": "https://slovakia.travel/en/about-slovakia/towns"
+        },
+        {
+          "name": "Banská Bystrica",
+          "description": "A central Slovak city stop.",
+          "url": "https://slovakia.travel/en/about-slovakia/towns"
+        },
+        {
+          "name": "Banská Štiavnica",
+          "description": "A historic town for a smaller-scale cultural itinerary.",
+          "url": "https://slovakia.travel/en/about-slovakia/towns"
+        },
+        {
+          "name": "Bardejov",
+          "description": "A historic town to include in a north-eastern itinerary.",
+          "url": "https://slovakia.travel/en/about-slovakia/towns"
+        }
+      ]
+    },
+    "LI": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Vaduz",
+          "description": "The capital’s central area connects museums and the landmark castle setting.",
+          "url": "https://tourismus.li/entdecken/liechtenstein-weg/gehen/etappe-2.html"
+        },
+        {
+          "name": "Triesenberg",
+          "description": "A village on the Liechtenstein Trail, above the Rhine Valley.",
+          "url": "https://tourismus.li/entdecken/liechtenstein-weg/gehen/etappe-2.html"
+        }
+      ]
+    },
+    "ME": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Kotor",
+          "description": "A Bay of Kotor town base on the official panoramic road itinerary.",
+          "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/MNE/Panoramic_roads_around_Montenegro.pdf"
+        },
+        {
+          "name": "Budva",
+          "description": "A coastal town included in the national road-tour itinerary.",
+          "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/MNE/Panoramic_roads_around_Montenegro.pdf"
+        },
+        {
+          "name": "Cetinje",
+          "description": "An inland town stop near the Lovćen mountain route.",
+          "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/MNE/Panoramic_roads_around_Montenegro.pdf"
+        },
+        {
+          "name": "Herceg Novi",
+          "description": "A northern bay town for a coastal itinerary.",
+          "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/MNE/Panoramic_roads_around_Montenegro.pdf"
+        },
+        {
+          "name": "Bar",
+          "description": "A southern coastal town connecting bay and lake-region excursions.",
+          "url": "https://www.montenegro.travel/uploads/brochures/Panoramic%20Roads/MNE/Panoramic_roads_around_Montenegro.pdf"
+        }
+      ]
+    },
+    "RS": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "Belgrade",
+          "description": "A capital-city stay at the Sava and Danube confluence.",
+          "url": "https://www.serbia.travel/en/cities/"
+        },
+        {
+          "name": "Novi Sad",
+          "description": "A Vojvodina city destination for a relaxed urban stay.",
+          "url": "https://www.serbia.travel/en/cities/"
+        },
+        {
+          "name": "Niš",
+          "description": "A city with a long history at the meeting point of regional routes.",
+          "url": "https://www.serbia.travel/en/cities/"
+        },
+        {
+          "name": "Kragujevac",
+          "description": "A central-city base in the Šumadija region.",
+          "url": "https://www.serbia.travel/en/cities/"
+        }
+      ]
+    },
+    "TR": {
+      "label": "Key cities & towns to explore",
+      "note": "Official national tourism guidance supplies these planning examples. This is not a measured visitor ranking, a city-demand forecast, or a list specific to the selected origin country.",
+      "cities": [
+        {
+          "name": "İstanbul",
+          "description": "Historic neighbourhoods and a major city base on the Bosphorus.",
+          "url": "https://goturkiye.com/"
+        },
+        {
+          "name": "Antalya",
+          "description": "A Mediterranean city base for the surrounding Turkish Riviera.",
+          "url": "https://goturkiye.com/"
+        },
+        {
+          "name": "İzmir",
+          "description": "An Aegean city base for coastal and cultural itineraries.",
+          "url": "https://goturkiye.com/"
+        },
+        {
+          "name": "Ankara",
+          "description": "The capital is an inland city stop for museums and urban heritage.",
+          "url": "https://goturkiye.com/"
+        },
+        {
+          "name": "Bodrum",
+          "description": "A coastal town base with regional seaside excursions.",
+          "url": "https://goturkiye.com/"
+        }
+      ]
+    },
+    "AL": {
+      "label": "Key cities & towns to explore",
+      "note": "Selected cultural towns with UNESCO or official local destination sources. This is a small heritage-focused planning guide, not a comprehensive country itinerary or measured visitor ranking.",
+      "cities": [
+        {
+          "name": "Berat",
+          "description": "A historic centre with a citadel and layered religious and residential heritage.",
+          "url": "https://whc.unesco.org/en/list/569/"
+        },
+        {
+          "name": "Gjirokastër",
+          "description": "A historic town known for its Ottoman-period residential architecture.",
+          "url": "https://whc.unesco.org/en/list/569/"
+        }
+      ]
+    },
+    "MK": {
+      "label": "Key cities & towns to explore",
+      "note": "Selected cultural towns with UNESCO or official local destination sources. This is a small heritage-focused planning guide, not a comprehensive country itinerary or measured visitor ranking.",
+      "cities": [
+        {
+          "name": "Ohrid",
+          "description": "A lakeside town with archaeological and religious heritage within the UNESCO property.",
+          "url": "https://whc.unesco.org/en/list/99/"
+        },
+        {
+          "name": "Struga",
+          "description": "A town on the Crn Drim River at the northern end of Lake Ohrid.",
+          "url": "https://whc.unesco.org/en/list/99/"
+        }
+      ]
+    },
+    "RO": {
+      "label": "Key cities & towns to explore",
+      "note": "Selected cultural towns with UNESCO or official local destination sources. This is a small heritage-focused planning guide, not a comprehensive country itinerary or measured visitor ranking.",
+      "cities": [
+        {
+          "name": "Sighișoara",
+          "description": "A compact fortified medieval town with Transylvanian Saxon heritage.",
+          "url": "https://whc.unesco.org/en/list/902/"
+        },
+        {
+          "name": "Sibiu",
+          "description": "A city base connected with surrounding Transylvanian towns and regional excursions.",
+          "url": "https://www.sibiu-turism.ro/How-to-travel-By-car.aspx"
+        }
+      ]
+    }
+  }
+}

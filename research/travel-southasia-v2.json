@@ -1,0 +1,483 @@
+{
+  "researchedAt": "2026-11-02",
+  "travel": {
+    "LK": {
+      "priority": 110,
+      "period": "2025",
+      "label": "Top 20 inbound tourist source markets",
+      "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf",
+      "inbound": [
+        "India",
+        "United Kingdom",
+        "Russia",
+        "Germany",
+        "China",
+        "Australia",
+        "France",
+        "United States",
+        "Netherlands",
+        "Bangladesh",
+        "Italy",
+        "Poland",
+        "Canada",
+        "Spain",
+        "Japan",
+        "Maldives",
+        "Switzerland",
+        "Israel",
+        "Malaysia",
+        "Pakistan"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 531511,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 212277,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 186580,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 147966,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 132035,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 109487,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 109041,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 65973,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Netherlands",
+          "code": "NL",
+          "value": 64164,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 59563,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 50430,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 49989,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 46133,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 46038,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 38153,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Maldives",
+          "code": "MV",
+          "value": 37165,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 33624,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Israel",
+          "code": "IL",
+          "value": 24591,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 23684,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        },
+        {
+          "country": "Pakistan",
+          "code": "PK",
+          "value": 22296,
+          "url": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf"
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Top 20 tourist arrivals by source country",
+      "inboundUnit": "tourist arrivals",
+      "inboundUrl": "https://www.sltda.gov.lk/storage/common_media/All-Countries-January-to-December-2025.pdf",
+      "inboundScope": "Annual totals from the official all-country arrival table.",
+      "inboundNote": "Ranked numerically from SLTDA Tourist Arrivals from All Countries 2025. The PDF's Rank field is alphabetical row numbering, not a visitor-volume ranking.",
+      "note": "Observed annual 2025 arrivals, not November–December 2026 demand."
+    },
+    "MV": {
+      "priority": 110,
+      "period": "2025",
+      "label": "Top 20 inbound tourist source markets",
+      "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf",
+      "inbound": [
+        "China",
+        "Russia",
+        "United Kingdom",
+        "Germany",
+        "Italy",
+        "India",
+        "United States",
+        "France",
+        "Spain",
+        "Switzerland",
+        "Australia",
+        "South Korea",
+        "Japan",
+        "Poland",
+        "Austria",
+        "Bangladesh",
+        "Saudi Arabia",
+        "Czechia",
+        "Kazakhstan",
+        "Malaysia"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 329110,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 278761,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 202172,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 167822,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 153414,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 131625,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 66443,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 58078,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 55489,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Switzerland",
+          "code": "CH",
+          "value": 43029,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 42073,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 34612,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 34352,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Poland",
+          "code": "PL",
+          "value": 34296,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Austria",
+          "code": "AT",
+          "value": 33238,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 33016,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "value": 29112,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Czechia",
+          "code": "CZ",
+          "value": 28145,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Kazakhstan",
+          "code": "KZ",
+          "value": 25180,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 24847,
+          "url": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf"
+        }
+      ],
+      "inboundPeriod": "2025",
+      "inboundMetricLabel": "Top 20 tourist nationalities",
+      "inboundUnit": "tourist arrivals",
+      "inboundUrl": "https://statisticsmaldives.gov.mv/yearbook/2026/wp-content/uploads/sites/13/2026/06/10.13.pdf",
+      "inboundScope": "Country of nationality, all months of 2025.",
+      "inboundNote": "Ranked from Statistical Yearbook 2026 Table 10.13. Nationality is not residence. Regional totals and Other categories excluded.",
+      "note": "Observed annual 2025 arrivals, not November–December 2026 demand."
+    },
+    "NP": {
+      "priority": 110,
+      "period": "January–December 2025, as published January 2026",
+      "label": "Top 20 among individually reported tourist nationalities",
+      "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf",
+      "inbound": [
+        "India",
+        "United States",
+        "China",
+        "United Kingdom",
+        "Bangladesh",
+        "Australia",
+        "Sri Lanka",
+        "Thailand",
+        "Germany",
+        "Japan",
+        "France",
+        "South Korea",
+        "Malaysia",
+        "Myanmar",
+        "Canada",
+        "Bhutan",
+        "Russia",
+        "Italy",
+        "Spain",
+        "Vietnam"
+      ],
+      "inboundMetrics": [
+        {
+          "country": "India",
+          "code": "IN",
+          "value": 292438,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "United States",
+          "code": "US",
+          "value": 112316,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "China",
+          "code": "CN",
+          "value": 95480,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "value": 58684,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Bangladesh",
+          "code": "BD",
+          "value": 57545,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Australia",
+          "code": "AU",
+          "value": 49357,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Sri Lanka",
+          "code": "LK",
+          "value": 37550,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Thailand",
+          "code": "TH",
+          "value": 30243,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Germany",
+          "code": "DE",
+          "value": 30227,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "value": 24763,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "value": 24493,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "South Korea",
+          "code": "KR",
+          "value": 23591,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "value": 22551,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Myanmar",
+          "code": "MM",
+          "value": 21966,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Canada",
+          "code": "CA",
+          "value": 16962,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Bhutan",
+          "code": "BT",
+          "value": 15491,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "value": 15085,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Italy",
+          "code": "IT",
+          "value": 14867,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Spain",
+          "code": "ES",
+          "value": 13089,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        },
+        {
+          "country": "Vietnam",
+          "code": "VN",
+          "value": 12204,
+          "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+        }
+      ],
+      "inboundPeriod": "January–December 2025, December issue",
+      "inboundMetricLabel": "Top 20 among reported tourist nationalities",
+      "inboundUnit": "tourist arrivals",
+      "inboundUrl": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf",
+      "inboundScope": "Official Nepal Tourism Board December 2025 issue, full-year nationality column; Others category excluded.",
+      "inboundNote": "Annual total in this issue is 1,158,459. Later annual statistics revise the total to 1,162,365; this profile retains the internally consistent earlier country table. Indian land-border visitors are not comprehensively captured in the tourist-arrival series.",
+      "note": "Observed 2025 arrivals as reported in the December issue; not a forecast for November–December 2026."
+    }
+  },
+  "researchNotes": [
+    {
+      "code": "NP",
+      "note": "Used the fully readable Nepal Tourism Board December 2025 issue country table after the later ministry annual PDF timed out. This earlier release totals 1,158,459 and must not be combined with the later revised 1,162,365 aggregate.",
+      "url": "https://trade.ntb.gov.np/wp-content/uploads/2026/01/Nepal-Tourism-Insights-December.pdf"
+    }
+  ]
+}
