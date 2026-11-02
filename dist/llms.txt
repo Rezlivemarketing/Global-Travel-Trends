@@ -13,6 +13,8 @@ A sourced November–December 2026 travel atlas for travel professionals and age
 
 As of 2026-11-02. All selected months are in 2026. Event dateStatus distinguishes a confirmed 2026 programme from fixed annual observances and unconfirmed dates. Completed November events remain labelled in the monthly calendar. A holiday is not evidence of visitor demand. No monthly 2026 travel ranking or forecast is provided. Travel arrays are historical annual context only: read period, label, note, source URL and coverage (residence/nationality/trips differ). Empty arrays mean missing evidence, not zero travel. Do not infer rankings for uncovered countries. The page does not refresh automatically.
 
+Organiser-reference pages are research leads discovered from a public Christmas-market directory. They do not establish confirmed dates and are separated from curated event claims. The wider background corpus includes general travel sources, not only month-specific articles. Distinct source hosts count hostnames, including subdomains, not registrable domains. Search results associated with a country can include related destinations; inspect the source scope.
+
 ## Browser operation
 
 Query parameters: ?country=TH&month=11&tab=events&continent=Asia
