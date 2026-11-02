@@ -49,3 +49,5 @@ assert.equal(travelModule.defaultTravelProfile(data,'IN','outbound').period,'202
 for(const[code,p]of Object.entries(data.relatedEvidence))for(const d of ['inbound','outbound'])for(const x of p[d]){const m=data.travel[x.reporterCode].directions[x.reporterDirection].metrics[x.metricIndex];assert.equal(m.code,code);assert(Number.isFinite(m.value));assert.equal(x.reporterDirection,d==='inbound'?'outbound':'inbound');}
 assert(travelModule.linkedEvidence(data,'AF','inbound').length>0);assert.equal(travelModule.formatMarketValue({value:123.45,estimated:true,precision:2},'DO'),'≈ 123.45');
 console.log(JSON.stringify({placeCoverage:'passed',reviewed:250,guides:246,historicalInbound:181,historicalOutbound:236,referenceReportingDestinations:62}));
+
+assert.equal(data.countries.find(c=>c.code==='UM').guide,'https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands');
