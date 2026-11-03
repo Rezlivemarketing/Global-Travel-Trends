@@ -1,0 +1,1897 @@
+{
+  "version": 1,
+  "updated": "2026-11-03",
+  "editorialNotice": "Editorial selling ideas, not measured demand rankings. Specific services and hotel terms must be checked after login.",
+  "destinations": [
+    {
+      "id": "thailand",
+      "name": "Thailand",
+      "countryCode": "TH",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/thailand.jpg",
+        "alt": "Thailand destination scenery",
+        "kind": "destination"
+      },
+      "whyVisit": "Combine Bangkok culture with a beach stay; November festival programmes add a cultural focus.",
+      "travelWindow": "November–December; check regional beach weather and festival programmes.",
+      "segments": [
+        "Couples",
+        "Families",
+        "Culture travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "City + beach stays",
+          "benefit": "Combine Bangkok with a separate coastal stay."
+        },
+        {
+          "title": "Family beach resorts",
+          "benefit": "Compare room occupancy, meal plans and beach access."
+        },
+        {
+          "title": "Central city hotels",
+          "benefit": "Balance sightseeing access with airport transfer times."
+        }
+      ],
+      "agentSell": "Sell a city-and-beach itinerary with airport transfers and a confirmed sightseeing plan.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Krathong"
+      ],
+      "sourceUrls": [
+        "https://www.tourismthailand.my/weather_m.php"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "countryCode": "VN",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/vietnam.jpg",
+        "alt": "Vietnam destination scenery",
+        "kind": "destination"
+      },
+      "whyVisit": "Heritage cities, food experiences and coastal extensions suit a multi-stop itinerary.",
+      "travelWindow": "November–December; northern, central and southern weather differs.",
+      "segments": [
+        "Couples",
+        "Small groups",
+        "Culture travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Heritage city hotels",
+          "benefit": "Look for a base near the client’s planned walking route."
+        },
+        {
+          "title": "Coastal resorts",
+          "benefit": "Check local weather and resort access for the exact dates."
+        },
+        {
+          "title": "Multi-city hotel combinations",
+          "benefit": "Match hotel nights to the domestic flight or transfer plan."
+        }
+      ],
+      "agentSell": "Build Hanoi or Ho Chi Minh City stays with a tailored cultural programme.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [],
+      "sourceUrls": [
+        "https://vietnam.travel/things-to-do/vietnam-monthly-guide/"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "dubai",
+      "name": "Dubai",
+      "countryCode": "AE",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/dubai.jpg",
+        "alt": "Dubai destination scenery",
+        "kind": "destination"
+      },
+      "whyVisit": "Shopping, city attractions and scheduled sporting events offer distinct itinerary themes.",
+      "travelWindow": "November–December; align dates to the selected event.",
+      "segments": [
+        "Families",
+        "Sports fans",
+        "Shopping travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "City hotels near planned attractions",
+          "benefit": "Choose location by the client’s programme, not a generic distance claim."
+        },
+        {
+          "title": "Family beach resorts",
+          "benefit": "Compare beach access, room configuration and meals."
+        },
+        {
+          "title": "Event-area hotels",
+          "benefit": "Verify the venue, transport plan and transfer times before quoting."
+        }
+      ],
+      "agentSell": "Sell hotel + airport transfer + pre-selected attractions; keep event tickets separately confirmed.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Dubai"
+      ],
+      "sourceUrls": [
+        "https://www.visitdubai.com/en/plan-your-trip/weather-in-dubai"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "countryCode": "AE",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/tokyo.jpg",
+        "alt": "Asia regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "The Grand Prix, cultural sites and island attractions support event-led and leisure stays.",
+      "travelWindow": "Late November–December; use the verified Grand Prix dates below.",
+      "segments": [
+        "Sports fans",
+        "Families",
+        "Luxury travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Yas Island event-access hotels",
+          "benefit": "Confirm actual travel time to the venue and event-day transport."
+        },
+        {
+          "title": "City cultural stays",
+          "benefit": "Plan museum visits and city sightseeing around opening times."
+        },
+        {
+          "title": "Beach and island resorts",
+          "benefit": "Check room, meal and transfer inclusions individually."
+        }
+      ],
+      "agentSell": "Combine an event stay with cultural touring; confirm tickets and any mandatory hotel supplements.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Abu Dhabi"
+      ],
+      "sourceUrls": [
+        "https://www.visitdubai.com/en/plan-your-trip/weather-in-dubai"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "doha",
+      "name": "Doha",
+      "countryCode": "QA",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/tokyo.jpg",
+        "alt": "Asia regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Motorsport weekends can be paired with museums, city touring and a short leisure extension.",
+      "travelWindow": "November–December; verify the chosen race programme.",
+      "segments": [
+        "Sports fans",
+        "Couples",
+        "Corporate travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "City event-stay hotels",
+          "benefit": "Build the plan around venue access and road arrangements."
+        },
+        {
+          "title": "Luxury waterfront hotels",
+          "benefit": "Compare location and room inclusions for the client’s needs."
+        },
+        {
+          "title": "Stopover city stays",
+          "benefit": "Match arrival times, hotel check-in and sightseeing."
+        }
+      ],
+      "agentSell": "Offer an event stay plus airport transfers and an independently confirmed city tour.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Qatar"
+      ],
+      "sourceUrls": [
+        "https://visitqatar.com/intl-en/about-qatar/climate"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "vienna-markets",
+      "name": "Vienna Christmas Markets",
+      "countryCode": "AT",
+      "continent": "Europe",
+      "image": {
+        "src": "assets/europe.jpg",
+        "alt": "Europe regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Christmas market walks and cultural city breaks provide a clear seasonal itinerary theme.",
+      "travelWindow": "November–December; market opening days differ by venue.",
+      "segments": [
+        "Couples",
+        "Families",
+        "Small groups"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Central Christmas market hotels",
+          "benefit": "Compare walking and public-transport routes to the chosen market."
+        },
+        {
+          "title": "Rail-connected city hotels",
+          "benefit": "Useful for a multi-city itinerary; confirm rail routes separately."
+        },
+        {
+          "title": "Apartment-style family stays",
+          "benefit": "Check room layout, occupancy limits and meal arrangements."
+        }
+      ],
+      "agentSell": "Combine a city hotel with rail and guided sightseeing where available.",
+      "products": [
+        "hotels",
+        "rail",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Christmas",
+        "Krampus"
+      ],
+      "sourceUrls": [
+        "https://www.austria.info/en-us/inspiration/christmas-markets/"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "strasbourg-markets",
+      "name": "Strasbourg Christmas Markets",
+      "countryCode": "FR",
+      "continent": "Europe",
+      "image": {
+        "src": "assets/europe.jpg",
+        "alt": "Europe regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Alsace markets, historic streets and regional touring suit a festive short break.",
+      "travelWindow": "Late November–December; use the official market schedule.",
+      "segments": [
+        "Couples",
+        "Culture travellers",
+        "Small groups"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Old-town access hotels",
+          "benefit": "Verify pedestrian-zone access and luggage arrangements."
+        },
+        {
+          "title": "Station-area hotels",
+          "benefit": "Compare rail access and the route to the market area."
+        },
+        {
+          "title": "Regional touring bases",
+          "benefit": "Plan transport for any additional Alsace towns."
+        }
+      ],
+      "agentSell": "Package a city stay with a verified rail or transfer plan and local sightseeing.",
+      "products": [
+        "hotels",
+        "rail",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Strasbourg"
+      ],
+      "sourceUrls": [
+        "https://parisjetaime.com/eng/article/what-to-do-in-paris-in-december-a1584"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "prague-markets",
+      "name": "Prague Christmas Markets",
+      "countryCode": "CZ",
+      "continent": "Europe",
+      "image": {
+        "src": "assets/europe.jpg",
+        "alt": "Europe regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Old-town markets and cultural sightseeing work well as a stand-alone or rail-linked city break.",
+      "travelWindow": "Late November–December; check opening dates and public holidays.",
+      "segments": [
+        "Couples",
+        "Families",
+        "Culture travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Central Christmas market hotels",
+          "benefit": "Check access to Old Town or Wenceslas Square for the intended programme."
+        },
+        {
+          "title": "Transit-connected hotels",
+          "benefit": "Compare public-transport service during the travel dates."
+        },
+        {
+          "title": "Small-group city hotels",
+          "benefit": "Confirm twin-room availability and group cancellation terms after login."
+        }
+      ],
+      "agentSell": "Sell a market-focused city break with sightseeing and onward rail where suitable.",
+      "products": [
+        "hotels",
+        "rail",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Christmas"
+      ],
+      "sourceUrls": [
+        "https://en.wikivoyage.org/wiki/Czechia"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "goa",
+      "name": "Goa year-end stays",
+      "countryCode": "IN",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/india.jpg",
+        "alt": "India regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Beach stays and year-end celebrations create options for family and couple itineraries.",
+      "travelWindow": "November–December; confirm each resort’s festive programme and supplements.",
+      "segments": [
+        "Families",
+        "Couples",
+        "Groups"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Family-friendly beach resorts",
+          "benefit": "Verify occupancy, meal plans and age-based policies."
+        },
+        {
+          "title": "Couples’ coastal stays",
+          "benefit": "Compare location, room category and beach access."
+        },
+        {
+          "title": "Festive resort stays",
+          "benefit": "Ask for confirmed gala-dinner, minimum-stay and cancellation conditions."
+        }
+      ],
+      "agentSell": "Build a resort stay with airport transfers; check festive supplements before quoting.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Diwali"
+      ],
+      "sourceUrls": [
+        "https://delhitourism.gov.in/aboutus/seasons_of_delhi.html"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan cultural circuit",
+      "countryCode": "IN",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/india.jpg",
+        "alt": "India regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "Heritage cities and cultural programmes offer a multi-city alternative to a beach holiday.",
+      "travelWindow": "November–December; match cultural-event dates and individual city stays.",
+      "segments": [
+        "Culture travellers",
+        "Couples",
+        "Small groups"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Heritage-style city hotels",
+          "benefit": "Verify the property’s actual facilities and access."
+        },
+        {
+          "title": "Multi-city touring hotels",
+          "benefit": "Match nights to a realistic driving and sightseeing schedule."
+        },
+        {
+          "title": "Family city stays",
+          "benefit": "Check occupancy and connecting-room requests with the hotel."
+        }
+      ],
+      "agentSell": "Offer a Jaipur–Jodhpur–Udaipur-style circuit tailored to the client’s pace, with transfers and sightseeing.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [
+        "Pushkar"
+      ],
+      "sourceUrls": [
+        "https://delhitourism.gov.in/aboutus/seasons_of_delhi.html"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "maldives",
+      "name": "Maldives",
+      "countryCode": "MV",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/maldives.jpg",
+        "alt": "Maldives destination scenery",
+        "kind": "destination"
+      },
+      "whyVisit": "Island resort stays suit couples, families and clients seeking a focused leisure holiday.",
+      "travelWindow": "November–December; check weather, transfer schedules and each resort’s festive terms.",
+      "segments": [
+        "Couples",
+        "Families",
+        "Luxury travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Luxury island resorts",
+          "benefit": "Compare the exact villa, meal plan and resort terms."
+        },
+        {
+          "title": "Family island resorts",
+          "benefit": "Check children’s policies and room occupancy."
+        },
+        {
+          "title": "Transfer-compatible resorts",
+          "benefit": "Confirm speedboat, domestic flight or seaplane arrangements and operating hours."
+        }
+      ],
+      "agentSell": "Quote the resort with suitable transfer arrangements and clear inclusions; do not assume transfers are included.",
+      "products": [
+        "hotels",
+        "transfers"
+      ],
+      "eventPatterns": [],
+      "sourceUrls": [
+        "https://en.wikivoyage.org/wiki/Maldives"
+      ],
+      "editorial": true
+    },
+    {
+      "id": "sri-lanka",
+      "name": "Sri Lanka",
+      "countryCode": "LK",
+      "continent": "Asia",
+      "image": {
+        "src": "assets/thailand.jpg",
+        "alt": "Asia regional inspiration photograph",
+        "kind": "regional"
+      },
+      "whyVisit": "A cultural circuit can be paired with a coastal extension for a varied leisure itinerary.",
+      "travelWindow": "November–December; choose the coast and touring route for regional conditions.",
+      "segments": [
+        "Couples",
+        "Families",
+        "Culture travellers"
+      ],
+      "hotelCategories": [
+        {
+          "title": "Cultural touring hotels",
+          "benefit": "Plan hotel nights around realistic journey times."
+        },
+        {
+          "title": "Beach-extension resorts",
+          "benefit": "Compare beach location, board basis and transfers."
+        },
+        {
+          "title": "City arrival stays",
+          "benefit": "Allow for arrival times before a longer touring route."
+        }
+      ],
+      "agentSell": "Sell city + cultural circuit + beach, with confirmed transfers and sightseeing.",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "eventPatterns": [],
+      "sourceUrls": [
+        "https://en.wikivoyage.org/wiki/Sri_Lanka"
+      ],
+      "editorial": true
+    }
+  ],
+  "continents": {
+    "Asia": {
+      "travellers": "Families, couples, culture travellers, corporate and sports groups",
+      "selling": "City + resort combinations, transfers and sightseeing",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "insight": "Use each country’s inbound and outbound tables above, then match the itinerary to a specific city, season and client segment."
+    },
+    "Europe": {
+      "travellers": "Couples, culture travellers, families and corporate delegates",
+      "selling": "Market city breaks, city hotels, rail and sightseeing",
+      "products": [
+        "hotels",
+        "rail",
+        "sightseeing"
+      ],
+      "insight": "Combine the country-market evidence with confirmed event schedules; build realistic connections between cities."
+    },
+    "North America": {
+      "travellers": "Event visitors, families, luxury and corporate travellers",
+      "selling": "City hotels, event extensions, transfers and sightseeing",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "insight": "Keep event tickets, hotel terms and local transport checks separate from historical source-market statistics."
+    },
+    "South America": {
+      "travellers": "Couples, culture travellers and year-end leisure groups",
+      "selling": "City stays, touring and carefully planned event transfers",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "insight": "Use a city-level itinerary and confirmed local programmes alongside the atlas’s country evidence."
+    },
+    "Africa": {
+      "travellers": "Families, sports fans, couples and small touring groups",
+      "selling": "City + touring combinations, transfers and sightseeing",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "insight": "Match routes and accommodation to the exact programme, distances and locally confirmed operating conditions."
+    },
+    "Oceania": {
+      "travellers": "Families, couples and New Year event visitors",
+      "selling": "City stays, touring extensions and transfers",
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "insight": "Use confirmed event access and transport arrangements; dates and annual visitor statistics describe different things."
+    }
+  },
+  "marketPriorities": {
+    "India": [
+      "thailand",
+      "dubai",
+      "goa",
+      "rajasthan",
+      "maldives",
+      "vietnam",
+      "abu-dhabi",
+      "sri-lanka",
+      "doha",
+      "vienna-markets",
+      "strasbourg-markets",
+      "prague-markets"
+    ],
+    "UAE": [
+      "dubai",
+      "abu-dhabi",
+      "vienna-markets",
+      "strasbourg-markets",
+      "prague-markets",
+      "maldives",
+      "thailand",
+      "doha",
+      "vietnam",
+      "goa",
+      "rajasthan",
+      "sri-lanka"
+    ],
+    "Global": [
+      "vienna-markets",
+      "strasbourg-markets",
+      "prague-markets",
+      "thailand",
+      "vietnam",
+      "maldives",
+      "sri-lanka",
+      "dubai",
+      "abu-dhabi",
+      "doha",
+      "goa",
+      "rajasthan"
+    ]
+  },
+  "eventCategories": [
+    "Corporate / MICE",
+    "Sports",
+    "Festivals",
+    "Shopping",
+    "Luxury and Leisure"
+  ],
+  "events": {
+    "DE|MEDICA": {
+      "iso2": "DE",
+      "title": "MEDICA",
+      "category": "Corporate / MICE",
+      "whyVisit": "Meet medical-technology suppliers and build a focused professional itinerary around the trade fair.",
+      "hotelOpportunity": "Consider business hotels or serviced apartments with a practical exhibition-centre commute.",
+      "agentTip": "Confirm attendee registration, meeting times and exhibitor access before quoting; price accommodation separately from fair admission.",
+      "destinationIds": [
+        "dusseldorf"
+      ],
+      "products": [
+        "hotels",
+        "transfers"
+      ],
+      "sourceUrl": "https://www.medica-tradefair.com/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Trade-fair delegate stay",
+        "Airport transfers",
+        "Exhibition transfers",
+        "Corporate group itinerary"
+      ]
+    },
+    "SG|Singapore FinTech Festival": {
+      "iso2": "SG",
+      "title": "Singapore FinTech Festival",
+      "category": "Corporate / MICE",
+      "whyVisit": "Combine fintech conference sessions, exhibition visits and pre-arranged industry meetings.",
+      "hotelOpportunity": "Compare business hotels near Singapore EXPO or with a straightforward transit connection.",
+      "agentTip": "Match the pass to the required sessions and meetings; check group rooming lists and early-arrival needs.",
+      "destinationIds": [
+        "singapore"
+      ],
+      "products": [
+        "hotels",
+        "transfers"
+      ],
+      "sourceUrl": "https://www.fintechfestival.sg/faq",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Delegate accommodation",
+        "Corporate transfers",
+        "Meeting itinerary",
+        "Weekend leisure extension"
+      ]
+    },
+    "US|Formula 1 Las Vegas Grand Prix": {
+      "iso2": "US",
+      "title": "Formula 1 Las Vegas Grand Prix",
+      "category": "Sports",
+      "whyVisit": "Build a motorsport city break around the Las Vegas race weekend.",
+      "hotelOpportunity": "Consider Strip-area full-service hotels or quieter alternatives with a confirmed race-access route.",
+      "agentTip": "Use Las Vegas local dates; verify ticket zones, walking access and road restrictions. A room booking does not guarantee a circuit view.",
+      "destinationIds": [
+        "las-vegas"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.f1lasvegasgp.com/faqs/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Race-ticket city break",
+        "Airport transfers",
+        "Group accommodation",
+        "Leisure extension"
+      ]
+    },
+    "QA|Formula 1 Qatar Grand Prix": {
+      "iso2": "QA",
+      "title": "Formula 1 Qatar Grand Prix",
+      "category": "Sports",
+      "whyVisit": "Combine the Lusail race weekend with a Doha city stay.",
+      "hotelOpportunity": "Compare Doha full-service or apartment-style stays, with circuit transfers quoted separately.",
+      "agentTip": "Verify race-day transport and ticket inclusions; allow time between Doha activities and Lusail sessions.",
+      "destinationIds": [
+        "doha"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.formula1.com/en/racing/2026",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Grand Prix stay",
+        "Circuit transfers",
+        "Doha city tour",
+        "Desert excursion"
+      ]
+    },
+    "AE|Formula 1 Abu Dhabi Grand Prix": {
+      "iso2": "AE",
+      "title": "Formula 1 Abu Dhabi Grand Prix",
+      "category": "Sports",
+      "whyVisit": "Pair the Yas Marina race weekend with an Abu Dhabi short break.",
+      "hotelOpportunity": "Consider Yas Island or central Abu Dhabi hotel categories after comparing the circuit commute.",
+      "agentTip": "Keep accommodation, race access and any entertainment admission distinct. Quote a Dubai extension and intercity transfer as separate components.",
+      "destinationIds": [
+        "abu-dhabi",
+        "dubai"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.formula1.com/en/racing/2026",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Race-weekend package",
+        "Circuit transfers",
+        "Abu Dhabi city stay",
+        "Dubai extension"
+      ]
+    },
+    "AE|Emirates Dubai 7s": {
+      "iso2": "AE",
+      "title": "Emirates Dubai 7s",
+      "category": "Sports",
+      "whyVisit": "Offer a group weekend combining rugby and the wider sports-and-music festival.",
+      "hotelOpportunity": "Compare family rooms, group-friendly full-service hotels or apartments with a pre-arranged stadium transfer plan.",
+      "agentTip": "The festival starts Friday; HSBC international rugby is Saturday–Sunday. Match tickets to the intended days and participant ages.",
+      "destinationIds": [
+        "dubai"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.emiratesdubai7s.com/info/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Supporter group stay",
+        "Stadium transfers",
+        "Family sports weekend",
+        "Dubai leisure extension"
+      ]
+    },
+    "ZA|HSBC SVNS Cape Town": {
+      "iso2": "ZA",
+      "title": "HSBC SVNS Cape Town",
+      "category": "Sports",
+      "whyVisit": "Combine international rugby sevens with a Cape Town city-and-coast itinerary.",
+      "hotelOpportunity": "Consider Green Point, city-centre or waterfront-area hotel categories after comparing stadium access.",
+      "agentTip": "Confirm seating and match days, then allow a separate day for touring; excursion timing depends on local operating conditions.",
+      "destinationIds": [
+        "cape-town"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.svns.com/en/events/cape-town",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Rugby supporter stay",
+        "Stadium transfers",
+        "Cape Peninsula tour",
+        "Winelands extension"
+      ]
+    },
+    "TH|Sukhothai Loy Krathong and Candle Festival": {
+      "iso2": "TH",
+      "title": "Sukhothai Loy Krathong and Candle Festival",
+      "category": "Festivals",
+      "whyVisit": "Experience Sukhothai cultural celebrations, candlelit settings and a locally scheduled performance programme.",
+      "hotelOpportunity": "Consider small heritage-style hotels or practical town stays, with evening transfers included in the quotation.",
+      "agentTip": "The event is in Sukhothai. Treat Bangkok or Phuket as an additional stop, and check local dates and individual performance access.",
+      "destinationIds": [
+        "thailand",
+        "thailand"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://thailand.go.th/events",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Heritage festival itinerary",
+        "Local guided visit",
+        "Evening transfers",
+        "Bangkok extension"
+      ]
+    },
+    "US|Macy's Thanksgiving Day Parade": {
+      "iso2": "US",
+      "title": "Macy's Thanksgiving Day Parade",
+      "category": "Festivals",
+      "whyVisit": "Plan a New York Thanksgiving city break around the parade and seasonal attractions.",
+      "hotelOpportunity": "Consider Manhattan family rooms or apartment-style stays with a practical route to the chosen viewing area.",
+      "agentTip": "Do not promise a parade view with a standard room. Confirm viewing arrangements, holiday restaurant hours and airport-transfer timing.",
+      "destinationIds": [
+        "new-york"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Thanksgiving city break",
+        "Family accommodation",
+        "Sightseeing itinerary",
+        "Shopping extension"
+      ]
+    },
+    "IN|Hornbill Festival": {
+      "iso2": "IN",
+      "title": "Hornbill Festival",
+      "category": "Festivals",
+      "whyVisit": "Build a Nagaland cultural trip around music, craft and festival performances.",
+      "hotelOpportunity": "Consider Kohima-area guesthouses, homestays or small hotels, with Kisama transfers planned in advance.",
+      "agentTip": "Verify the current festival programme and traveller-specific entry requirements through official channels; leave time for the road journey to Kisama.",
+      "destinationIds": [
+        "kohima",
+        "nagaland"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://tourism.nagaland.gov.in/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Cultural festival circuit",
+        "Local guide",
+        "Festival transfers",
+        "Community-led craft visits"
+      ]
+    },
+    "US|Art Basel Miami Beach": {
+      "iso2": "US",
+      "title": "Art Basel Miami Beach",
+      "category": "Luxury and Leisure",
+      "whyVisit": "Combine contemporary art viewing with a curated Miami city break.",
+      "hotelOpportunity": "Compare Miami Beach full-service or design-led hotel categories around the chosen art itinerary.",
+      "agentTip": "Public days and preview access differ; confirm credentials before selling entry. Private guides and transfers are optional quoted services.",
+      "destinationIds": [
+        "miami"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.artbasel.com/Miami-beach?lang=en",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Art-fair city break",
+        "Curated gallery itinerary",
+        "Private transfers",
+        "Beach extension"
+      ]
+    },
+    "AE|Dubai Shopping Festival": {
+      "iso2": "AE",
+      "title": "Dubai Shopping Festival",
+      "category": "Shopping",
+      "whyVisit": "Combine retail outings and the confirmed citywide entertainment programme with a winter city break.",
+      "hotelOpportunity": "Consider centrally connected business, family or apartment-style hotel categories.",
+      "agentTip": "Ask which shopping areas matter to the client and confirm individual promotions and event schedules; advertised offers are not a guaranteed saving.",
+      "destinationIds": [
+        "dubai"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitdubai.com/en/festivals-and-events/dsf",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Shopping city break",
+        "Private shopping transfers",
+        "Family attraction itinerary",
+        "Desert excursion"
+      ]
+    },
+    "AU|Sydney New Year's Eve": {
+      "iso2": "AU",
+      "title": "Sydney New Year's Eve",
+      "category": "Festivals",
+      "whyVisit": "Plan a Sydney Harbour New Year trip around a confirmed vantage point and the wider city stay.",
+      "hotelOpportunity": "Compare city or harbour-area hotel categories against the actual viewing plan and transport route.",
+      "agentTip": "Harbour-view rooms and ticketed vantage points are different products. Verify access, minimum stays and late-night return arrangements before confirming.",
+      "destinationIds": [
+        "sydney"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://transportnsw.info/events/2026/12/sydney-new-years-eve-2026",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "New Year city break",
+        "Vantage-point planning",
+        "Airport transfers",
+        "Coast or wildlife extension"
+      ]
+    },
+    "BR|Rio de Janeiro New Year's Eve / Réveillon": {
+      "iso2": "BR",
+      "title": "Rio de Janeiro New Year's Eve / Réveillon",
+      "category": "Festivals",
+      "whyVisit": "Plan a Rio beach-and-city year-end stay while awaiting the municipal public programme.",
+      "hotelOpportunity": "Consider Copacabana, Ipanema or other well-connected hotel categories after agreeing the evening location.",
+      "agentTip": "Keep the public celebration on a watchlist until the 2026/27 programme is confirmed. Private-party tickets, room views and transfers need separate written inclusions.",
+      "destinationIds": [
+        "rio-de-janeiro"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://riotur.prefeitura.rio/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Year-end beach stay",
+        "City sightseeing",
+        "Private transfers",
+        "Optional verified party admission"
+      ]
+    },
+    "IN|Pushkar Camel Fair": {
+      "iso2": "IN",
+      "title": "Pushkar Camel Fair",
+      "category": "Festivals",
+      "whyVisit": "Combine the Pushkar fair with a Rajasthan cultural itinerary.",
+      "hotelOpportunity": "Compare small town hotels, heritage-style stays or camps only after confirming their operating arrangements.",
+      "agentTip": "Agree which fair activities matter to the client and plan local transfers; accommodation category alone does not establish proximity or programme access.",
+      "destinationIds": [
+        "rajasthan",
+        "rajasthan"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/festivals-and-events/pushkar-camel-fair",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Rajasthan cultural circuit",
+        "Local guide",
+        "Fair transfers",
+        "Jaipur extension"
+      ]
+    },
+    "IN|Diwali / Deepavali": {
+      "iso2": "IN",
+      "title": "Diwali / Deepavali",
+      "category": "Festivals",
+      "whyVisit": "Combine festive neighbourhood walks, local food and cultural visits where public programmes are confirmed.",
+      "hotelOpportunity": "Consider heritage-style city stays or family accommodation suited to the selected Rajasthan or Goa itinerary.",
+      "agentTip": "Traditions vary by place. Confirm local opening hours and any hosted activities rather than promising a uniform nationwide public show.",
+      "destinationIds": [
+        "rajasthan",
+        "goa"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/festivals-and-events/diwali",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Festive cultural stay",
+        "Guided city walk",
+        "Family holiday",
+        "Goa extension"
+      ]
+    },
+    "AE|GITEX GLOBAL": {
+      "iso2": "AE",
+      "title": "GITEX GLOBAL",
+      "category": "Corporate / MICE",
+      "whyVisit": "Build a technology-business itinerary around exhibition visits and pre-arranged meetings.",
+      "hotelOpportunity": "Compare business hotels and serviced apartments against the confirmed 2026 venue and meeting schedule.",
+      "agentTip": "Check current venue details, delegate credentials and exhibitor access; avoid assuming that arrangements from a previous edition still apply.",
+      "destinationIds": [
+        "dubai"
+      ],
+      "products": [
+        "hotels",
+        "transfers"
+      ],
+      "sourceUrl": "https://www.gitex.com/plan-your-visit-2026",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Exhibition delegate stay",
+        "Corporate transfers",
+        "Group rooming plan",
+        "Abu Dhabi extension"
+      ]
+    },
+    "QA|MWC Doha": {
+      "iso2": "QA",
+      "title": "MWC Doha",
+      "category": "Corporate / MICE",
+      "whyVisit": "Combine a communications-industry event visit with client or partner meetings in Doha.",
+      "hotelOpportunity": "Consider business hotel categories with a practical commute to the confirmed venue.",
+      "agentTip": "Validate delegate registration and session access, then quote meeting transport and a leisure extension separately.",
+      "destinationIds": [
+        "doha"
+      ],
+      "products": [
+        "hotels",
+        "transfers"
+      ],
+      "sourceUrl": "https://visitqatar.com/intl-en/events-calendar",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Delegate accommodation",
+        "Corporate transfers",
+        "Meeting itinerary",
+        "Doha leisure extension"
+      ]
+    },
+    "MV|JOALI BEING Tides of Tradition": {
+      "iso2": "MV",
+      "title": "JOALI BEING Tides of Tradition",
+      "category": "Luxury and Leisure",
+      "whyVisit": "Use the listed festive programme as a starting point for a tailored Maldives year-end resort enquiry.",
+      "hotelOpportunity": "Compare island-resort room categories, meal plans and transfer methods against the client brief.",
+      "agentTip": "Confirm the named programme directly with the operator. Do not assume festive meals, activities or transfers are included in the room rate.",
+      "destinationIds": [
+        "maldives"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://events.visitmaldives.com/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Festive island stay",
+        "Meal-plan comparison",
+        "Resort-transfer planning",
+        "Couples or family itinerary"
+      ]
+    },
+    "SG|Christmas on A Great Street": {
+      "iso2": "SG",
+      "title": "Christmas on A Great Street",
+      "category": "Shopping",
+      "whyVisit": "Combine Orchard Road festive lights with shopping, dining and a Singapore city break.",
+      "hotelOpportunity": "Consider Orchard-area or transit-connected family and business hotel categories.",
+      "agentTip": "Confirm individual festive-village opening days and paid attractions separately from the public street-light programme.",
+      "destinationIds": [
+        "singapore"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://christmas.orchardroad.org/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Festive shopping break",
+        "Family city stay",
+        "Private transfers",
+        "Attraction itinerary"
+      ]
+    },
+    "TH|Vijit Chao Phraya": {
+      "iso2": "TH",
+      "title": "Vijit Chao Phraya",
+      "category": "Luxury and Leisure",
+      "whyVisit": "Pair Bangkok riverfront illuminations with an evening city itinerary.",
+      "hotelOpportunity": "Compare riverside and transit-connected hotel categories, with the viewing or dinner plan priced separately.",
+      "agentTip": "Verify the published light-show schedule, boat arrangements and any dinner-cruise inclusions before quoting.",
+      "destinationIds": [
+        "thailand"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://thailand.go.th/events",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Bangkok evening itinerary",
+        "Riverside stay",
+        "Optional cruise enquiry",
+        "Phuket extension"
+      ]
+    },
+    "AT|Vienna Christmas Market at Rathausplatz": {
+      "iso2": "AT",
+      "title": "Vienna Christmas Market at Rathausplatz",
+      "category": "Festivals",
+      "whyVisit": "Combine Vienna Christmas Market at Rathausplatz with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "vienna-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.christkindlmarkt.at/en/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "NO|Bergen Christmas Market": {
+      "iso2": "NO",
+      "title": "Bergen Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Bergen Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://en.visitbergen.com/whats-on/bergen-julemarked-p3708833",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "FI|Helsinki Christmas Market": {
+      "iso2": "FI",
+      "title": "Helsinki Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Helsinki Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://tuomaanmarkkinat.fi/en/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "EE|Tallinn Christmas Market": {
+      "iso2": "EE",
+      "title": "Tallinn Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Tallinn Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://visitestonia.com/en/tallinn-christmas-market",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "EE|Estonian Academy of Arts Christmas Market": {
+      "iso2": "EE",
+      "title": "Estonian Academy of Arts Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Estonian Academy of Arts Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visittallinn.ee/eng/visitor/see-do/events/events",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "EE|Estonian Open Air Museum Christmas Village": {
+      "iso2": "EE",
+      "title": "Estonian Open Air Museum Christmas Village",
+      "category": "Festivals",
+      "whyVisit": "Combine Estonian Open Air Museum Christmas Village with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visittallinn.ee/eng/visitor/see-do/events/events",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "LV|Riga Old Town Christmas Market": {
+      "iso2": "LV",
+      "title": "Riga Old Town Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Riga Old Town Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.liveriga.com/en/2795-riga-christmas-market",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "LT|Vilnius Cathedral Square Christmas Market": {
+      "iso2": "LT",
+      "title": "Vilnius Cathedral Square Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Vilnius Cathedral Square Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.govilnius.lt/christmas-in-vilnius-2026",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "MC|Monaco Christmas Village": {
+      "iso2": "MC",
+      "title": "Monaco Christmas Village",
+      "category": "Festivals",
+      "whyVisit": "Combine Monaco Christmas Village with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.mairie.mc/le-village-de-noel",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "SM|San Marino Christmas of Wonders markets": {
+      "iso2": "SM",
+      "title": "San Marino Christmas of Wonders markets",
+      "category": "Festivals",
+      "whyVisit": "Combine San Marino Christmas of Wonders markets with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitsanmarino.com/pub1/VisitSM/en/contenuto/Il_Natale_delle_-Meraviglie/Mercatini_di_Natale_2026.html",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "LI|Vaduz Christmas Market": {
+      "iso2": "LI",
+      "title": "Vaduz Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Vaduz Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/vaduzer-weihnachtsmarkt/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "CH|Basel Christmas Market": {
+      "iso2": "CH",
+      "title": "Basel Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Basel Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.bs.ch/pd/marketing/messenundmaerkte/weihnachtsmarkt",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "CZ|Prague Old Town Square Christmas Market": {
+      "iso2": "CZ",
+      "title": "Prague Old Town Square Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Prague Old Town Square Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "prague-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://prague.eu/en/akce-kategorie/events/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "CZ|Prague Wenceslas Square Christmas Market": {
+      "iso2": "CZ",
+      "title": "Prague Wenceslas Square Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Prague Wenceslas Square Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "prague-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://prague.eu/en/objevujte/wenceslas-square-vaclavske-namesti/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "CZ|Náměstí Republiky Christmas Market": {
+      "iso2": "CZ",
+      "title": "Náměstí Republiky Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Náměstí Republiky Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "prague-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://prague.eu/en/objevujte/namesti-republiky-square/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "SK|Bratislava Main Christmas Market": {
+      "iso2": "SK",
+      "title": "Bratislava Main Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Bratislava Main Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://bratislavskevianoce.sk/o-vianociach/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "SK|Bratislava Old Market Hall Christmas Market": {
+      "iso2": "SK",
+      "title": "Bratislava Old Market Hall Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Bratislava Old Market Hall Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://staratrznica.sk/sk/vianocnatrznica",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "RO|Craiova Christmas Market": {
+      "iso2": "RO",
+      "title": "Craiova Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Craiova Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://primariacraiova.ro/ro/a/3977/criterii-de-participare-comercian%C8%9Ai-echipamente-agrement--t%C3%82rgul-de-cr%C4%82ciun-craiova-2026-13-noiembrie-2026-%E2%80%93-03-ianuarie-2027",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "SI|Ljubljana Christmas Markets": {
+      "iso2": "SI",
+      "title": "Ljubljana Christmas Markets",
+      "category": "Festivals",
+      "whyVisit": "Combine Ljubljana Christmas Markets with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/christmas-markets-in-ljubljana",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "CY|Cyprus Christmas Villages": {
+      "iso2": "CY",
+      "title": "Cyprus Christmas Villages",
+      "category": "Festivals",
+      "whyVisit": "Combine Cyprus Christmas Villages with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitcyprus.com/christmas-villages-of-cyprus/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "BG|Sofia Christmas Fest": {
+      "iso2": "BG",
+      "title": "Sofia Christmas Fest",
+      "category": "Festivals",
+      "whyVisit": "Combine Sofia Christmas Fest with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitsofia.bg/images/Event_Planners_Guide_Sofia_2026-2027.pdf",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "SE|Skansen Christmas Market": {
+      "iso2": "SE",
+      "title": "Skansen Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Skansen Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.skansen.se/se-och-gora/marknader-temadagar/julmarknad/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "NO|Trondheim Christmas Market": {
+      "iso2": "NO",
+      "title": "Trondheim Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Trondheim Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "NO|Røros Christmas Market": {
+      "iso2": "NO",
+      "title": "Røros Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Røros Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.visitnorway.com/typically-norwegian/christmas/top-destinations/",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "DK|Christmas in Tivoli": {
+      "iso2": "DK",
+      "title": "Christmas in Tivoli",
+      "category": "Festivals",
+      "whyVisit": "Combine Christmas in Tivoli with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "FR|Strasbourg Christmas Market": {
+      "iso2": "FR",
+      "title": "Strasbourg Christmas Market",
+      "category": "Festivals",
+      "whyVisit": "Combine Strasbourg Christmas Market with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "strasbourg-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www.strasbourg.eu/en/web/noel/frequently-asked-questions",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    },
+    "AT|Salzburg Christmas Market Krampus Run": {
+      "iso2": "AT",
+      "title": "Salzburg Christmas Market Krampus Run",
+      "category": "Festivals",
+      "whyVisit": "Combine Salzburg Christmas Market Krampus Run with local food, craft shopping and a winter city or village stay.",
+      "hotelOpportunity": "Consider a central hotel, small inn or apartment-style stay with a practical route to the market.",
+      "agentTip": "Check the market-specific calendar and daily opening times; some operate only on selected days. Quote rail links and any timed attractions separately.",
+      "destinationIds": [
+        "vienna-markets"
+      ],
+      "products": [
+        "hotels",
+        "transfers",
+        "sightseeing"
+      ],
+      "sourceUrl": "https://www2.salzburg.info/en/salzburg/advent/salzburg-christmas-market",
+      "editorialStatus": "Suggested travel products and hotel categories; no measured demand, rates, availability or property amenities asserted",
+      "sellingIdeas": [
+        "Christmas-market city break",
+        "Rail or multi-city circuit",
+        "Local food walk",
+        "Private transfers"
+      ]
+    }
+  },
+  "campaignContinentOrder": {
+    "India": [
+      "Asia",
+      "Europe",
+      "North America",
+      "Africa",
+      "Oceania",
+      "South America"
+    ],
+    "UAE": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "Global": [
+      "Europe",
+      "North America",
+      "Asia",
+      "Africa",
+      "Oceania",
+      "South America"
+    ]
+  },
+  "seasonalProducts": [
+    {
+      "key": "festive-resorts-maldives",
+      "title": "Christmas and New Year island-resort enquiry",
+      "iso2": "MV",
+      "category": "Luxury and Leisure",
+      "destinationIds": [
+        "maldives"
+      ],
+      "whyVisit": "Build a beach or wellbeing holiday around the traveller preferred festive dates.",
+      "hotelOpportunity": "Compare island-resort categories, board plans and air or boat transfers.",
+      "agentTip": "Request the actual festive programme, mandatory meal charges, child policies and minimum stays in writing. No nationwide resort event schedule is asserted.",
+      "products": [
+        "Island resort stay",
+        "Transfer and meal-plan comparison",
+        "Couples itinerary",
+        "Family festive stay"
+      ],
+      "recordType": "Editorial product suggestion, not a dated public event",
+      "dates": null
+    },
+    {
+      "key": "festive-resorts-sri-lanka",
+      "title": "Christmas and New Year coast-and-culture enquiry",
+      "iso2": "LK",
+      "category": "Luxury and Leisure",
+      "destinationIds": [
+        "sri-lanka"
+      ],
+      "whyVisit": "Combine a coastal stay with a tailored Sri Lanka cultural route.",
+      "hotelOpportunity": "Compare beach-resort and small heritage-hotel categories on the chosen route.",
+      "agentTip": "Check local weather, transfer times and each operator festive arrangements; festive entertainment is not assumed to be included.",
+      "products": [
+        "Beach-and-culture itinerary",
+        "Private touring",
+        "Family resort enquiry",
+        "Festive meal-plan comparison"
+      ],
+      "recordType": "Editorial product suggestion, not a dated public event",
+      "dates": null
+    },
+    {
+      "key": "festive-resorts-thailand",
+      "title": "Christmas and New Year Bangkok–Phuket enquiry",
+      "iso2": "TH",
+      "category": "Luxury and Leisure",
+      "destinationIds": [
+        "bangkok",
+        "phuket"
+      ],
+      "whyVisit": "Combine Bangkok city experiences with a Phuket beach stay.",
+      "hotelOpportunity": "Compare city hotels and beach-resort categories across the two stops.",
+      "agentTip": "Confirm domestic travel, hotel-specific festive charges and flight-linked transfers before treating the itinerary as a package.",
+      "products": [
+        "City-and-beach combination",
+        "Private transfers",
+        "Family resort enquiry",
+        "Festive dinner enquiry"
+      ],
+      "recordType": "Editorial product suggestion, not a dated public event",
+      "dates": null
+    },
+    {
+      "key": "festive-resorts-goa",
+      "title": "Christmas and New Year Goa enquiry",
+      "iso2": "IN",
+      "category": "Luxury and Leisure",
+      "destinationIds": [
+        "goa"
+      ],
+      "whyVisit": "Plan a Goa coastal holiday with cultural visits and individually confirmed festive experiences.",
+      "hotelOpportunity": "Compare beach resorts, small boutique stays and family apartment categories.",
+      "agentTip": "Agree the preferred coast and evening atmosphere; obtain written festive meal, minimum-stay and room-occupancy conditions.",
+      "products": [
+        "Goa beach stay",
+        "Family holiday",
+        "Private sightseeing",
+        "Festive dinner enquiry"
+      ],
+      "recordType": "Editorial product suggestion, not a dated public event",
+      "dates": null
+    },
+    {
+      "key": "winter-vietnam-city-combination",
+      "title": "Vietnam year-end city combination",
+      "iso2": "VN",
+      "category": "Luxury and Leisure",
+      "destinationIds": [
+        "hanoi",
+        "ho-chi-minh"
+      ],
+      "whyVisit": "Combine food, neighbourhood walks and cultural visits in two contrasting Vietnamese cities.",
+      "hotelOpportunity": "Compare centrally located city hotels and serviced-apartment categories.",
+      "agentTip": "Hanoi and Ho Chi Minh City have different seasonal conditions; check the route and each city programme rather than applying one nationwide holiday claim.",
+      "products": [
+        "Two-city cultural itinerary",
+        "Food walk",
+        "Private transfers",
+        "Optional leisure extension"
+      ],
+      "recordType": "Editorial product suggestion, not a dated public event",
+      "dates": null
+    }
+  ]
+}

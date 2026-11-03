@@ -1,0 +1,10 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const config=JSON.parse(fs.readFileSync('content/commerce.json','utf8')),integrations=JSON.parse(fs.readFileSync('content/integrations.json','utf8')),hotels=JSON.parse(fs.readFileSync('content/hotels.json','utf8'));
+const ids=new Set(config.destinations.map(d=>d.id));assert.equal(ids.size,config.destinations.length);assert.equal(Object.keys(config.continents).length,6);
+const validUrl=u=>{try{return new URL(u).protocol==='https:';}catch{return false;}};
+for(const d of config.destinations){assert(ids.has(d.id)&&d.name&&d.countryCode&&d.whyVisit&&d.travelWindow&&d.agentSell);assert(config.continents[d.continent]);assert(d.hotelCategories.length>=2&&d.hotelCategories.length<=4);assert(d.products.every(p=>integrations.products[p]));assert(d.sourceUrls.every(validUrl));assert(d.image.src.startsWith('assets/')&&!d.image.src.includes('..'));assert(fs.existsSync('dist/'+d.image.src));}
+for(const m of ['India','UAE','Global']){assert(config.marketPriorities[m]);assert(config.marketPriorities[m].every(id=>ids.has(id)));}
+for(const e of Object.values(config.events)){assert(config.eventCategories.includes(e.category));assert(e.whyVisit&&e.hotelOpportunity&&e.agentTip);assert(validUrl(e.sourceUrl));}
+assert(validUrl(integrations.ctas.login)&&validUrl(integrations.ctas.register));
+for(const h of hotels.hotels){assert(h.id&&['draft','review','approved','retired'].includes(h.status));if(h.status==='approved'){assert(h.approvedBy&&h.verifiedOn&&h.name&&h.location&&h.benefit&&h.sources?.length&&h.sources.every(s=>validUrl(s.url)));assert(h.image?.rights&&h.image?.alt&&h.image?.sourceUrl);assert(h.destinationIds.every(id=>ids.has(id)));if(h.image.src.startsWith('assets/'))assert(fs.existsSync('dist/'+h.image.src));}}
+fs.mkdirSync('dist/data',{recursive:true});for(const name of ['commerce','integrations','hotels'])fs.copyFileSync('content/'+name+'.json','dist/data/'+name+'.json');console.log(JSON.stringify({commerce:'built',destinations:config.destinations.length,approvedProperties:hotels.hotels.filter(h=>h.status==='approved').length,eventMappings:Object.keys(config.events).length}));

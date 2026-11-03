@@ -1,0 +1,83 @@
+{
+  "checked":"2026-11-03",
+  "method":"Read-only unauthenticated public HTTP GETs, HTML inspection and official-site pages. No account login, form submission, registration, booking or API call was made.",
+  "entryPoints":{
+    "login":{
+      "requestedUrl":"https://www.rezlive.com/common/index",
+      "httpStatus":200,
+      "redirects":[],
+      "finalUrl":"https://www.rezlive.com/common/index",
+      "contentType":"text/html; charset=UTF-8",
+      "observedPage":"Public homepage with Agent Login form",
+      "visibleRequiredCredentialTypes":["Agent Code","Username","Password"],
+      "registrationLinkInPage":"/common/index/action/agentregistration?lang=en_US",
+      "localEvidence":"work/rezlive-login.html"
+    },
+    "registration":{
+      "requestedUrl":"https://www.rezlive.com/common/index/action/agentregistration?lang=en_US",
+      "httpStatus":200,
+      "redirects":[],
+      "finalUrl":"https://www.rezlive.com/common/index/action/agentregistration?lang=en_US",
+      "contentType":"text/html; charset=UTF-8",
+      "observedPage":"Agent Registration form",
+      "visibleFieldsSummary":"Agency and contact details, country/city, business classification, preferred currency, IATA status, agent credentials and accounts/reservation/management contact sections. Tax/document fields are also present and may vary by selected country; no assumption that every field applies globally.",
+      "localEvidence":"work/rezlive-registration.html"
+    }
+  },
+  "publicServices":{
+    "source":"https://www.rezlive.com/common/index",
+    "categories":["Hotels and apartments","Sightseeing and tours","Transfers","Rail","Cruise","Car rental"],
+    "additionalServiceMention":{"category":"Travel insurance","url":"https://www.rezlive.com/staticpagesrezlive/b2bhotels.html"},
+    "publicMarketingClaims":[
+      {"claim":"Homepage describes more than 500,000 hotel/apartment offerings worldwide.","url":"https://www.rezlive.com/common/index","classification":"Provider marketing statement; not a property-level inventory export"},
+      {"claim":"B2B hotels page describes over 500,000 hotels and 22,000+ directly contracted hotels.","url":"https://www.rezlive.com/staticpagesrezlive/b2bhotels.html","classification":"Provider marketing statement; the homepage separately mentions20,000+ directly contracted hotels, so do not merge these into a newly verified inventory figure"}
+    ],
+    "publicHotelChainsPage":"https://www.rezlive.com/staticpagesrezlive/b2bhotels.html",
+    "chainPageScope":"The page labels examples as chains and hotels it is connected or connecting with. Examples include Hilton, Jumeirah, Taj and Wyndham; this is not confirmation of any property's live room availability."
+  },
+  "bookingFacts":{
+    "source":"https://www.rezlive.com/staticpagesrezlive/faq.html",
+    "registrationRequired":true,
+    "facts":[
+      "The FAQ says bookings require a registered agent.",
+      "Its availability explanation distinguishes immediately available rooms from on-request rooms, and says particular hotels may be absent for selected dates.",
+      "Nationality must be provided because room restrictions and rates may differ by nationality.",
+      "Rates and availability are dynamic; public marketing or hotel-chain logos do not supply search-specific rates."
+    ],
+    "httpStatus":200,
+    "redirects":[],
+    "localEvidence":"work/rezlive-faq.html"
+  },
+  "apiAndDeepLinks":{
+    "officialIntegrationPage":"https://www.rezlive.com/staticpagesrezlive/xml-connect.html",
+    "httpStatus":200,
+    "redirects":[],
+    "officialLinkedProduct":"https://reztez.com/",
+    "linkedProductHttpStatus":200,
+    "confirmedFacts":[
+      "RezLive's official XML Connection page identifies RezTez as the API product and explicitly links reztez.com.",
+      "It describes hotel content through XML or JSON and an integration/onboarding process.",
+      "RezTez's public page describes registration, a setup call, receipt of API credentials, integration/testing, then going live."
+    ],
+    "publicAuthenticatedBrowserDeepLinkContractFound":false,
+    "deepLinkAssessment":"No published browser URL contract for opening a selected city, property or prefilled hotel search after agent authentication was verified in the reviewed public pages. Do not manufacture query parameters, city IDs, hotel IDs, redirect URLs or authenticated routes. The verified login and registration URLs are the supported public handoff points for this enhancement.",
+    "legacyDocumentationDiscovered":{
+      "url":"https://rezlive.gitbook.io/rezlive-api-doc/search-by-hotel-id",
+      "scope":"Public Rezlive-branded API documentation, using XMLHUB test endpoints. This is an API specification, not a browser booking deep-link specification.",
+      "authenticationDescription":"The page describes x-api-key, AgentCode and UserName requirements; booking/search identifiers come from an authenticated search response.",
+      "currentOfficialLinkageVerified":false,
+      "caution":"The current official site instead points to RezTez. No claim is made that the surfaced legacy GitBook is the currently supported integration contract. Documentation samples, hotel IDs and sample rates are not approved live inventory."
+    },
+    "localEvidence":["work/rezlive-xml-connect.html","work/reztez-public.html"]
+  },
+  "approvedHotelInventory":{
+    "providedOrVerified":false,
+    "propertyLevelInventoryFileFound":false,
+    "scopeOfLocalCheck":"Named hotel/inventory files and property-ID/approvedHotels fields in source research and dist JSON/CSV files; none found in this bounded review.",
+    "liveAvailabilityVerified":false,
+    "ratesVerified":false,
+    "partnerApiCredentialsUsed":false,
+    "conclusion":"The project has official public product claims and verified agent-access URLs, but no approved property-level RezLive feed or date-specific room inventory was supplied or verified. Do not describe editorial destination examples, public chain logos or API documentation samples as available/bookable RezLive hotels."
+  },
+  "applicationModified":false
+}

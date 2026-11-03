@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "ctas": {
+    "login": "https://www.rezlive.com/common/index",
+    "register": "https://www.rezlive.com/common/index/action/agentregistration?lang=en_US",
+    "loginLabel": "Login to Check Agent Rates",
+    "registerLabel": "Not Registered? Become a RezLive Agent",
+    "notice": "B2B access for registered, approved travel agents. Search destination and hotel rates after login."
+  },
+  "analytics": {
+    "mode": "local-hooks",
+    "ga4MeasurementId": null,
+    "approved": false,
+    "consentRequired": true,
+    "queueLimit": 200
+  },
+  "enquiry": {
+    "enabled": false,
+    "approved": false,
+    "endpoint": null,
+    "allowedEndpointOrigins": [],
+    "privacyUrl": null,
+    "notice": "Your business enquiry is sent to RezLive to help with this request. Do not include traveller passport, payment or other sensitive personal information."
+  },
+  "products": {
+    "hotels": {"label": "Hotels", "path": "login"},
+    "transfers": {"label": "Transfers", "path": "login"},
+    "sightseeing": {"label": "Sightseeing", "path": "login"},
+    "rail": {"label": "Rail", "path": "login"},
+    "cruise": {"label": "Cruise", "path": "login"},
+    "car-rental": {"label": "Car rental", "path": "login"}
+  }
+}

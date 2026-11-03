@@ -45,3 +45,8 @@ Original application code MIT. Wikivoyage/Wikipedia contributors: linked attribu
 ## RezLive interface
 
 The interface uses the official RezLive.com logo, observed purple/orange public-site colours and Poppins typography. Booking CTAs open https://www.rezlive.com/. Four destination tabs cover inbound trends, outbound trends, events and country knowledge; the calendar follows the destination workspace. Source definitions and historical labels remain available in disclosures. Brand provenance is in `research/rezlive-brand-sources.json`; photography credits are in `dist/assets/photo-credits.json`.
+
+
+## Agent conversion layer
+
+Twelve editable destination campaigns, official B2B login/registration paths, commercial event filters and consent-gated analytics hooks enhance the existing atlas. No approved hotel inventory or enquiry backend was supplied; public hotel cards and enquiry submissions remain gated. Start with `docs/IMPLEMENTATION.md`, `docs/CONTENT-EDITING.md` and `docs/ANALYTICS.md`. No default environment variables or new dependencies are required.

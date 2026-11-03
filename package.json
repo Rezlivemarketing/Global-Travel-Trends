@@ -4,9 +4,9 @@
   "description": "Interactive November–December 2026 travel intelligence atlas",
   "main": "index.js",
   "scripts": {
-    "build": "node research/build-data.mjs && esbuild src-app.js --bundle --minify --outfile=dist/app.js",
+    "build": "node research/build-data.mjs && node research/build-commerce.mjs && esbuild src-app.js --bundle --minify --outfile=dist/app.js",
     "dev": "node research/dev.mjs",
-    "verify": "node research/verify.mjs"
+    "verify": "node research/verify.mjs && node research/verify-commerce.mjs"
   },
   "keywords": [],
   "author": "",

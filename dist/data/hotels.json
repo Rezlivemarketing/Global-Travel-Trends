@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "instructions": "No approved property inventory was supplied. Draft entries never render publicly. Copy the template, verify the property and image rights, fill all source records, then obtain marketing approval. Do not assert availability, prices or RezLive inventory. Display at most four approved properties for a destination. Stars, facilities, event proximity and inclusions require their own source records. Empty optional fields stay hidden.",
+  "hotels": [],
+  "draftTemplate": {
+    "id": "REPLACE-WITH-STABLE-HOTEL-ID",
+    "status": "draft",
+    "approvedBy": null,
+    "verifiedOn": null,
+    "name": null,
+    "countryCode": null,
+    "destinationIds": [],
+    "location": null,
+    "image": {"src": null, "alt": null, "rights": null, "sourceUrl": null},
+    "benefit": null,
+    "segments": [],
+    "stars": null,
+    "starsSource": null,
+    "facilities": [],
+    "eventProximity": [],
+    "sources": [],
+    "eventKeys": [],
+    "booking": {"kind": "official-login", "verifiedHotelDeepLink": null, "deepLinkEvidence": null}
+  }
+}

@@ -55,5 +55,47 @@
     "photographer": "Hongbin",
     "license": "Unsplash License https://unsplash.com/license",
     "note": "Great Wall of China destination photography; not an event photograph."
+  },
+  {
+    "file": "vietnam.jpg",
+    "source": "https://unsplash.com/photos/boats-on-turquoise-ha-long-bay-kG7pOXbBfNs",
+    "image": "https://images.unsplash.com/photo-1643029891412-92f9a81a8c16?fm=jpg&fit=max&w=1000&q=75",
+    "photographer": "Marina Lobato",
+    "location": "Ha Long, Ha Long, Vietnam",
+    "note": "Verified Ha Long Bay destination image; not a hotel or festival photograph.",
+    "license": "Unsplash License https://unsplash.com/license",
+    "verified": "2026-11-03",
+    "licenseEvidence": "Individual Unsplash photo page explicitly states Free to use under the Unsplash License",
+    "width": 1000,
+    "quality": 75,
+    "bytes": 159736
+  },
+  {
+    "file": "dubai.jpg",
+    "source": "https://unsplash.com/photos/dubais-skyline-featuring-the-burj-khalifa-lMo2HjtoUpM",
+    "image": "https://images.unsplash.com/photo-1745750434535-5943ef2fd31a?fm=jpg&fit=max&w=1000&q=75",
+    "photographer": "Sirav Talwar",
+    "location": "Business Bay, Dubai, United Arab Emirates",
+    "note": "Verified Dubai skyline with Burj Khalifa; not a hotel-availability or event photograph.",
+    "license": "Unsplash License https://unsplash.com/license",
+    "verified": "2026-11-03",
+    "licenseEvidence": "Individual Unsplash photo page explicitly states Free to use under the Unsplash License",
+    "width": 1000,
+    "quality": 75,
+    "bytes": 158889
+  },
+  {
+    "file": "maldives.jpg",
+    "source": "https://unsplash.com/photos/an-aerial-view-of-an-island-in-the-middle-of-the-ocean-wg0m0T8jJrU",
+    "image": "https://images.unsplash.com/photo-1710580225858-7f5f6e599a0c?fm=jpg&fit=max&w=1000&q=75",
+    "photographer": "Hamdhulla Shakeeb",
+    "location": "Maldives",
+    "note": "Verified Maldives island aerial; no particular resort or bookable hotel is identified.",
+    "license": "Unsplash License https://unsplash.com/license",
+    "verified": "2026-11-03",
+    "licenseEvidence": "Individual Unsplash photo page explicitly states Free to use under the Unsplash License",
+    "width": 1000,
+    "quality": 75,
+    "bytes": 196051
   }
 ]

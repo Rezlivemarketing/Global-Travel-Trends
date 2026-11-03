@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RezLive trusted backend confirmed booking attribution (not a public endpoint)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "eventId", "bookingReference", "status", "occurredAt", "currency", "campaign"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "eventId": {"type": "string", "minLength": 1, "description": "Idempotency key assigned by trusted backend"},
+    "bookingReference": {"type": "string", "minLength": 1, "description": "Opaque internal reference, never exposed to the public site"},
+    "status": {"enum": ["confirmed", "cancelled", "adjusted"]},
+    "occurredAt": {"type": "string", "format": "date-time"},
+    "currency": {"type": "string", "pattern": "^[A-Z]{3}$"},
+    "bookingValue": {"type": "number"},
+    "contributionProfit": {"type": "number", "description": "Approved company definition required; negative adjustments permitted"},
+    "campaign": {"type": "object", "additionalProperties": false, "properties": {"utm_source": {"type": "string"}, "utm_medium": {"type": "string"}, "utm_campaign": {"type": "string"}, "utm_content": {"type": "string"}}},
+    "attributionModel": {"type": "string", "description": "Company-approved model/window identifier"}
+  }
+}

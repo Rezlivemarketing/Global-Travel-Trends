@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "iso2": "DE",
+      "title": "MEDICA",
+      "start": "2026-11-16",
+      "end": "2026-11-19",
+      "month": [
+        11
+      ],
+      "url": "https://www.medica-tradefair.com/",
+      "dateStatus": "2026 dates confirmed by organiser; exhibition November 16–19, not stand-build dates",
+      "description": "The medical technology and healthcare trade fair takes place at the Düsseldorf Exhibition Centre, bringing industry exhibitors and professional visitors together."
+    },
+    {
+      "iso2": "SG",
+      "title": "Singapore FinTech Festival",
+      "start": "2026-11-18",
+      "end": "2026-11-20",
+      "month": [
+        11
+      ],
+      "url": "https://www.fintechfestival.sg/faq",
+      "dateStatus": "2026 dates and Singapore EXPO venue confirmed by organiser FAQ",
+      "description": "Singapore EXPO hosts the financial-technology festival with conference, exhibition and industry-meeting activity. Registration and pass inclusions vary."
+    },
+    {
+      "iso2": "US",
+      "title": "Formula 1 Las Vegas Grand Prix",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "month": [
+        11
+      ],
+      "url": "https://www.f1lasvegasgp.com/faqs/",
+      "dateStatus": "2026 local Las Vegas dates confirmed by race organiser; UTC race widgets may display November 22",
+      "description": "The Las Vegas Strip Circuit stages the Formula 1 race weekend on local dates November 19–21. Use the organiser schedule and local time zone when arranging attendance and transfers."
+    },
+    {
+      "iso2": "AE",
+      "title": "Emirates Dubai 7s",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "month": [
+        11
+      ],
+      "url": "https://www.emiratesdubai7s.com/info/",
+      "dateStatus": "2026 festival November 27–29 confirmed by organiser; HSBC SVNS international rugby November 28–29",
+      "description": "The Sevens Stadium hosts a sports-and-music festival across three days. International HSBC SVNS rugby is on Saturday and Sunday; Friday has a different sports and entertainment programme."
+    },
+    {
+      "iso2": "ZA",
+      "title": "HSBC SVNS Cape Town",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "month": [
+        12
+      ],
+      "url": "https://www.svns.com/en/events/cape-town",
+      "dateStatus": "2026 dates confirmed by World Rugby SVNS and SA Rugby",
+      "description": "The rugby sevens tournament returns to Cape Town for a two-day competition at DHL Stadium. Check the current competition and ticket schedule rather than prior-season results displayed on the event page."
+    },
+    {
+      "iso2": "IN",
+      "title": "Hornbill Festival",
+      "start": "2026-12-01",
+      "end": "2026-12-10",
+      "month": [
+        12
+      ],
+      "url": "https://tourism.nagaland.gov.in/",
+      "dateStatus": "2026 dates confirmed by Government of Nagaland tourism calendar",
+      "description": "Nagaland celebrates its cultural heritage through the ten-day Hornbill Festival. Kisama near Kohima hosts the central festival setting; individual cultural and music programmes have separate schedules."
+    },
+    {
+      "iso2": "BR",
+      "title": "Rio de Janeiro New Year's Eve / Réveillon",
+      "start": null,
+      "end": null,
+      "month": [
+        12
+      ],
+      "url": "https://riotur.prefeitura.rio/",
+      "dateStatus": "Annual year-end watchlist; specific 2026/27 municipal programme not verified, so event dates remain unset",
+      "description": "Rio has an established New Year celebration tradition. The linked municipal tourism source does not yet verify the coming 2026/27 public programme in this research. Do not confuse private ticketed Jockey Club parties with the Copacabana public celebration."
+    }
+  ],
+  "researchNotes": [
+    "Primary-source event checks completed on 2026-11-03. Existing 268 atlas event dates were not modified.",
+    "Cape Town date cross-check: https://springboks.rugby/news-features/articles/2026/7/29/dates-locked-in-for-another-sevens-extravaganza-in-cape-town .",
+    "Dubai international rugby dates are November 28–29 inside the November 27–29 festival: https://www.svns.com/en/fixtures-and-results/svns .",
+    "MEDICA written organiser date evidence: https://www.medica-tradefair.com/cgi-bin/md_medica/lib/all/lob/return_download.cgi/pm02e_topics_formats_2026.pdf?bid=24797&no_mime_type=0&ticket=g_u_e_s_t .",
+    "Rio 2027 Copacabana public schedule remains unverified; a separately listed private Jockey Club event is not evidence for the public programme."
+  ]
+}
