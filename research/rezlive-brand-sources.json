@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-03",
+  "officialSite": "https://www.rezlive.com/",
+  "logo": {
+    "sourceUrl": "https://www.rezlive.com/rezlive7/images/logo.png",
+    "localFile": "dist/assets/rezlive-logo.png",
+    "format": "PNG with transparency",
+    "width": 298,
+    "height": 100,
+    "sha256": "5594d102607a33c0dc594c0bbd14aa44bf4789d36afc885da3b19d5d10c155ed",
+    "provenance": "The public official homepage header contains this image inside div.logo. Downloaded unchanged and visually inspected. It includes the RezLive.com wordmark and award-winning global reservation-system tagline.",
+    "rights": "Official public branding asset retained unchanged for the user-authorized RezLive rebrand and brand identification. The official page states all rights reserved; no general open-content licence is claimed."
+  },
+  "logoColors": {
+    "orange": "#F39E1D",
+    "blue": "#359AC4",
+    "taglineGray": "#6F6F6E",
+    "method": "Most frequent fully opaque pixels in the unmodified official PNG; these are observed asset values, not a published brand-standard specification."
+  },
+  "websiteTheme": {
+    "primaryPurple": "#2D117B",
+    "buttonOrange": "#F99F24",
+    "background": "#FFFFFF",
+    "bodyText": "#000000",
+    "mutedText": "#4C4C4C",
+    "inputBorder": "#D0D0D0",
+    "font": "Poppins, sans-serif",
+    "fontWeights": "Body400; primary .cmn-btn600",
+    "evidence": [
+      {
+        "url": "https://www.rezlive.com/rezlive7/css/style.css",
+        "selector": "body",
+        "value": "font-family:'Poppins',sans-serif!important; color:#000000; background:#ffffff; font-weight:400"
+      },
+      {
+        "url": "https://www.rezlive.com/rezlive7/css/style.css",
+        "selector": "h1,h2,h3,h4,h5,h6 and a",
+        "value": "color:#2d117b"
+      },
+      {
+        "url": "https://www.rezlive.com/rezlive7/css/style.css",
+        "selector": ".cmn-btn",
+        "value": "background:#f99f24; color:#fff; font-weight:600; border-radius:30px"
+      },
+      {
+        "url": "https://www.rezlive.com/rezlive7/css/rezheader.css",
+        "selector": "navigation active/button rules",
+        "value": "background:#2d117b; hover accent:#f99f24"
+      }
+    ],
+    "campaignFonts": "The homepage also loads Inter and Lilita One for promotional banners; these do not replace the declared Poppins body/interface font.",
+    "scope": "These values reflect the live public site's CSS and PNG inspected on the checked date. The logo's blue/orange colours differ from the site's purple/orange interface theme."
+  },
+  "localEvidence": [
+    "work/rezlive-home.html",
+    "work/rezlive-style.css",
+    "work/rezlive-newstyle.css",
+    "work/rezlive-rezheader.css",
+    "work/rezlive-font.css"
+  ],
+  "appOrCssEdited": false
+}

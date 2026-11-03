@@ -1,4 +1,4 @@
-# Global Trendes
+# RezLive Global Trends
 
 Interactive November–December2026 travel atlas. Live: https://rezlivemarketing.github.io/Global-Travel-Trends/
 
@@ -40,3 +40,8 @@ Research bundles preserve exact values, source URLs, periods, populations and ex
 ## Attribution
 
 Original application code MIT. Wikivoyage/Wikipedia contributors: linked attribution; adapted community place descriptions CC BY-SA4.0. Country metadata mledoze/countries ODbL; NaturalEarth geography public domain; date-holidays ISC; WorldBank annual archive CC BY4.0; Eurostat EuropeanCommission reuse policy. Other statistical facts retain individual publication references and definitions. Photography: UnsplashLicense, dist/assets/photo-credits.json. Regional mood imagery need not depict the selected place/event. Reference boundaries and inclusion do not imply a sovereignty position.
+
+
+## RezLive interface
+
+The interface uses the official RezLive.com logo, observed purple/orange public-site colours and Poppins typography. Booking CTAs open https://www.rezlive.com/. Four destination tabs cover inbound trends, outbound trends, events and country knowledge; the calendar follows the destination workspace. Source definitions and historical labels remain available in disclosures. Brand provenance is in `research/rezlive-brand-sources.json`; photography credits are in `dist/assets/photo-credits.json`.
